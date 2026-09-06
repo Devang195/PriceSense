@@ -1,0 +1,3651 @@
+product_id,product_name,category,date,price,discount_percent
+P001,Wireless Headphones,Audio,2025-01-01,8164.21,0.0
+P001,Wireless Headphones,Audio,2025-01-02,7946.08,0.0
+P001,Wireless Headphones,Audio,2025-01-03,8037.84,0.0
+P001,Wireless Headphones,Audio,2025-01-04,7983.42,0.0
+P001,Wireless Headphones,Audio,2025-01-05,8137.05,0.0
+P001,Wireless Headphones,Audio,2025-01-06,8167.66,0.0
+P001,Wireless Headphones,Audio,2025-01-07,7974.03,0.0
+P001,Wireless Headphones,Audio,2025-01-08,7961.51,0.0
+P001,Wireless Headphones,Audio,2025-01-09,8045.77,0.0
+P001,Wireless Headphones,Audio,2025-01-10,7982.21,0.0
+P001,Wireless Headphones,Audio,2025-01-11,8029.73,0.0
+P001,Wireless Headphones,Audio,2025-01-12,8007.74,0.0
+P001,Wireless Headphones,Audio,2025-01-13,8073.59,0.0
+P001,Wireless Headphones,Audio,2025-01-14,8076.82,0.0
+P001,Wireless Headphones,Audio,2025-01-15,7993.4,0.0
+P001,Wireless Headphones,Audio,2025-01-16,7951.24,0.0
+P001,Wireless Headphones,Audio,2025-01-17,8134.65,0.0
+P001,Wireless Headphones,Audio,2025-01-18,7942.57,0.0
+P001,Wireless Headphones,Audio,2025-01-19,8082.58,0.0
+P001,Wireless Headphones,Audio,2025-01-20,8069.18,0.0
+P001,Wireless Headphones,Audio,2025-01-21,8036.24,0.0
+P001,Wireless Headphones,Audio,2025-01-22,8031.86,0.0
+P001,Wireless Headphones,Audio,2025-01-23,8029.24,0.0
+P001,Wireless Headphones,Audio,2025-01-24,8011.17,0.0
+P001,Wireless Headphones,Audio,2025-01-25,8062.19,0.0
+P001,Wireless Headphones,Audio,2025-01-26,7967.82,0.0
+P001,Wireless Headphones,Audio,2025-01-27,7934.1,0.0
+P001,Wireless Headphones,Audio,2025-01-28,8135.83,0.0
+P001,Wireless Headphones,Audio,2025-01-29,8082.2,0.0
+P001,Wireless Headphones,Audio,2025-01-30,7954.04,0.0
+P001,Wireless Headphones,Audio,2025-01-31,8039.39,0.0
+P001,Wireless Headphones,Audio,2025-02-01,8056.22,0.0
+P001,Wireless Headphones,Audio,2025-02-02,7500.82,6.93
+P001,Wireless Headphones,Audio,2025-02-03,7851.53,0.0
+P001,Wireless Headphones,Audio,2025-02-04,7882.69,0.0
+P001,Wireless Headphones,Audio,2025-02-05,7981.6,0.0
+P001,Wireless Headphones,Audio,2025-02-06,7923.92,0.0
+P001,Wireless Headphones,Audio,2025-02-07,8021.99,0.0
+P001,Wireless Headphones,Audio,2025-02-08,8002.81,0.0
+P001,Wireless Headphones,Audio,2025-02-09,7921.16,0.0
+P001,Wireless Headphones,Audio,2025-02-10,7838.28,0.0
+P001,Wireless Headphones,Audio,2025-02-11,7905.08,0.0
+P001,Wireless Headphones,Audio,2025-02-12,7993.38,0.0
+P001,Wireless Headphones,Audio,2025-02-13,8008.22,0.0
+P001,Wireless Headphones,Audio,2025-02-14,7900.85,0.0
+P001,Wireless Headphones,Audio,2025-02-15,7776.67,0.0
+P001,Wireless Headphones,Audio,2025-02-16,7808.85,0.0
+P001,Wireless Headphones,Audio,2025-02-17,7971.39,0.0
+P001,Wireless Headphones,Audio,2025-02-18,7893.95,0.0
+P001,Wireless Headphones,Audio,2025-02-19,7893.3,0.0
+P001,Wireless Headphones,Audio,2025-02-20,7835.16,0.0
+P001,Wireless Headphones,Audio,2025-02-21,7830.89,0.0
+P001,Wireless Headphones,Audio,2025-02-22,8000.08,0.0
+P001,Wireless Headphones,Audio,2025-02-23,7958.48,0.0
+P001,Wireless Headphones,Audio,2025-02-24,7857.14,0.0
+P001,Wireless Headphones,Audio,2025-02-25,7918.52,0.0
+P001,Wireless Headphones,Audio,2025-02-26,7931.38,0.0
+P001,Wireless Headphones,Audio,2025-02-27,8060.29,0.0
+P001,Wireless Headphones,Audio,2025-02-28,7805.82,0.0
+P001,Wireless Headphones,Audio,2025-03-01,7922.73,0.0
+P001,Wireless Headphones,Audio,2025-03-02,7979.36,0.0
+P001,Wireless Headphones,Audio,2025-03-03,8037.29,0.0
+P001,Wireless Headphones,Audio,2025-03-04,7833.08,0.0
+P001,Wireless Headphones,Audio,2025-03-05,7854.77,0.0
+P001,Wireless Headphones,Audio,2025-03-06,7950.9,0.0
+P001,Wireless Headphones,Audio,2025-03-07,6884.45,11.63
+P001,Wireless Headphones,Audio,2025-03-08,7965.97,0.0
+P001,Wireless Headphones,Audio,2025-03-09,8163.08,0.0
+P001,Wireless Headphones,Audio,2025-03-10,7786.3,0.0
+P001,Wireless Headphones,Audio,2025-03-11,7904.92,0.0
+P001,Wireless Headphones,Audio,2025-03-12,7837.33,0.0
+P001,Wireless Headphones,Audio,2025-03-13,7861.71,0.0
+P001,Wireless Headphones,Audio,2025-03-14,7888.37,0.0
+P001,Wireless Headphones,Audio,2025-03-15,7772.0,0.0
+P001,Wireless Headphones,Audio,2025-03-16,7822.89,0.0
+P001,Wireless Headphones,Audio,2025-03-17,7894.72,0.0
+P001,Wireless Headphones,Audio,2025-03-18,7878.54,0.0
+P001,Wireless Headphones,Audio,2025-03-19,7816.41,0.0
+P001,Wireless Headphones,Audio,2025-03-20,7770.04,0.0
+P001,Wireless Headphones,Audio,2025-03-21,8065.39,0.0
+P001,Wireless Headphones,Audio,2025-03-22,7940.01,0.0
+P001,Wireless Headphones,Audio,2025-03-23,7947.44,0.0
+P001,Wireless Headphones,Audio,2025-03-24,7841.53,0.0
+P001,Wireless Headphones,Audio,2025-03-25,7792.31,0.0
+P001,Wireless Headphones,Audio,2025-03-26,7810.14,0.0
+P001,Wireless Headphones,Audio,2025-03-27,7729.84,0.0
+P001,Wireless Headphones,Audio,2025-03-28,8002.84,0.0
+P001,Wireless Headphones,Audio,2025-03-29,7838.68,0.0
+P001,Wireless Headphones,Audio,2025-03-30,7974.29,0.0
+P001,Wireless Headphones,Audio,2025-03-31,7808.39,0.0
+P001,Wireless Headphones,Audio,2025-04-01,7887.96,0.0
+P001,Wireless Headphones,Audio,2025-04-02,7863.41,0.0
+P001,Wireless Headphones,Audio,2025-04-03,7713.57,0.0
+P001,Wireless Headphones,Audio,2025-04-04,8009.48,0.0
+P001,Wireless Headphones,Audio,2025-04-05,7806.43,0.0
+P001,Wireless Headphones,Audio,2025-04-06,7736.19,0.0
+P001,Wireless Headphones,Audio,2025-04-07,7903.5,0.0
+P001,Wireless Headphones,Audio,2025-04-08,7840.61,0.0
+P001,Wireless Headphones,Audio,2025-04-09,7872.92,0.0
+P001,Wireless Headphones,Audio,2025-04-10,7848.68,0.0
+P001,Wireless Headphones,Audio,2025-04-11,7642.72,0.0
+P001,Wireless Headphones,Audio,2025-04-12,7758.15,0.0
+P001,Wireless Headphones,Audio,2025-04-13,7754.44,0.0
+P001,Wireless Headphones,Audio,2025-04-14,7926.35,0.0
+P001,Wireless Headphones,Audio,2025-04-15,7841.13,0.0
+P001,Wireless Headphones,Audio,2025-04-16,7884.9,0.0
+P001,Wireless Headphones,Audio,2025-04-17,7806.43,0.0
+P001,Wireless Headphones,Audio,2025-04-18,7889.47,0.0
+P001,Wireless Headphones,Audio,2025-04-19,7822.98,0.0
+P001,Wireless Headphones,Audio,2025-04-20,7816.37,0.0
+P001,Wireless Headphones,Audio,2025-04-21,7854.92,0.0
+P001,Wireless Headphones,Audio,2025-04-22,7846.82,0.0
+P001,Wireless Headphones,Audio,2025-04-23,8080.01,0.0
+P001,Wireless Headphones,Audio,2025-04-24,7756.75,0.0
+P001,Wireless Headphones,Audio,2025-04-25,7698.53,0.0
+P001,Wireless Headphones,Audio,2025-04-26,7869.7,0.0
+P001,Wireless Headphones,Audio,2025-04-27,7769.89,0.0
+P001,Wireless Headphones,Audio,2025-04-28,7634.28,0.0
+P001,Wireless Headphones,Audio,2025-04-29,7739.0,0.0
+P001,Wireless Headphones,Audio,2025-04-30,8053.86,0.0
+P001,Wireless Headphones,Audio,2025-05-01,7758.16,0.0
+P001,Wireless Headphones,Audio,2025-05-02,7674.37,0.0
+P001,Wireless Headphones,Audio,2025-05-03,8048.29,0.0
+P001,Wireless Headphones,Audio,2025-05-04,7739.51,0.0
+P001,Wireless Headphones,Audio,2025-05-05,8124.57,0.0
+P001,Wireless Headphones,Audio,2025-05-06,7811.37,0.0
+P001,Wireless Headphones,Audio,2025-05-07,8013.71,0.0
+P001,Wireless Headphones,Audio,2025-05-08,7825.34,0.0
+P001,Wireless Headphones,Audio,2025-05-09,7891.78,0.0
+P001,Wireless Headphones,Audio,2025-05-10,7838.43,0.0
+P001,Wireless Headphones,Audio,2025-05-11,7829.7,0.0
+P001,Wireless Headphones,Audio,2025-05-12,7876.19,0.0
+P001,Wireless Headphones,Audio,2025-05-13,7900.56,0.0
+P001,Wireless Headphones,Audio,2025-05-14,7871.67,0.0
+P001,Wireless Headphones,Audio,2025-05-15,7863.36,0.0
+P001,Wireless Headphones,Audio,2025-05-16,7790.56,0.0
+P001,Wireless Headphones,Audio,2025-05-17,7852.11,0.0
+P001,Wireless Headphones,Audio,2025-05-18,8014.14,0.0
+P001,Wireless Headphones,Audio,2025-05-19,7791.61,0.0
+P001,Wireless Headphones,Audio,2025-05-20,7891.7,0.0
+P001,Wireless Headphones,Audio,2025-05-21,7982.81,0.0
+P001,Wireless Headphones,Audio,2025-05-22,7916.45,0.0
+P001,Wireless Headphones,Audio,2025-05-23,7961.33,0.0
+P001,Wireless Headphones,Audio,2025-05-24,7767.71,0.0
+P001,Wireless Headphones,Audio,2025-05-25,7901.66,0.0
+P001,Wireless Headphones,Audio,2025-05-26,7850.4,0.0
+P001,Wireless Headphones,Audio,2025-05-27,7856.41,0.0
+P001,Wireless Headphones,Audio,2025-05-28,8024.04,0.0
+P001,Wireless Headphones,Audio,2025-05-29,7862.31,0.0
+P001,Wireless Headphones,Audio,2025-05-30,7915.75,0.0
+P001,Wireless Headphones,Audio,2025-05-31,7721.07,0.0
+P001,Wireless Headphones,Audio,2025-06-01,8057.89,0.0
+P001,Wireless Headphones,Audio,2025-06-02,7977.44,0.0
+P001,Wireless Headphones,Audio,2025-06-03,7891.13,0.0
+P001,Wireless Headphones,Audio,2025-06-04,7867.45,0.0
+P001,Wireless Headphones,Audio,2025-06-05,7958.06,0.0
+P001,Wireless Headphones,Audio,2025-06-06,8017.78,0.0
+P001,Wireless Headphones,Audio,2025-06-07,8074.82,0.0
+P001,Wireless Headphones,Audio,2025-06-08,7989.62,0.0
+P001,Wireless Headphones,Audio,2025-06-09,7919.28,0.0
+P001,Wireless Headphones,Audio,2025-06-10,8010.68,0.0
+P001,Wireless Headphones,Audio,2025-06-11,7993.63,0.0
+P001,Wireless Headphones,Audio,2025-06-12,7928.17,0.0
+P001,Wireless Headphones,Audio,2025-06-13,7996.41,0.0
+P001,Wireless Headphones,Audio,2025-06-14,7997.44,0.0
+P001,Wireless Headphones,Audio,2025-06-15,7923.86,0.0
+P001,Wireless Headphones,Audio,2025-06-16,7883.57,0.0
+P001,Wireless Headphones,Audio,2025-06-17,7997.59,0.0
+P001,Wireless Headphones,Audio,2025-06-18,7842.2,0.0
+P001,Wireless Headphones,Audio,2025-06-19,7825.87,0.0
+P001,Wireless Headphones,Audio,2025-06-20,7975.77,0.0
+P001,Wireless Headphones,Audio,2025-06-21,8007.46,0.0
+P001,Wireless Headphones,Audio,2025-06-22,7981.49,0.0
+P001,Wireless Headphones,Audio,2025-06-23,7995.28,0.0
+P001,Wireless Headphones,Audio,2025-06-24,7760.81,0.0
+P001,Wireless Headphones,Audio,2025-06-25,8018.91,0.0
+P001,Wireless Headphones,Audio,2025-06-26,8107.22,0.0
+P001,Wireless Headphones,Audio,2025-06-27,8050.21,0.0
+P001,Wireless Headphones,Audio,2025-06-28,8050.47,0.0
+P001,Wireless Headphones,Audio,2025-06-29,7998.16,0.0
+P001,Wireless Headphones,Audio,2025-06-30,8005.23,0.0
+P001,Wireless Headphones,Audio,2025-07-01,7968.62,0.0
+P001,Wireless Headphones,Audio,2025-07-02,8023.1,0.0
+P001,Wireless Headphones,Audio,2025-07-03,7888.23,0.0
+P001,Wireless Headphones,Audio,2025-07-04,8135.6,0.0
+P001,Wireless Headphones,Audio,2025-07-05,7918.06,0.0
+P001,Wireless Headphones,Audio,2025-07-06,8081.64,0.0
+P001,Wireless Headphones,Audio,2025-07-07,8131.78,0.0
+P001,Wireless Headphones,Audio,2025-07-08,8088.66,0.0
+P001,Wireless Headphones,Audio,2025-07-09,8234.94,0.0
+P001,Wireless Headphones,Audio,2025-07-10,7822.87,0.0
+P001,Wireless Headphones,Audio,2025-07-11,7974.94,0.0
+P001,Wireless Headphones,Audio,2025-07-12,7310.98,7.09
+P001,Wireless Headphones,Audio,2025-07-13,7872.59,0.0
+P001,Wireless Headphones,Audio,2025-07-14,8072.22,0.0
+P001,Wireless Headphones,Audio,2025-07-15,8060.28,0.0
+P001,Wireless Headphones,Audio,2025-07-16,7815.77,0.0
+P001,Wireless Headphones,Audio,2025-07-17,7995.99,0.0
+P001,Wireless Headphones,Audio,2025-07-18,8112.41,0.0
+P001,Wireless Headphones,Audio,2025-07-19,7985.23,0.0
+P001,Wireless Headphones,Audio,2025-07-20,8125.55,0.0
+P001,Wireless Headphones,Audio,2025-07-21,8107.25,0.0
+P001,Wireless Headphones,Audio,2025-07-22,8042.92,0.0
+P001,Wireless Headphones,Audio,2025-07-23,8142.71,0.0
+P001,Wireless Headphones,Audio,2025-07-24,8117.77,0.0
+P001,Wireless Headphones,Audio,2025-07-25,8060.25,0.0
+P001,Wireless Headphones,Audio,2025-07-26,7884.02,0.0
+P001,Wireless Headphones,Audio,2025-07-27,7936.85,0.0
+P001,Wireless Headphones,Audio,2025-07-28,8017.8,0.0
+P001,Wireless Headphones,Audio,2025-07-29,8059.35,0.0
+P001,Wireless Headphones,Audio,2025-07-30,8195.03,0.0
+P001,Wireless Headphones,Audio,2025-07-31,8087.61,0.0
+P001,Wireless Headphones,Audio,2025-08-01,8088.61,0.0
+P001,Wireless Headphones,Audio,2025-08-02,8110.63,0.0
+P001,Wireless Headphones,Audio,2025-08-03,8048.48,0.0
+P001,Wireless Headphones,Audio,2025-08-04,8024.03,0.0
+P001,Wireless Headphones,Audio,2025-08-05,8190.15,0.0
+P001,Wireless Headphones,Audio,2025-08-06,7984.07,0.0
+P001,Wireless Headphones,Audio,2025-08-07,8020.57,0.0
+P001,Wireless Headphones,Audio,2025-08-08,8111.57,0.0
+P001,Wireless Headphones,Audio,2025-08-09,8216.94,0.0
+P001,Wireless Headphones,Audio,2025-08-10,8080.26,0.0
+P001,Wireless Headphones,Audio,2025-08-11,8072.35,0.0
+P001,Wireless Headphones,Audio,2025-08-12,8120.62,0.0
+P001,Wireless Headphones,Audio,2025-08-13,8177.15,0.0
+P001,Wireless Headphones,Audio,2025-08-14,8113.1,0.0
+P001,Wireless Headphones,Audio,2025-08-15,8252.02,0.0
+P001,Wireless Headphones,Audio,2025-08-16,8260.12,0.0
+P001,Wireless Headphones,Audio,2025-08-17,8144.08,0.0
+P001,Wireless Headphones,Audio,2025-08-18,8347.45,0.0
+P001,Wireless Headphones,Audio,2025-08-19,8170.33,0.0
+P001,Wireless Headphones,Audio,2025-08-20,8270.43,0.0
+P001,Wireless Headphones,Audio,2025-08-21,8202.54,0.0
+P001,Wireless Headphones,Audio,2025-08-22,8204.11,0.0
+P001,Wireless Headphones,Audio,2025-08-23,8024.78,0.0
+P001,Wireless Headphones,Audio,2025-08-24,8073.45,0.0
+P001,Wireless Headphones,Audio,2025-08-25,8155.89,0.0
+P001,Wireless Headphones,Audio,2025-08-26,8293.49,0.0
+P001,Wireless Headphones,Audio,2025-08-27,8223.96,0.0
+P001,Wireless Headphones,Audio,2025-08-28,8166.52,0.0
+P001,Wireless Headphones,Audio,2025-08-29,8256.45,0.0
+P001,Wireless Headphones,Audio,2025-08-30,8302.3,0.0
+P001,Wireless Headphones,Audio,2025-08-31,8203.92,0.0
+P001,Wireless Headphones,Audio,2025-09-01,8227.81,0.0
+P001,Wireless Headphones,Audio,2025-09-02,8218.24,0.0
+P001,Wireless Headphones,Audio,2025-09-03,8207.03,0.0
+P001,Wireless Headphones,Audio,2025-09-04,8140.64,0.0
+P001,Wireless Headphones,Audio,2025-09-05,8136.67,0.0
+P001,Wireless Headphones,Audio,2025-09-06,8280.1,0.0
+P001,Wireless Headphones,Audio,2025-09-07,8328.35,0.0
+P001,Wireless Headphones,Audio,2025-09-08,8199.52,0.0
+P001,Wireless Headphones,Audio,2025-09-09,8200.15,0.0
+P001,Wireless Headphones,Audio,2025-09-10,8056.73,0.0
+P001,Wireless Headphones,Audio,2025-09-11,7246.56,10.44
+P001,Wireless Headphones,Audio,2025-09-12,8323.8,0.0
+P001,Wireless Headphones,Audio,2025-09-13,8096.25,0.0
+P001,Wireless Headphones,Audio,2025-09-14,8190.87,0.0
+P001,Wireless Headphones,Audio,2025-09-15,8287.3,0.0
+P001,Wireless Headphones,Audio,2025-09-16,8292.67,0.0
+P001,Wireless Headphones,Audio,2025-09-17,8221.91,0.0
+P001,Wireless Headphones,Audio,2025-09-18,8244.57,0.0
+P001,Wireless Headphones,Audio,2025-09-19,8288.24,0.0
+P001,Wireless Headphones,Audio,2025-09-20,8191.36,0.0
+P001,Wireless Headphones,Audio,2025-09-21,8416.03,0.0
+P001,Wireless Headphones,Audio,2025-09-22,8176.64,0.0
+P001,Wireless Headphones,Audio,2025-09-23,8245.61,0.0
+P001,Wireless Headphones,Audio,2025-09-24,8223.58,0.0
+P001,Wireless Headphones,Audio,2025-09-25,8280.71,0.0
+P001,Wireless Headphones,Audio,2025-09-26,8420.26,0.0
+P001,Wireless Headphones,Audio,2025-09-27,8181.65,0.0
+P001,Wireless Headphones,Audio,2025-09-28,8317.28,0.0
+P001,Wireless Headphones,Audio,2025-09-29,8336.86,0.0
+P001,Wireless Headphones,Audio,2025-09-30,8387.61,0.0
+P001,Wireless Headphones,Audio,2025-10-01,8117.26,0.0
+P001,Wireless Headphones,Audio,2025-10-02,8263.6,0.0
+P001,Wireless Headphones,Audio,2025-10-03,8301.92,0.0
+P001,Wireless Headphones,Audio,2025-10-04,8347.55,0.0
+P001,Wireless Headphones,Audio,2025-10-05,8313.88,0.0
+P001,Wireless Headphones,Audio,2025-10-06,8257.39,0.0
+P001,Wireless Headphones,Audio,2025-10-07,8168.78,0.0
+P001,Wireless Headphones,Audio,2025-10-08,8204.24,0.0
+P001,Wireless Headphones,Audio,2025-10-09,8295.73,0.0
+P001,Wireless Headphones,Audio,2025-10-10,7212.2,13.76
+P001,Wireless Headphones,Audio,2025-10-11,6362.28,23.77
+P001,Wireless Headphones,Audio,2025-10-12,8287.73,0.0
+P001,Wireless Headphones,Audio,2025-10-13,8313.51,0.0
+P001,Wireless Headphones,Audio,2025-10-14,8416.05,0.0
+P001,Wireless Headphones,Audio,2025-10-15,8065.85,0.0
+P001,Wireless Headphones,Audio,2025-10-16,8195.12,0.0
+P001,Wireless Headphones,Audio,2025-10-17,6511.79,20.45
+P001,Wireless Headphones,Audio,2025-10-18,8454.22,0.0
+P001,Wireless Headphones,Audio,2025-10-19,8475.07,0.0
+P001,Wireless Headphones,Audio,2025-10-20,8142.32,0.0
+P001,Wireless Headphones,Audio,2025-10-21,6500.93,21.21
+P001,Wireless Headphones,Audio,2025-10-22,8131.56,0.0
+P001,Wireless Headphones,Audio,2025-10-23,8424.71,0.0
+P001,Wireless Headphones,Audio,2025-10-24,8354.7,0.0
+P001,Wireless Headphones,Audio,2025-10-25,8141.29,0.0
+P001,Wireless Headphones,Audio,2025-10-26,7505.18,9.86
+P001,Wireless Headphones,Audio,2025-10-27,8226.13,0.0
+P001,Wireless Headphones,Audio,2025-10-28,8326.9,0.0
+P001,Wireless Headphones,Audio,2025-10-29,8261.49,0.0
+P001,Wireless Headphones,Audio,2025-10-30,6863.52,16.75
+P001,Wireless Headphones,Audio,2025-10-31,7039.26,14.82
+P001,Wireless Headphones,Audio,2025-11-01,8072.1,0.0
+P001,Wireless Headphones,Audio,2025-11-02,8264.65,0.0
+P001,Wireless Headphones,Audio,2025-11-03,8275.87,0.0
+P001,Wireless Headphones,Audio,2025-11-04,8358.71,0.0
+P001,Wireless Headphones,Audio,2025-11-05,8369.87,0.0
+P001,Wireless Headphones,Audio,2025-11-06,8270.0,0.0
+P001,Wireless Headphones,Audio,2025-11-07,6689.85,17.77
+P001,Wireless Headphones,Audio,2025-11-08,8478.81,0.0
+P001,Wireless Headphones,Audio,2025-11-09,7030.32,14.21
+P001,Wireless Headphones,Audio,2025-11-10,7728.48,7.08
+P001,Wireless Headphones,Audio,2025-11-11,8137.2,0.0
+P001,Wireless Headphones,Audio,2025-11-12,8266.02,0.0
+P001,Wireless Headphones,Audio,2025-11-13,8143.02,0.0
+P001,Wireless Headphones,Audio,2025-11-14,8051.08,0.0
+P001,Wireless Headphones,Audio,2025-11-15,8227.85,0.0
+P001,Wireless Headphones,Audio,2025-11-16,8328.96,0.0
+P001,Wireless Headphones,Audio,2025-11-17,8334.76,0.0
+P001,Wireless Headphones,Audio,2025-11-18,8371.78,0.0
+P001,Wireless Headphones,Audio,2025-11-19,8242.23,0.0
+P001,Wireless Headphones,Audio,2025-11-20,8249.31,0.0
+P001,Wireless Headphones,Audio,2025-11-21,6953.01,17.56
+P001,Wireless Headphones,Audio,2025-11-22,8318.77,0.0
+P001,Wireless Headphones,Audio,2025-11-23,8071.16,0.0
+P001,Wireless Headphones,Audio,2025-11-24,7361.84,8.7
+P001,Wireless Headphones,Audio,2025-11-25,6964.51,15.74
+P001,Wireless Headphones,Audio,2025-11-26,8184.09,0.0
+P001,Wireless Headphones,Audio,2025-11-27,8187.83,0.0
+P001,Wireless Headphones,Audio,2025-11-28,8258.67,0.0
+P001,Wireless Headphones,Audio,2025-11-29,7851.09,4.01
+P001,Wireless Headphones,Audio,2025-11-30,6802.21,16.64
+P001,Wireless Headphones,Audio,2025-12-01,8340.75,0.0
+P001,Wireless Headphones,Audio,2025-12-02,8175.03,0.0
+P001,Wireless Headphones,Audio,2025-12-03,8379.63,0.0
+P001,Wireless Headphones,Audio,2025-12-04,8125.83,0.0
+P001,Wireless Headphones,Audio,2025-12-05,8407.85,0.0
+P001,Wireless Headphones,Audio,2025-12-06,8339.3,0.0
+P001,Wireless Headphones,Audio,2025-12-07,8156.19,0.0
+P001,Wireless Headphones,Audio,2025-12-08,8267.21,0.0
+P001,Wireless Headphones,Audio,2025-12-09,8241.53,0.0
+P001,Wireless Headphones,Audio,2025-12-10,8272.61,0.0
+P001,Wireless Headphones,Audio,2025-12-11,8332.73,0.0
+P001,Wireless Headphones,Audio,2025-12-12,8037.36,0.0
+P001,Wireless Headphones,Audio,2025-12-13,8364.84,0.0
+P001,Wireless Headphones,Audio,2025-12-14,8070.03,0.0
+P001,Wireless Headphones,Audio,2025-12-15,7519.64,10.68
+P001,Wireless Headphones,Audio,2025-12-16,8208.21,0.0
+P001,Wireless Headphones,Audio,2025-12-17,8242.6,0.0
+P001,Wireless Headphones,Audio,2025-12-18,8141.64,0.0
+P001,Wireless Headphones,Audio,2025-12-19,8407.97,0.0
+P001,Wireless Headphones,Audio,2025-12-20,8145.74,0.0
+P001,Wireless Headphones,Audio,2025-12-21,8293.0,0.0
+P001,Wireless Headphones,Audio,2025-12-22,8349.0,0.0
+P001,Wireless Headphones,Audio,2025-12-23,8297.49,0.0
+P001,Wireless Headphones,Audio,2025-12-24,8256.55,0.0
+P001,Wireless Headphones,Audio,2025-12-25,8229.22,0.0
+P001,Wireless Headphones,Audio,2025-12-26,8095.66,0.0
+P001,Wireless Headphones,Audio,2025-12-27,8381.77,0.0
+P001,Wireless Headphones,Audio,2025-12-28,8237.57,0.0
+P001,Wireless Headphones,Audio,2025-12-29,8211.48,0.0
+P001,Wireless Headphones,Audio,2025-12-30,8102.58,0.0
+P001,Wireless Headphones,Audio,2025-12-31,8210.53,0.0
+P002,Gaming Mouse,Accessories,2025-01-01,2225.68,11.94
+P002,Gaming Mouse,Accessories,2025-01-02,2509.31,0.0
+P002,Gaming Mouse,Accessories,2025-01-03,2497.03,0.0
+P002,Gaming Mouse,Accessories,2025-01-04,2499.85,0.0
+P002,Gaming Mouse,Accessories,2025-01-05,2468.16,0.0
+P002,Gaming Mouse,Accessories,2025-01-06,2518.65,0.0
+P002,Gaming Mouse,Accessories,2025-01-07,2504.5,0.0
+P002,Gaming Mouse,Accessories,2025-01-08,2541.21,0.0
+P002,Gaming Mouse,Accessories,2025-01-09,2511.87,0.0
+P002,Gaming Mouse,Accessories,2025-01-10,2479.46,0.0
+P002,Gaming Mouse,Accessories,2025-01-11,2524.59,0.0
+P002,Gaming Mouse,Accessories,2025-01-12,2547.45,0.0
+P002,Gaming Mouse,Accessories,2025-01-13,2478.4,0.0
+P002,Gaming Mouse,Accessories,2025-01-14,2523.46,0.0
+P002,Gaming Mouse,Accessories,2025-01-15,2269.04,10.16
+P002,Gaming Mouse,Accessories,2025-01-16,2500.58,0.0
+P002,Gaming Mouse,Accessories,2025-01-17,2508.59,0.0
+P002,Gaming Mouse,Accessories,2025-01-18,2530.06,0.0
+P002,Gaming Mouse,Accessories,2025-01-19,2508.65,0.0
+P002,Gaming Mouse,Accessories,2025-01-20,2489.44,0.0
+P002,Gaming Mouse,Accessories,2025-01-21,2469.66,0.0
+P002,Gaming Mouse,Accessories,2025-01-22,2527.62,0.0
+P002,Gaming Mouse,Accessories,2025-01-23,2564.29,0.0
+P002,Gaming Mouse,Accessories,2025-01-24,2540.93,0.0
+P002,Gaming Mouse,Accessories,2025-01-25,2496.41,0.0
+P002,Gaming Mouse,Accessories,2025-01-26,2508.82,0.0
+P002,Gaming Mouse,Accessories,2025-01-27,2522.78,0.0
+P002,Gaming Mouse,Accessories,2025-01-28,2588.81,0.0
+P002,Gaming Mouse,Accessories,2025-01-29,2236.35,11.81
+P002,Gaming Mouse,Accessories,2025-01-30,2533.18,0.0
+P002,Gaming Mouse,Accessories,2025-01-31,2548.07,0.0
+P002,Gaming Mouse,Accessories,2025-02-01,2563.75,0.0
+P002,Gaming Mouse,Accessories,2025-02-02,2568.38,0.0
+P002,Gaming Mouse,Accessories,2025-02-03,2525.73,0.0
+P002,Gaming Mouse,Accessories,2025-02-04,2542.43,0.0
+P002,Gaming Mouse,Accessories,2025-02-05,2542.99,0.0
+P002,Gaming Mouse,Accessories,2025-02-06,2556.38,0.0
+P002,Gaming Mouse,Accessories,2025-02-07,2564.67,0.0
+P002,Gaming Mouse,Accessories,2025-02-08,2502.47,0.0
+P002,Gaming Mouse,Accessories,2025-02-09,2549.27,0.0
+P002,Gaming Mouse,Accessories,2025-02-10,2572.69,0.0
+P002,Gaming Mouse,Accessories,2025-02-11,2536.57,0.0
+P002,Gaming Mouse,Accessories,2025-02-12,2548.36,0.0
+P002,Gaming Mouse,Accessories,2025-02-13,2520.51,0.0
+P002,Gaming Mouse,Accessories,2025-02-14,2553.59,0.0
+P002,Gaming Mouse,Accessories,2025-02-15,2493.92,0.0
+P002,Gaming Mouse,Accessories,2025-02-16,2546.97,0.0
+P002,Gaming Mouse,Accessories,2025-02-17,2553.68,0.0
+P002,Gaming Mouse,Accessories,2025-02-18,2583.85,0.0
+P002,Gaming Mouse,Accessories,2025-02-19,2521.19,0.0
+P002,Gaming Mouse,Accessories,2025-02-20,2565.88,0.0
+P002,Gaming Mouse,Accessories,2025-02-21,2545.15,0.0
+P002,Gaming Mouse,Accessories,2025-02-22,2507.84,0.0
+P002,Gaming Mouse,Accessories,2025-02-23,2543.06,0.0
+P002,Gaming Mouse,Accessories,2025-02-24,2561.77,0.0
+P002,Gaming Mouse,Accessories,2025-02-25,2592.89,0.0
+P002,Gaming Mouse,Accessories,2025-02-26,2536.35,0.0
+P002,Gaming Mouse,Accessories,2025-02-27,2516.94,0.0
+P002,Gaming Mouse,Accessories,2025-02-28,2566.83,0.0
+P002,Gaming Mouse,Accessories,2025-03-01,2612.14,0.0
+P002,Gaming Mouse,Accessories,2025-03-02,2627.02,0.0
+P002,Gaming Mouse,Accessories,2025-03-03,2527.66,0.0
+P002,Gaming Mouse,Accessories,2025-03-04,2534.38,0.0
+P002,Gaming Mouse,Accessories,2025-03-05,2579.24,0.0
+P002,Gaming Mouse,Accessories,2025-03-06,2549.35,0.0
+P002,Gaming Mouse,Accessories,2025-03-07,2603.37,0.0
+P002,Gaming Mouse,Accessories,2025-03-08,2540.41,0.0
+P002,Gaming Mouse,Accessories,2025-03-09,2610.79,0.0
+P002,Gaming Mouse,Accessories,2025-03-10,2560.97,0.0
+P002,Gaming Mouse,Accessories,2025-03-11,2574.66,0.0
+P002,Gaming Mouse,Accessories,2025-03-12,2566.67,0.0
+P002,Gaming Mouse,Accessories,2025-03-13,2567.11,0.0
+P002,Gaming Mouse,Accessories,2025-03-14,2565.76,0.0
+P002,Gaming Mouse,Accessories,2025-03-15,2573.42,0.0
+P002,Gaming Mouse,Accessories,2025-03-16,2608.68,0.0
+P002,Gaming Mouse,Accessories,2025-03-17,2583.49,0.0
+P002,Gaming Mouse,Accessories,2025-03-18,2540.16,0.0
+P002,Gaming Mouse,Accessories,2025-03-19,2603.31,0.0
+P002,Gaming Mouse,Accessories,2025-03-20,2581.88,0.0
+P002,Gaming Mouse,Accessories,2025-03-21,2590.65,0.0
+P002,Gaming Mouse,Accessories,2025-03-22,2585.0,0.0
+P002,Gaming Mouse,Accessories,2025-03-23,2586.76,0.0
+P002,Gaming Mouse,Accessories,2025-03-24,2588.52,0.0
+P002,Gaming Mouse,Accessories,2025-03-25,2525.69,0.0
+P002,Gaming Mouse,Accessories,2025-03-26,2592.0,0.0
+P002,Gaming Mouse,Accessories,2025-03-27,2556.62,0.0
+P002,Gaming Mouse,Accessories,2025-03-28,2563.74,0.0
+P002,Gaming Mouse,Accessories,2025-03-29,2578.45,0.0
+P002,Gaming Mouse,Accessories,2025-03-30,2627.24,0.0
+P002,Gaming Mouse,Accessories,2025-03-31,2548.91,0.0
+P002,Gaming Mouse,Accessories,2025-04-01,2578.1,0.0
+P002,Gaming Mouse,Accessories,2025-04-02,2571.68,0.0
+P002,Gaming Mouse,Accessories,2025-04-03,2607.24,0.0
+P002,Gaming Mouse,Accessories,2025-04-04,2571.19,0.0
+P002,Gaming Mouse,Accessories,2025-04-05,2586.49,0.0
+P002,Gaming Mouse,Accessories,2025-04-06,2549.92,0.0
+P002,Gaming Mouse,Accessories,2025-04-07,2613.12,0.0
+P002,Gaming Mouse,Accessories,2025-04-08,2537.58,0.0
+P002,Gaming Mouse,Accessories,2025-04-09,2594.02,0.0
+P002,Gaming Mouse,Accessories,2025-04-10,2587.04,0.0
+P002,Gaming Mouse,Accessories,2025-04-11,2591.4,0.0
+P002,Gaming Mouse,Accessories,2025-04-12,2538.06,0.0
+P002,Gaming Mouse,Accessories,2025-04-13,2571.08,0.0
+P002,Gaming Mouse,Accessories,2025-04-14,2606.23,0.0
+P002,Gaming Mouse,Accessories,2025-04-15,2633.87,0.0
+P002,Gaming Mouse,Accessories,2025-04-16,2576.7,0.0
+P002,Gaming Mouse,Accessories,2025-04-17,2602.9,0.0
+P002,Gaming Mouse,Accessories,2025-04-18,2583.71,0.0
+P002,Gaming Mouse,Accessories,2025-04-19,2577.89,0.0
+P002,Gaming Mouse,Accessories,2025-04-20,2567.09,0.0
+P002,Gaming Mouse,Accessories,2025-04-21,2579.45,0.0
+P002,Gaming Mouse,Accessories,2025-04-22,2599.28,0.0
+P002,Gaming Mouse,Accessories,2025-04-23,2601.66,0.0
+P002,Gaming Mouse,Accessories,2025-04-24,2466.3,5.94
+P002,Gaming Mouse,Accessories,2025-04-25,2528.91,0.0
+P002,Gaming Mouse,Accessories,2025-04-26,2547.68,0.0
+P002,Gaming Mouse,Accessories,2025-04-27,2569.82,0.0
+P002,Gaming Mouse,Accessories,2025-04-28,2596.33,0.0
+P002,Gaming Mouse,Accessories,2025-04-29,2586.93,0.0
+P002,Gaming Mouse,Accessories,2025-04-30,2595.62,0.0
+P002,Gaming Mouse,Accessories,2025-05-01,2565.88,0.0
+P002,Gaming Mouse,Accessories,2025-05-02,2577.55,0.0
+P002,Gaming Mouse,Accessories,2025-05-03,2607.46,0.0
+P002,Gaming Mouse,Accessories,2025-05-04,2581.81,0.0
+P002,Gaming Mouse,Accessories,2025-05-05,2589.88,0.0
+P002,Gaming Mouse,Accessories,2025-05-06,2574.88,0.0
+P002,Gaming Mouse,Accessories,2025-05-07,2557.77,0.0
+P002,Gaming Mouse,Accessories,2025-05-08,2594.38,0.0
+P002,Gaming Mouse,Accessories,2025-05-09,2602.81,0.0
+P002,Gaming Mouse,Accessories,2025-05-10,2576.2,0.0
+P002,Gaming Mouse,Accessories,2025-05-11,2546.89,0.0
+P002,Gaming Mouse,Accessories,2025-05-12,2588.43,0.0
+P002,Gaming Mouse,Accessories,2025-05-13,2584.77,0.0
+P002,Gaming Mouse,Accessories,2025-05-14,2565.0,0.0
+P002,Gaming Mouse,Accessories,2025-05-15,2643.91,0.0
+P002,Gaming Mouse,Accessories,2025-05-16,2614.18,0.0
+P002,Gaming Mouse,Accessories,2025-05-17,2581.8,0.0
+P002,Gaming Mouse,Accessories,2025-05-18,2582.23,0.0
+P002,Gaming Mouse,Accessories,2025-05-19,2611.9,0.0
+P002,Gaming Mouse,Accessories,2025-05-20,2601.65,0.0
+P002,Gaming Mouse,Accessories,2025-05-21,2565.28,0.0
+P002,Gaming Mouse,Accessories,2025-05-22,2580.1,0.0
+P002,Gaming Mouse,Accessories,2025-05-23,2563.5,0.0
+P002,Gaming Mouse,Accessories,2025-05-24,2531.74,0.0
+P002,Gaming Mouse,Accessories,2025-05-25,2516.74,0.0
+P002,Gaming Mouse,Accessories,2025-05-26,2570.63,0.0
+P002,Gaming Mouse,Accessories,2025-05-27,2647.39,0.0
+P002,Gaming Mouse,Accessories,2025-05-28,2605.49,0.0
+P002,Gaming Mouse,Accessories,2025-05-29,2557.21,0.0
+P002,Gaming Mouse,Accessories,2025-05-30,2562.89,0.0
+P002,Gaming Mouse,Accessories,2025-05-31,2548.06,0.0
+P002,Gaming Mouse,Accessories,2025-06-01,2513.28,0.0
+P002,Gaming Mouse,Accessories,2025-06-02,2550.53,0.0
+P002,Gaming Mouse,Accessories,2025-06-03,2558.34,0.0
+P002,Gaming Mouse,Accessories,2025-06-04,2562.73,0.0
+P002,Gaming Mouse,Accessories,2025-06-05,2593.33,0.0
+P002,Gaming Mouse,Accessories,2025-06-06,2570.61,0.0
+P002,Gaming Mouse,Accessories,2025-06-07,2592.23,0.0
+P002,Gaming Mouse,Accessories,2025-06-08,2572.61,0.0
+P002,Gaming Mouse,Accessories,2025-06-09,2568.98,0.0
+P002,Gaming Mouse,Accessories,2025-06-10,2573.61,0.0
+P002,Gaming Mouse,Accessories,2025-06-11,2527.95,0.0
+P002,Gaming Mouse,Accessories,2025-06-12,2576.16,0.0
+P002,Gaming Mouse,Accessories,2025-06-13,2541.99,0.0
+P002,Gaming Mouse,Accessories,2025-06-14,2542.1,0.0
+P002,Gaming Mouse,Accessories,2025-06-15,2550.84,0.0
+P002,Gaming Mouse,Accessories,2025-06-16,2536.8,0.0
+P002,Gaming Mouse,Accessories,2025-06-17,2517.14,0.0
+P002,Gaming Mouse,Accessories,2025-06-18,2546.03,0.0
+P002,Gaming Mouse,Accessories,2025-06-19,2538.01,0.0
+P002,Gaming Mouse,Accessories,2025-06-20,2366.95,8.87
+P002,Gaming Mouse,Accessories,2025-06-21,2536.05,0.0
+P002,Gaming Mouse,Accessories,2025-06-22,2515.69,0.0
+P002,Gaming Mouse,Accessories,2025-06-23,2521.07,0.0
+P002,Gaming Mouse,Accessories,2025-06-24,2535.82,0.0
+P002,Gaming Mouse,Accessories,2025-06-25,2541.74,0.0
+P002,Gaming Mouse,Accessories,2025-06-26,2536.35,0.0
+P002,Gaming Mouse,Accessories,2025-06-27,2589.69,0.0
+P002,Gaming Mouse,Accessories,2025-06-28,2477.24,0.0
+P002,Gaming Mouse,Accessories,2025-06-29,2536.82,0.0
+P002,Gaming Mouse,Accessories,2025-06-30,2549.7,0.0
+P002,Gaming Mouse,Accessories,2025-07-01,2565.19,0.0
+P002,Gaming Mouse,Accessories,2025-07-02,2539.27,0.0
+P002,Gaming Mouse,Accessories,2025-07-03,2541.05,0.0
+P002,Gaming Mouse,Accessories,2025-07-04,2552.92,0.0
+P002,Gaming Mouse,Accessories,2025-07-05,2531.16,0.0
+P002,Gaming Mouse,Accessories,2025-07-06,2456.75,0.0
+P002,Gaming Mouse,Accessories,2025-07-07,2493.77,0.0
+P002,Gaming Mouse,Accessories,2025-07-08,2520.86,0.0
+P002,Gaming Mouse,Accessories,2025-07-09,2498.08,0.0
+P002,Gaming Mouse,Accessories,2025-07-10,2600.45,0.0
+P002,Gaming Mouse,Accessories,2025-07-11,2513.55,0.0
+P002,Gaming Mouse,Accessories,2025-07-12,2490.57,0.0
+P002,Gaming Mouse,Accessories,2025-07-13,2520.67,0.0
+P002,Gaming Mouse,Accessories,2025-07-14,2520.78,0.0
+P002,Gaming Mouse,Accessories,2025-07-15,2499.62,0.0
+P002,Gaming Mouse,Accessories,2025-07-16,2532.61,0.0
+P002,Gaming Mouse,Accessories,2025-07-17,2481.19,0.0
+P002,Gaming Mouse,Accessories,2025-07-18,2495.95,0.0
+P002,Gaming Mouse,Accessories,2025-07-19,2518.8,0.0
+P002,Gaming Mouse,Accessories,2025-07-20,2508.81,0.0
+P002,Gaming Mouse,Accessories,2025-07-21,2535.86,0.0
+P002,Gaming Mouse,Accessories,2025-07-22,2562.6,0.0
+P002,Gaming Mouse,Accessories,2025-07-23,2508.16,0.0
+P002,Gaming Mouse,Accessories,2025-07-24,2573.05,0.0
+P002,Gaming Mouse,Accessories,2025-07-25,2477.44,0.0
+P002,Gaming Mouse,Accessories,2025-07-26,2558.01,0.0
+P002,Gaming Mouse,Accessories,2025-07-27,2473.04,0.0
+P002,Gaming Mouse,Accessories,2025-07-28,2524.53,0.0
+P002,Gaming Mouse,Accessories,2025-07-29,2491.66,0.0
+P002,Gaming Mouse,Accessories,2025-07-30,2489.06,0.0
+P002,Gaming Mouse,Accessories,2025-07-31,2578.1,0.0
+P002,Gaming Mouse,Accessories,2025-08-01,2535.53,0.0
+P002,Gaming Mouse,Accessories,2025-08-02,2502.64,0.0
+P002,Gaming Mouse,Accessories,2025-08-03,2427.98,0.0
+P002,Gaming Mouse,Accessories,2025-08-04,2452.5,0.0
+P002,Gaming Mouse,Accessories,2025-08-05,2470.25,0.0
+P002,Gaming Mouse,Accessories,2025-08-06,2504.08,0.0
+P002,Gaming Mouse,Accessories,2025-08-07,2517.07,0.0
+P002,Gaming Mouse,Accessories,2025-08-08,2477.06,0.0
+P002,Gaming Mouse,Accessories,2025-08-09,2525.28,0.0
+P002,Gaming Mouse,Accessories,2025-08-10,2519.57,0.0
+P002,Gaming Mouse,Accessories,2025-08-11,2485.68,0.0
+P002,Gaming Mouse,Accessories,2025-08-12,2466.03,0.0
+P002,Gaming Mouse,Accessories,2025-08-13,2432.42,0.0
+P002,Gaming Mouse,Accessories,2025-08-14,2510.15,0.0
+P002,Gaming Mouse,Accessories,2025-08-15,2500.57,0.0
+P002,Gaming Mouse,Accessories,2025-08-16,2517.74,0.0
+P002,Gaming Mouse,Accessories,2025-08-17,2536.94,0.0
+P002,Gaming Mouse,Accessories,2025-08-18,2548.6,0.0
+P002,Gaming Mouse,Accessories,2025-08-19,2528.92,0.0
+P002,Gaming Mouse,Accessories,2025-08-20,2484.71,0.0
+P002,Gaming Mouse,Accessories,2025-08-21,2491.43,0.0
+P002,Gaming Mouse,Accessories,2025-08-22,2525.1,0.0
+P002,Gaming Mouse,Accessories,2025-08-23,2471.72,0.0
+P002,Gaming Mouse,Accessories,2025-08-24,2473.41,0.0
+P002,Gaming Mouse,Accessories,2025-08-25,2517.95,0.0
+P002,Gaming Mouse,Accessories,2025-08-26,2546.47,0.0
+P002,Gaming Mouse,Accessories,2025-08-27,2523.86,0.0
+P002,Gaming Mouse,Accessories,2025-08-28,2517.36,0.0
+P002,Gaming Mouse,Accessories,2025-08-29,2491.63,0.0
+P002,Gaming Mouse,Accessories,2025-08-30,2467.69,0.0
+P002,Gaming Mouse,Accessories,2025-08-31,2511.91,0.0
+P002,Gaming Mouse,Accessories,2025-09-01,2538.17,0.0
+P002,Gaming Mouse,Accessories,2025-09-02,2480.52,0.0
+P002,Gaming Mouse,Accessories,2025-09-03,2472.77,0.0
+P002,Gaming Mouse,Accessories,2025-09-04,2454.76,3.35
+P002,Gaming Mouse,Accessories,2025-09-05,2484.38,0.0
+P002,Gaming Mouse,Accessories,2025-09-06,2425.58,0.0
+P002,Gaming Mouse,Accessories,2025-09-07,2514.3,0.0
+P002,Gaming Mouse,Accessories,2025-09-08,2203.45,10.08
+P002,Gaming Mouse,Accessories,2025-09-09,2550.11,0.0
+P002,Gaming Mouse,Accessories,2025-09-10,2494.94,0.0
+P002,Gaming Mouse,Accessories,2025-09-11,2477.85,0.0
+P002,Gaming Mouse,Accessories,2025-09-12,2497.27,0.0
+P002,Gaming Mouse,Accessories,2025-09-13,2442.16,0.0
+P002,Gaming Mouse,Accessories,2025-09-14,2454.59,0.0
+P002,Gaming Mouse,Accessories,2025-09-15,2490.81,0.0
+P002,Gaming Mouse,Accessories,2025-09-16,2412.78,0.0
+P002,Gaming Mouse,Accessories,2025-09-17,2511.69,0.0
+P002,Gaming Mouse,Accessories,2025-09-18,2414.65,0.0
+P002,Gaming Mouse,Accessories,2025-09-19,2525.99,0.0
+P002,Gaming Mouse,Accessories,2025-09-20,2478.6,0.0
+P002,Gaming Mouse,Accessories,2025-09-21,2513.16,0.0
+P002,Gaming Mouse,Accessories,2025-09-22,2501.18,0.0
+P002,Gaming Mouse,Accessories,2025-09-23,2544.19,0.0
+P002,Gaming Mouse,Accessories,2025-09-24,2256.81,7.68
+P002,Gaming Mouse,Accessories,2025-09-25,2466.48,0.0
+P002,Gaming Mouse,Accessories,2025-09-26,2488.73,0.0
+P002,Gaming Mouse,Accessories,2025-09-27,2496.38,0.0
+P002,Gaming Mouse,Accessories,2025-09-28,2498.45,0.0
+P002,Gaming Mouse,Accessories,2025-09-29,2486.11,0.0
+P002,Gaming Mouse,Accessories,2025-09-30,2433.69,0.0
+P002,Gaming Mouse,Accessories,2025-10-01,1896.11,24.1
+P002,Gaming Mouse,Accessories,2025-10-02,2504.48,0.0
+P002,Gaming Mouse,Accessories,2025-10-03,2484.26,0.0
+P002,Gaming Mouse,Accessories,2025-10-04,2504.09,0.0
+P002,Gaming Mouse,Accessories,2025-10-05,2560.46,0.0
+P002,Gaming Mouse,Accessories,2025-10-06,2015.2,20.0
+P002,Gaming Mouse,Accessories,2025-10-07,2508.66,0.0
+P002,Gaming Mouse,Accessories,2025-10-08,2513.78,0.0
+P002,Gaming Mouse,Accessories,2025-10-09,2481.2,0.0
+P002,Gaming Mouse,Accessories,2025-10-10,2485.23,0.0
+P002,Gaming Mouse,Accessories,2025-10-11,2441.26,0.0
+P002,Gaming Mouse,Accessories,2025-10-12,2504.94,0.0
+P002,Gaming Mouse,Accessories,2025-10-13,2531.41,0.0
+P002,Gaming Mouse,Accessories,2025-10-14,2519.36,0.0
+P002,Gaming Mouse,Accessories,2025-10-15,2494.22,0.0
+P002,Gaming Mouse,Accessories,2025-10-16,2500.74,0.0
+P002,Gaming Mouse,Accessories,2025-10-17,2532.69,0.0
+P002,Gaming Mouse,Accessories,2025-10-18,2491.49,0.0
+P002,Gaming Mouse,Accessories,2025-10-19,2534.41,0.0
+P002,Gaming Mouse,Accessories,2025-10-20,1944.96,21.26
+P002,Gaming Mouse,Accessories,2025-10-21,2481.8,0.0
+P002,Gaming Mouse,Accessories,2025-10-22,2260.76,11.5
+P002,Gaming Mouse,Accessories,2025-10-23,2516.51,0.0
+P002,Gaming Mouse,Accessories,2025-10-24,2490.15,0.0
+P002,Gaming Mouse,Accessories,2025-10-25,2257.7,9.08
+P002,Gaming Mouse,Accessories,2025-10-26,2520.69,0.0
+P002,Gaming Mouse,Accessories,2025-10-27,2489.25,0.0
+P002,Gaming Mouse,Accessories,2025-10-28,2540.3,0.0
+P002,Gaming Mouse,Accessories,2025-10-29,2570.04,0.0
+P002,Gaming Mouse,Accessories,2025-10-30,2504.74,0.0
+P002,Gaming Mouse,Accessories,2025-10-31,2516.35,0.0
+P002,Gaming Mouse,Accessories,2025-11-01,2478.05,0.0
+P002,Gaming Mouse,Accessories,2025-11-02,2525.78,0.0
+P002,Gaming Mouse,Accessories,2025-11-03,1885.99,23.92
+P002,Gaming Mouse,Accessories,2025-11-04,2100.88,16.46
+P002,Gaming Mouse,Accessories,2025-11-05,2419.89,0.0
+P002,Gaming Mouse,Accessories,2025-11-06,2489.42,0.0
+P002,Gaming Mouse,Accessories,2025-11-07,2091.68,18.08
+P002,Gaming Mouse,Accessories,2025-11-08,2580.79,0.0
+P002,Gaming Mouse,Accessories,2025-11-09,2494.12,0.0
+P002,Gaming Mouse,Accessories,2025-11-10,1958.08,21.98
+P002,Gaming Mouse,Accessories,2025-11-11,2510.27,0.0
+P002,Gaming Mouse,Accessories,2025-11-12,2568.14,0.0
+P002,Gaming Mouse,Accessories,2025-11-13,2493.8,0.0
+P002,Gaming Mouse,Accessories,2025-11-14,2546.11,0.0
+P002,Gaming Mouse,Accessories,2025-11-15,2476.63,0.0
+P002,Gaming Mouse,Accessories,2025-11-16,2521.67,0.0
+P002,Gaming Mouse,Accessories,2025-11-17,1994.21,18.66
+P002,Gaming Mouse,Accessories,2025-11-18,2583.21,0.0
+P002,Gaming Mouse,Accessories,2025-11-19,2572.51,0.0
+P002,Gaming Mouse,Accessories,2025-11-20,2525.8,0.0
+P002,Gaming Mouse,Accessories,2025-11-21,2499.12,0.0
+P002,Gaming Mouse,Accessories,2025-11-22,2534.28,0.0
+P002,Gaming Mouse,Accessories,2025-11-23,2524.8,0.0
+P002,Gaming Mouse,Accessories,2025-11-24,2515.94,0.0
+P002,Gaming Mouse,Accessories,2025-11-25,2493.13,0.0
+P002,Gaming Mouse,Accessories,2025-11-26,2511.72,0.0
+P002,Gaming Mouse,Accessories,2025-11-27,2539.7,0.0
+P002,Gaming Mouse,Accessories,2025-11-28,2467.7,0.0
+P002,Gaming Mouse,Accessories,2025-11-29,2535.98,0.0
+P002,Gaming Mouse,Accessories,2025-11-30,2164.21,15.46
+P002,Gaming Mouse,Accessories,2025-12-01,2483.81,0.0
+P002,Gaming Mouse,Accessories,2025-12-02,2513.96,0.0
+P002,Gaming Mouse,Accessories,2025-12-03,2527.1,0.0
+P002,Gaming Mouse,Accessories,2025-12-04,2499.68,0.0
+P002,Gaming Mouse,Accessories,2025-12-05,2531.85,0.0
+P002,Gaming Mouse,Accessories,2025-12-06,2527.32,0.0
+P002,Gaming Mouse,Accessories,2025-12-07,2577.17,0.0
+P002,Gaming Mouse,Accessories,2025-12-08,2374.11,7.29
+P002,Gaming Mouse,Accessories,2025-12-09,2552.89,0.0
+P002,Gaming Mouse,Accessories,2025-12-10,2509.88,0.0
+P002,Gaming Mouse,Accessories,2025-12-11,2517.25,0.0
+P002,Gaming Mouse,Accessories,2025-12-12,2496.64,0.0
+P002,Gaming Mouse,Accessories,2025-12-13,2593.93,0.0
+P002,Gaming Mouse,Accessories,2025-12-14,2574.87,0.0
+P002,Gaming Mouse,Accessories,2025-12-15,2547.77,0.0
+P002,Gaming Mouse,Accessories,2025-12-16,2545.06,0.0
+P002,Gaming Mouse,Accessories,2025-12-17,2529.31,0.0
+P002,Gaming Mouse,Accessories,2025-12-18,2566.5,0.0
+P002,Gaming Mouse,Accessories,2025-12-19,2534.17,0.0
+P002,Gaming Mouse,Accessories,2025-12-20,2546.18,0.0
+P002,Gaming Mouse,Accessories,2025-12-21,2539.55,0.0
+P002,Gaming Mouse,Accessories,2025-12-22,2582.79,0.0
+P002,Gaming Mouse,Accessories,2025-12-23,2556.54,0.0
+P002,Gaming Mouse,Accessories,2025-12-24,2566.38,0.0
+P002,Gaming Mouse,Accessories,2025-12-25,2529.06,0.0
+P002,Gaming Mouse,Accessories,2025-12-26,2545.68,0.0
+P002,Gaming Mouse,Accessories,2025-12-27,2570.85,0.0
+P002,Gaming Mouse,Accessories,2025-12-28,2519.66,0.0
+P002,Gaming Mouse,Accessories,2025-12-29,2561.93,0.0
+P002,Gaming Mouse,Accessories,2025-12-30,2569.41,0.0
+P002,Gaming Mouse,Accessories,2025-12-31,2533.21,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-01,5959.04,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-02,5920.34,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-03,5877.97,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-04,5809.14,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-05,5990.96,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-06,5887.59,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-07,5816.2,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-08,5862.51,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-09,5944.97,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-10,5926.95,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-11,5830.33,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-12,5986.16,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-13,5799.73,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-14,5997.34,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-15,5911.14,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-16,5867.0,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-17,5874.04,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-18,5895.47,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-19,5925.75,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-20,5757.18,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-21,5828.07,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-22,5883.87,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-23,5962.9,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-24,5957.56,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-25,5988.39,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-26,5949.34,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-27,5809.84,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-28,5866.34,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-29,5943.6,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-30,5933.63,0.0
+P003,Mechanical Keyboard,Accessories,2025-01-31,5846.89,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-01,5895.84,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-02,5824.56,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-03,5748.47,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-04,5845.48,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-05,5839.42,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-06,5814.07,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-07,5887.44,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-08,5830.15,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-09,5873.51,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-10,5898.09,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-11,6014.25,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-12,5833.53,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-13,5925.22,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-14,5854.16,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-15,5856.95,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-16,5828.89,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-17,5843.75,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-18,5816.4,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-19,5902.72,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-20,5778.13,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-21,5468.74,4.98
+P003,Mechanical Keyboard,Accessories,2025-02-22,5916.61,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-23,5873.23,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-24,5844.0,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-25,5888.05,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-26,5711.08,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-27,5785.13,0.0
+P003,Mechanical Keyboard,Accessories,2025-02-28,5852.13,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-01,5992.77,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-02,5835.75,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-03,5784.89,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-04,5652.37,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-05,5956.15,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-06,5837.31,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-07,5806.3,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-08,5653.81,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-09,5809.07,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-10,5825.95,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-11,5778.46,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-12,5719.87,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-13,5715.36,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-14,5954.2,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-15,5822.64,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-16,5777.4,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-17,5818.14,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-18,5813.19,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-19,5711.63,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-20,5881.34,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-21,5801.96,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-22,5823.77,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-23,5922.3,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-24,5721.75,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-25,5760.7,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-26,5839.37,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-27,5881.42,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-28,5773.0,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-29,5777.28,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-30,5863.75,0.0
+P003,Mechanical Keyboard,Accessories,2025-03-31,5982.26,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-01,5824.66,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-02,5764.22,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-03,5744.74,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-04,5811.15,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-05,5882.89,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-06,6025.29,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-07,5801.46,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-08,5829.87,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-09,5948.39,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-10,5847.87,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-11,5842.62,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-12,5933.72,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-13,5836.35,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-14,5759.75,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-15,5918.97,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-16,5718.18,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-17,5907.07,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-18,5834.6,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-19,5814.76,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-20,5814.24,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-21,5828.33,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-22,5808.43,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-23,5873.54,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-24,5813.6,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-25,5706.24,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-26,5845.94,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-27,5916.63,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-28,5706.89,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-29,5850.02,0.0
+P003,Mechanical Keyboard,Accessories,2025-04-30,5818.84,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-01,5920.84,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-02,5836.55,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-03,5912.35,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-04,5905.05,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-05,5908.86,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-06,5974.29,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-07,5847.52,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-08,5869.73,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-09,5897.23,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-10,5875.53,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-11,5852.4,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-12,5808.04,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-13,5875.54,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-14,5768.84,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-15,5731.85,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-16,5799.96,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-17,5494.96,5.85
+P003,Mechanical Keyboard,Accessories,2025-05-18,5862.81,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-19,5920.53,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-20,5876.17,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-21,5918.62,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-22,5939.51,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-23,5996.02,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-24,5917.23,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-25,5673.23,4.61
+P003,Mechanical Keyboard,Accessories,2025-05-26,5917.41,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-27,5862.07,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-28,5818.6,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-29,5775.03,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-30,6038.96,0.0
+P003,Mechanical Keyboard,Accessories,2025-05-31,5793.77,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-01,6015.29,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-02,5922.32,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-03,5936.31,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-04,5933.59,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-05,5960.4,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-06,5867.05,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-07,5770.32,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-08,5885.77,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-09,5962.35,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-10,5854.4,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-11,6011.06,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-12,5926.68,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-13,5854.56,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-14,5323.6,9.87
+P003,Mechanical Keyboard,Accessories,2025-06-15,5886.12,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-16,5984.1,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-17,6032.13,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-18,5904.16,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-19,5927.71,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-20,5873.86,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-21,5816.3,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-22,5952.68,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-23,5916.68,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-24,6023.01,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-25,5838.88,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-26,5902.47,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-27,5869.37,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-28,5966.1,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-29,5921.67,0.0
+P003,Mechanical Keyboard,Accessories,2025-06-30,5880.57,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-01,5885.82,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-02,5948.76,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-03,5923.8,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-04,5917.06,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-05,5985.65,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-06,5855.5,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-07,6000.65,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-08,6052.27,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-09,5968.01,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-10,6002.15,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-11,5972.5,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-12,5940.78,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-13,6012.44,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-14,5965.89,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-15,5981.47,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-16,6007.53,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-17,5905.03,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-18,5866.72,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-19,5723.49,5.23
+P003,Mechanical Keyboard,Accessories,2025-07-20,5965.55,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-21,5989.15,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-22,5987.8,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-23,5954.78,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-24,5913.39,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-25,6051.84,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-26,5513.72,8.41
+P003,Mechanical Keyboard,Accessories,2025-07-27,6036.91,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-28,5978.0,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-29,5984.82,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-30,6049.7,0.0
+P003,Mechanical Keyboard,Accessories,2025-07-31,5918.4,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-01,6013.78,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-02,6107.13,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-03,5931.48,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-04,6070.86,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-05,6035.79,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-06,5977.64,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-07,6060.29,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-08,5969.88,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-09,6022.46,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-10,5922.22,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-11,5841.52,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-12,5995.03,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-13,5994.49,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-14,6001.97,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-15,6084.08,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-16,6103.22,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-17,6053.1,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-18,6079.77,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-19,5977.62,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-20,5961.28,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-21,6068.94,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-22,5952.45,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-23,5945.28,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-24,6239.26,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-25,6037.49,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-26,5998.16,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-27,5990.23,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-28,5929.39,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-29,6053.09,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-30,6011.05,0.0
+P003,Mechanical Keyboard,Accessories,2025-08-31,6102.53,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-01,5335.67,11.35
+P003,Mechanical Keyboard,Accessories,2025-09-02,5931.29,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-03,6013.41,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-04,5611.77,5.51
+P003,Mechanical Keyboard,Accessories,2025-09-05,6035.31,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-06,5965.1,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-07,6058.33,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-08,6041.32,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-09,6085.26,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-10,5994.99,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-11,6061.67,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-12,6072.57,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-13,6085.43,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-14,6082.16,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-15,5966.89,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-16,6135.02,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-17,5899.53,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-18,6077.53,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-19,5984.06,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-20,5944.45,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-21,6033.94,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-22,6053.29,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-23,6030.64,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-24,5996.43,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-25,6021.54,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-26,6068.08,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-27,6014.27,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-28,6014.54,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-29,6022.12,0.0
+P003,Mechanical Keyboard,Accessories,2025-09-30,5969.0,0.0
+P003,Mechanical Keyboard,Accessories,2025-10-01,6012.22,0.0
+P003,Mechanical Keyboard,Accessories,2025-10-02,6026.91,0.0
+P003,Mechanical Keyboard,Accessories,2025-10-03,6019.88,0.0
+P003,Mechanical Keyboard,Accessories,2025-10-04,4756.42,21.91
+P003,Mechanical Keyboard,Accessories,2025-10-05,6193.25,0.0
+P003,Mechanical Keyboard,Accessories,2025-10-06,5946.88,0.0
+P003,Mechanical Keyboard,Accessories,2025-10-07,5968.85,0.0
+P003,Mechanical Keyboard,Accessories,2025-10-08,6045.92,0.0
+P003,Mechanical Keyboard,Accessories,2025-10-09,4569.96,23.93
+P003,Mechanical Keyboard,Accessories,2025-10-10,5130.79,13.5
+P003,Mechanical Keyboard,Accessories,2025-10-11,5950.04,0.0
+P003,Mechanical Keyboard,Accessories,2025-10-12,4520.73,25.0
+P003,Mechanical Keyboard,Accessories,2025-10-13,6027.17,0.0
+P003,Mechanical Keyboard,Accessories,2025-10-14,5276.3,9.94
+P003,Mechanical Keyboard,Accessories,2025-10-15,5918.26,0.0
+P003,Mechanical Keyboard,Accessories,2025-10-16,5889.82,0.0
+P003,Mechanical Keyboard,Accessories,2025-10-17,6009.89,0.0
+P003,Mechanical Keyboard,Accessories,2025-10-18,5431.34,8.66
+P003,Mechanical Keyboard,Accessories,2025-10-19,5836.81,0.0
+P003,Mechanical Keyboard,Accessories,2025-10-20,5969.89,0.0
+P003,Mechanical Keyboard,Accessories,2025-10-21,5289.63,13.44
+P003,Mechanical Keyboard,Accessories,2025-10-22,5897.04,0.0
+P003,Mechanical Keyboard,Accessories,2025-10-23,5974.18,0.0
+P003,Mechanical Keyboard,Accessories,2025-10-24,5218.18,12.45
+P003,Mechanical Keyboard,Accessories,2025-10-25,5918.13,0.0
+P003,Mechanical Keyboard,Accessories,2025-10-26,5998.08,0.0
+P003,Mechanical Keyboard,Accessories,2025-10-27,5919.25,0.0
+P003,Mechanical Keyboard,Accessories,2025-10-28,5918.35,0.0
+P003,Mechanical Keyboard,Accessories,2025-10-29,6040.08,0.0
+P003,Mechanical Keyboard,Accessories,2025-10-30,4901.86,17.55
+P003,Mechanical Keyboard,Accessories,2025-10-31,5895.25,0.0
+P003,Mechanical Keyboard,Accessories,2025-11-01,5884.09,0.0
+P003,Mechanical Keyboard,Accessories,2025-11-02,5857.63,0.0
+P003,Mechanical Keyboard,Accessories,2025-11-03,4932.75,17.46
+P003,Mechanical Keyboard,Accessories,2025-11-04,5966.41,0.0
+P003,Mechanical Keyboard,Accessories,2025-11-05,5211.06,13.76
+P003,Mechanical Keyboard,Accessories,2025-11-06,5923.27,0.0
+P003,Mechanical Keyboard,Accessories,2025-11-07,5901.4,0.0
+P003,Mechanical Keyboard,Accessories,2025-11-08,5820.28,0.0
+P003,Mechanical Keyboard,Accessories,2025-11-09,5873.16,0.0
+P003,Mechanical Keyboard,Accessories,2025-11-10,5911.1,0.0
+P003,Mechanical Keyboard,Accessories,2025-11-11,5906.14,0.0
+P003,Mechanical Keyboard,Accessories,2025-11-12,5983.82,0.0
+P003,Mechanical Keyboard,Accessories,2025-11-13,5924.31,0.0
+P003,Mechanical Keyboard,Accessories,2025-11-14,5732.55,0.0
+P003,Mechanical Keyboard,Accessories,2025-11-15,5030.85,14.54
+P003,Mechanical Keyboard,Accessories,2025-11-16,5941.7,0.0
+P003,Mechanical Keyboard,Accessories,2025-11-17,5862.2,0.0
+P003,Mechanical Keyboard,Accessories,2025-11-18,5394.9,9.14
+P003,Mechanical Keyboard,Accessories,2025-11-19,4961.9,12.47
+P003,Mechanical Keyboard,Accessories,2025-11-20,5846.82,0.0
+P003,Mechanical Keyboard,Accessories,2025-11-21,5884.16,0.0
+P003,Mechanical Keyboard,Accessories,2025-11-22,5913.23,0.0
+P003,Mechanical Keyboard,Accessories,2025-11-23,6041.18,0.0
+P003,Mechanical Keyboard,Accessories,2025-11-24,5906.39,0.0
+P003,Mechanical Keyboard,Accessories,2025-11-25,4650.57,20.37
+P003,Mechanical Keyboard,Accessories,2025-11-26,6053.41,0.0
+P003,Mechanical Keyboard,Accessories,2025-11-27,5843.16,0.0
+P003,Mechanical Keyboard,Accessories,2025-11-28,4388.38,22.51
+P003,Mechanical Keyboard,Accessories,2025-11-29,5823.62,0.0
+P003,Mechanical Keyboard,Accessories,2025-11-30,5949.03,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-01,5912.53,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-02,5948.53,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-03,5882.65,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-04,5823.13,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-05,6001.68,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-06,5867.97,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-07,5916.8,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-08,5660.08,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-09,5668.83,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-10,5837.75,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-11,5757.56,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-12,5838.22,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-13,5623.07,3.43
+P003,Mechanical Keyboard,Accessories,2025-12-14,5873.45,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-15,5871.1,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-16,5793.64,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-17,5790.73,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-18,5731.48,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-19,5748.5,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-20,5849.26,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-21,5837.08,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-22,5803.59,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-23,5629.02,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-24,5806.8,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-25,5893.66,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-26,5705.78,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-27,5809.31,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-28,5878.4,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-29,5741.07,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-30,5822.92,0.0
+P003,Mechanical Keyboard,Accessories,2025-12-31,5746.14,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-01,32505.05,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-02,33207.14,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-03,33462.44,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-04,33822.43,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-05,33317.27,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-06,33291.22,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-07,33811.36,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-08,33540.87,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-09,33850.15,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-10,33704.61,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-11,33134.62,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-12,33532.71,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-13,33849.64,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-14,34015.71,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-15,33362.21,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-16,33877.19,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-17,33007.22,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-18,33529.5,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-19,33467.89,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-20,34313.89,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-21,33128.91,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-22,34246.45,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-23,33468.21,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-24,32806.12,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-25,33625.37,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-26,33572.69,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-27,34202.7,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-28,33533.58,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-29,34491.58,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-30,34184.83,0.0
+P004,Smartphone 128GB,Smartphones,2025-01-31,33826.12,0.0
+P004,Smartphone 128GB,Smartphones,2025-02-01,33413.59,0.0
+P004,Smartphone 128GB,Smartphones,2025-02-02,33136.47,0.0
+P004,Smartphone 128GB,Smartphones,2025-02-03,33916.56,0.0
+P004,Smartphone 128GB,Smartphones,2025-02-04,33762.46,0.0
+P004,Smartphone 128GB,Smartphones,2025-02-05,34046.52,0.0
+P004,Smartphone 128GB,Smartphones,2025-02-06,34119.53,0.0
+P004,Smartphone 128GB,Smartphones,2025-02-07,34863.67,0.0
+P004,Smartphone 128GB,Smartphones,2025-02-08,31019.88,9.15
+P004,Smartphone 128GB,Smartphones,2025-02-09,33632.18,0.0
+P004,Smartphone 128GB,Smartphones,2025-02-10,34063.7,0.0
+P004,Smartphone 128GB,Smartphones,2025-02-11,33691.97,0.0
+P004,Smartphone 128GB,Smartphones,2025-02-12,34253.79,0.0
+P004,Smartphone 128GB,Smartphones,2025-02-13,33134.49,0.0
+P004,Smartphone 128GB,Smartphones,2025-02-14,33369.74,0.0
+P004,Smartphone 128GB,Smartphones,2025-02-15,33811.39,0.0
+P004,Smartphone 128GB,Smartphones,2025-02-16,33598.26,0.0
+P004,Smartphone 128GB,Smartphones,2025-02-17,33705.78,0.0
+P004,Smartphone 128GB,Smartphones,2025-02-18,34145.78,0.0
+P004,Smartphone 128GB,Smartphones,2025-02-19,33704.3,0.0
+P004,Smartphone 128GB,Smartphones,2025-02-20,34019.59,0.0
+P004,Smartphone 128GB,Smartphones,2025-02-21,33533.12,0.0
+P004,Smartphone 128GB,Smartphones,2025-02-22,33090.49,0.0
+P004,Smartphone 128GB,Smartphones,2025-02-23,34199.02,0.0
+P004,Smartphone 128GB,Smartphones,2025-02-24,29650.75,11.62
+P004,Smartphone 128GB,Smartphones,2025-02-25,33886.74,0.0
+P004,Smartphone 128GB,Smartphones,2025-02-26,31369.23,7.59
+P004,Smartphone 128GB,Smartphones,2025-02-27,34449.23,0.0
+P004,Smartphone 128GB,Smartphones,2025-02-28,33995.67,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-01,34228.28,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-02,34209.25,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-03,34338.1,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-04,33857.89,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-05,33688.99,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-06,34124.57,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-07,34304.28,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-08,31334.99,8.56
+P004,Smartphone 128GB,Smartphones,2025-03-09,34044.81,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-10,33779.69,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-11,34575.51,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-12,34216.47,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-13,31181.77,8.02
+P004,Smartphone 128GB,Smartphones,2025-03-14,34113.1,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-15,33805.39,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-16,33803.12,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-17,34634.33,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-18,33853.67,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-19,34306.46,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-20,34328.79,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-21,33966.99,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-22,33796.6,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-23,33516.95,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-24,33214.52,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-25,34101.86,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-26,34008.25,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-27,34153.31,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-28,33643.05,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-29,34630.35,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-30,34022.15,0.0
+P004,Smartphone 128GB,Smartphones,2025-03-31,33775.22,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-01,32986.06,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-02,33654.65,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-03,34130.82,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-04,34381.46,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-05,33802.46,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-06,34443.06,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-07,33396.47,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-08,33935.61,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-09,33939.5,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-10,33998.94,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-11,33809.67,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-12,33879.75,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-13,33338.48,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-14,34254.75,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-15,34085.65,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-16,33827.75,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-17,34077.63,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-18,34232.82,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-19,33911.96,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-20,34509.81,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-21,33927.42,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-22,33309.23,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-23,33738.41,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-24,34025.6,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-25,34162.83,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-26,33674.4,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-27,33227.2,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-28,33493.91,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-29,33033.71,0.0
+P004,Smartphone 128GB,Smartphones,2025-04-30,33875.8,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-01,33383.07,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-02,33258.19,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-03,33884.03,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-04,34160.37,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-05,33221.93,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-06,33564.42,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-07,33407.43,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-08,34037.54,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-09,33428.14,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-10,33042.33,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-11,33422.83,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-12,33886.62,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-13,31458.04,6.54
+P004,Smartphone 128GB,Smartphones,2025-05-14,33616.95,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-15,32987.57,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-16,33931.99,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-17,33996.02,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-18,33449.21,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-19,32902.57,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-20,33373.0,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-21,32968.56,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-22,33051.24,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-23,30540.55,8.01
+P004,Smartphone 128GB,Smartphones,2025-05-24,32858.49,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-25,33107.43,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-26,33064.88,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-27,33061.2,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-28,33198.73,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-29,33467.47,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-30,32997.13,0.0
+P004,Smartphone 128GB,Smartphones,2025-05-31,33073.34,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-01,33775.48,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-02,32440.44,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-03,33618.15,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-04,33511.5,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-05,32516.3,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-06,32396.36,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-07,30697.94,5.03
+P004,Smartphone 128GB,Smartphones,2025-06-08,32658.04,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-09,32909.36,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-10,33419.61,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-11,33086.95,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-12,32675.58,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-13,32564.25,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-14,33462.06,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-15,32910.42,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-16,31834.97,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-17,32911.2,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-18,33223.93,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-19,32480.79,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-20,32947.29,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-21,32972.99,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-22,32467.25,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-23,33396.64,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-24,32945.62,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-25,32716.43,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-26,32784.95,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-27,32340.37,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-28,32314.62,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-29,32636.31,0.0
+P004,Smartphone 128GB,Smartphones,2025-06-30,32649.24,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-01,32705.1,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-02,33339.08,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-03,33034.02,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-04,32064.06,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-05,33216.9,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-06,32561.65,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-07,33034.95,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-08,32572.67,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-09,32764.29,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-10,32235.78,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-11,32832.28,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-12,33037.43,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-13,32043.16,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-14,33027.03,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-15,32391.78,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-16,33352.49,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-17,32955.36,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-18,32871.07,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-19,32570.25,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-20,33671.02,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-21,32436.82,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-22,32213.17,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-23,32344.86,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-24,33022.13,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-25,32631.01,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-26,32565.04,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-27,32403.39,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-28,32532.61,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-29,32365.56,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-30,32832.17,0.0
+P004,Smartphone 128GB,Smartphones,2025-07-31,32457.51,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-01,32299.7,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-02,32933.86,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-03,32156.51,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-04,32584.11,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-05,31778.48,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-06,30612.74,5.25
+P004,Smartphone 128GB,Smartphones,2025-08-07,32385.3,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-08,32314.87,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-09,30520.31,4.46
+P004,Smartphone 128GB,Smartphones,2025-08-10,32818.34,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-11,31907.44,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-12,28423.39,11.47
+P004,Smartphone 128GB,Smartphones,2025-08-13,32466.88,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-14,33273.04,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-15,33496.81,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-16,32896.1,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-17,32112.25,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-18,32462.94,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-19,32596.11,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-20,32534.11,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-21,32938.0,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-22,32793.73,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-23,32090.25,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-24,32258.77,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-25,32891.79,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-26,33072.88,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-27,32603.83,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-28,33132.71,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-29,30935.53,4.45
+P004,Smartphone 128GB,Smartphones,2025-08-30,31930.91,0.0
+P004,Smartphone 128GB,Smartphones,2025-08-31,32204.43,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-01,32086.98,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-02,32721.71,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-03,32548.18,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-04,31795.72,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-05,32103.99,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-06,32579.07,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-07,32013.04,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-08,32211.54,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-09,32666.07,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-10,32847.58,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-11,32553.71,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-12,32762.08,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-13,32407.54,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-14,32246.61,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-15,32538.88,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-16,32329.37,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-17,32326.09,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-18,32982.39,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-19,32259.8,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-20,32386.44,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-21,33019.89,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-22,32460.94,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-23,33082.88,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-24,32163.39,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-25,32454.19,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-26,32654.02,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-27,32804.42,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-28,33295.61,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-29,32276.61,0.0
+P004,Smartphone 128GB,Smartphones,2025-09-30,32403.59,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-01,26481.44,18.38
+P004,Smartphone 128GB,Smartphones,2025-10-02,33025.31,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-03,32594.51,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-04,33194.33,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-05,31653.03,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-06,32589.22,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-07,33259.55,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-08,32716.89,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-09,32947.31,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-10,32327.84,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-11,32672.27,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-12,32410.4,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-13,32898.1,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-14,32825.92,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-15,32859.87,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-16,32590.77,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-17,31321.27,4.66
+P004,Smartphone 128GB,Smartphones,2025-10-18,32932.39,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-19,32365.29,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-20,32668.78,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-21,33535.07,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-22,32412.88,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-23,33032.58,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-24,33510.37,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-25,32952.4,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-26,32685.76,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-27,26516.04,20.44
+P004,Smartphone 128GB,Smartphones,2025-10-28,25170.35,24.39
+P004,Smartphone 128GB,Smartphones,2025-10-29,32925.39,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-30,33464.32,0.0
+P004,Smartphone 128GB,Smartphones,2025-10-31,33992.97,0.0
+P004,Smartphone 128GB,Smartphones,2025-11-01,33119.71,0.0
+P004,Smartphone 128GB,Smartphones,2025-11-02,32837.16,0.0
+P004,Smartphone 128GB,Smartphones,2025-11-03,32291.72,0.0
+P004,Smartphone 128GB,Smartphones,2025-11-04,33275.06,0.0
+P004,Smartphone 128GB,Smartphones,2025-11-05,28286.41,14.63
+P004,Smartphone 128GB,Smartphones,2025-11-06,32812.15,0.0
+P004,Smartphone 128GB,Smartphones,2025-11-07,33386.37,0.0
+P004,Smartphone 128GB,Smartphones,2025-11-08,33607.01,0.0
+P004,Smartphone 128GB,Smartphones,2025-11-09,33151.71,0.0
+P004,Smartphone 128GB,Smartphones,2025-11-10,33703.49,0.0
+P004,Smartphone 128GB,Smartphones,2025-11-11,33024.8,0.0
+P004,Smartphone 128GB,Smartphones,2025-11-12,33427.02,0.0
+P004,Smartphone 128GB,Smartphones,2025-11-13,33813.74,0.0
+P004,Smartphone 128GB,Smartphones,2025-11-14,29195.15,11.28
+P004,Smartphone 128GB,Smartphones,2025-11-15,26358.64,19.71
+P004,Smartphone 128GB,Smartphones,2025-11-16,33029.87,0.0
+P004,Smartphone 128GB,Smartphones,2025-11-17,26624.25,20.26
+P004,Smartphone 128GB,Smartphones,2025-11-18,33211.86,0.0
+P004,Smartphone 128GB,Smartphones,2025-11-19,33514.54,0.0
+P004,Smartphone 128GB,Smartphones,2025-11-20,33697.85,0.0
+P004,Smartphone 128GB,Smartphones,2025-11-21,33678.39,0.0
+P004,Smartphone 128GB,Smartphones,2025-11-22,33385.21,0.0
+P004,Smartphone 128GB,Smartphones,2025-11-23,33819.33,0.0
+P004,Smartphone 128GB,Smartphones,2025-11-24,28939.98,13.64
+P004,Smartphone 128GB,Smartphones,2025-11-25,25777.68,23.57
+P004,Smartphone 128GB,Smartphones,2025-11-26,33512.11,0.0
+P004,Smartphone 128GB,Smartphones,2025-11-27,33203.34,0.0
+P004,Smartphone 128GB,Smartphones,2025-11-28,30372.55,11.21
+P004,Smartphone 128GB,Smartphones,2025-11-29,33237.93,0.0
+P004,Smartphone 128GB,Smartphones,2025-11-30,33111.14,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-01,33838.38,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-02,33516.59,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-03,33860.42,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-04,33063.41,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-05,33684.2,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-06,34246.44,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-07,33735.7,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-08,33373.26,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-09,30511.8,7.98
+P004,Smartphone 128GB,Smartphones,2025-12-10,33741.31,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-11,33899.3,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-12,33918.6,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-13,33876.76,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-14,33874.66,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-15,33478.01,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-16,32354.15,3.56
+P004,Smartphone 128GB,Smartphones,2025-12-17,34274.07,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-18,34000.35,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-19,33727.2,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-20,33502.89,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-21,31812.99,5.53
+P004,Smartphone 128GB,Smartphones,2025-12-22,34176.28,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-23,34563.16,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-24,33980.82,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-25,34053.43,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-26,33660.74,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-27,34973.34,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-28,33352.05,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-29,33922.1,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-30,34175.6,0.0
+P004,Smartphone 128GB,Smartphones,2025-12-31,33713.8,0.0
+P005,Smartwatch,Wearables,2025-01-01,8813.2,0.0
+P005,Smartwatch,Wearables,2025-01-02,9024.23,0.0
+P005,Smartwatch,Wearables,2025-01-03,9011.82,0.0
+P005,Smartwatch,Wearables,2025-01-04,8987.3,0.0
+P005,Smartwatch,Wearables,2025-01-05,8993.72,0.0
+P005,Smartwatch,Wearables,2025-01-06,8965.36,0.0
+P005,Smartwatch,Wearables,2025-01-07,8788.21,0.0
+P005,Smartwatch,Wearables,2025-01-08,8815.09,0.0
+P005,Smartwatch,Wearables,2025-01-09,8963.73,0.0
+P005,Smartwatch,Wearables,2025-01-10,8780.52,0.0
+P005,Smartwatch,Wearables,2025-01-11,8845.17,0.0
+P005,Smartwatch,Wearables,2025-01-12,8727.52,0.0
+P005,Smartwatch,Wearables,2025-01-13,8887.76,0.0
+P005,Smartwatch,Wearables,2025-01-14,8863.34,0.0
+P005,Smartwatch,Wearables,2025-01-15,8732.71,0.0
+P005,Smartwatch,Wearables,2025-01-16,8981.42,0.0
+P005,Smartwatch,Wearables,2025-01-17,8806.33,0.0
+P005,Smartwatch,Wearables,2025-01-18,8832.78,0.0
+P005,Smartwatch,Wearables,2025-01-19,8909.77,0.0
+P005,Smartwatch,Wearables,2025-01-20,8912.9,0.0
+P005,Smartwatch,Wearables,2025-01-21,8969.03,0.0
+P005,Smartwatch,Wearables,2025-01-22,8860.97,0.0
+P005,Smartwatch,Wearables,2025-01-23,8930.34,0.0
+P005,Smartwatch,Wearables,2025-01-24,8961.95,0.0
+P005,Smartwatch,Wearables,2025-01-25,8707.79,0.0
+P005,Smartwatch,Wearables,2025-01-26,9089.19,0.0
+P005,Smartwatch,Wearables,2025-01-27,9000.0,0.0
+P005,Smartwatch,Wearables,2025-01-28,8664.5,0.0
+P005,Smartwatch,Wearables,2025-01-29,8869.55,0.0
+P005,Smartwatch,Wearables,2025-01-30,8741.36,0.0
+P005,Smartwatch,Wearables,2025-01-31,8904.78,0.0
+P005,Smartwatch,Wearables,2025-02-01,8788.06,0.0
+P005,Smartwatch,Wearables,2025-02-02,8718.69,0.0
+P005,Smartwatch,Wearables,2025-02-03,8780.8,0.0
+P005,Smartwatch,Wearables,2025-02-04,8950.04,0.0
+P005,Smartwatch,Wearables,2025-02-05,8928.17,0.0
+P005,Smartwatch,Wearables,2025-02-06,8948.75,0.0
+P005,Smartwatch,Wearables,2025-02-07,8855.08,0.0
+P005,Smartwatch,Wearables,2025-02-08,8250.01,6.91
+P005,Smartwatch,Wearables,2025-02-09,8678.57,0.0
+P005,Smartwatch,Wearables,2025-02-10,8843.14,0.0
+P005,Smartwatch,Wearables,2025-02-11,8817.04,0.0
+P005,Smartwatch,Wearables,2025-02-12,8925.05,0.0
+P005,Smartwatch,Wearables,2025-02-13,8856.56,0.0
+P005,Smartwatch,Wearables,2025-02-14,8996.17,0.0
+P005,Smartwatch,Wearables,2025-02-15,8781.2,0.0
+P005,Smartwatch,Wearables,2025-02-16,8698.79,0.0
+P005,Smartwatch,Wearables,2025-02-17,8989.95,0.0
+P005,Smartwatch,Wearables,2025-02-18,8857.77,0.0
+P005,Smartwatch,Wearables,2025-02-19,8810.18,0.0
+P005,Smartwatch,Wearables,2025-02-20,8725.34,0.0
+P005,Smartwatch,Wearables,2025-02-21,8777.9,0.0
+P005,Smartwatch,Wearables,2025-02-22,8771.87,0.0
+P005,Smartwatch,Wearables,2025-02-23,8689.9,0.0
+P005,Smartwatch,Wearables,2025-02-24,8583.89,0.0
+P005,Smartwatch,Wearables,2025-02-25,8768.24,0.0
+P005,Smartwatch,Wearables,2025-02-26,8894.13,0.0
+P005,Smartwatch,Wearables,2025-02-27,8951.8,0.0
+P005,Smartwatch,Wearables,2025-02-28,8919.76,0.0
+P005,Smartwatch,Wearables,2025-03-01,8926.61,0.0
+P005,Smartwatch,Wearables,2025-03-02,8699.64,0.0
+P005,Smartwatch,Wearables,2025-03-03,8840.71,0.0
+P005,Smartwatch,Wearables,2025-03-04,8870.71,0.0
+P005,Smartwatch,Wearables,2025-03-05,8878.07,0.0
+P005,Smartwatch,Wearables,2025-03-06,8804.75,0.0
+P005,Smartwatch,Wearables,2025-03-07,8828.02,0.0
+P005,Smartwatch,Wearables,2025-03-08,9034.69,0.0
+P005,Smartwatch,Wearables,2025-03-09,8917.89,0.0
+P005,Smartwatch,Wearables,2025-03-10,8868.74,0.0
+P005,Smartwatch,Wearables,2025-03-11,8889.63,0.0
+P005,Smartwatch,Wearables,2025-03-12,8766.33,0.0
+P005,Smartwatch,Wearables,2025-03-13,8884.92,0.0
+P005,Smartwatch,Wearables,2025-03-14,8830.7,0.0
+P005,Smartwatch,Wearables,2025-03-15,8909.84,0.0
+P005,Smartwatch,Wearables,2025-03-16,8076.17,9.66
+P005,Smartwatch,Wearables,2025-03-17,8645.08,0.0
+P005,Smartwatch,Wearables,2025-03-18,8837.47,0.0
+P005,Smartwatch,Wearables,2025-03-19,8919.0,0.0
+P005,Smartwatch,Wearables,2025-03-20,8885.1,0.0
+P005,Smartwatch,Wearables,2025-03-21,8750.39,0.0
+P005,Smartwatch,Wearables,2025-03-22,8826.52,0.0
+P005,Smartwatch,Wearables,2025-03-23,8622.23,0.0
+P005,Smartwatch,Wearables,2025-03-24,8833.37,0.0
+P005,Smartwatch,Wearables,2025-03-25,8802.16,0.0
+P005,Smartwatch,Wearables,2025-03-26,8713.88,0.0
+P005,Smartwatch,Wearables,2025-03-27,8794.44,0.0
+P005,Smartwatch,Wearables,2025-03-28,9015.97,0.0
+P005,Smartwatch,Wearables,2025-03-29,8676.95,0.0
+P005,Smartwatch,Wearables,2025-03-30,8865.05,0.0
+P005,Smartwatch,Wearables,2025-03-31,8897.47,0.0
+P005,Smartwatch,Wearables,2025-04-01,8848.21,0.0
+P005,Smartwatch,Wearables,2025-04-02,8932.38,0.0
+P005,Smartwatch,Wearables,2025-04-03,8808.02,0.0
+P005,Smartwatch,Wearables,2025-04-04,8780.33,0.0
+P005,Smartwatch,Wearables,2025-04-05,8739.54,0.0
+P005,Smartwatch,Wearables,2025-04-06,8845.86,0.0
+P005,Smartwatch,Wearables,2025-04-07,8877.5,0.0
+P005,Smartwatch,Wearables,2025-04-08,8909.06,0.0
+P005,Smartwatch,Wearables,2025-04-09,8862.29,0.0
+P005,Smartwatch,Wearables,2025-04-10,8894.28,0.0
+P005,Smartwatch,Wearables,2025-04-11,8836.55,0.0
+P005,Smartwatch,Wearables,2025-04-12,8707.2,0.0
+P005,Smartwatch,Wearables,2025-04-13,8868.49,0.0
+P005,Smartwatch,Wearables,2025-04-14,8939.63,0.0
+P005,Smartwatch,Wearables,2025-04-15,8770.69,0.0
+P005,Smartwatch,Wearables,2025-04-16,8902.12,0.0
+P005,Smartwatch,Wearables,2025-04-17,9083.46,0.0
+P005,Smartwatch,Wearables,2025-04-18,8875.63,0.0
+P005,Smartwatch,Wearables,2025-04-19,8884.03,0.0
+P005,Smartwatch,Wearables,2025-04-20,8722.3,0.0
+P005,Smartwatch,Wearables,2025-04-21,8776.75,0.0
+P005,Smartwatch,Wearables,2025-04-22,8809.92,0.0
+P005,Smartwatch,Wearables,2025-04-23,8962.09,0.0
+P005,Smartwatch,Wearables,2025-04-24,8804.68,0.0
+P005,Smartwatch,Wearables,2025-04-25,8704.92,0.0
+P005,Smartwatch,Wearables,2025-04-26,8952.01,0.0
+P005,Smartwatch,Wearables,2025-04-27,8835.31,0.0
+P005,Smartwatch,Wearables,2025-04-28,8752.07,0.0
+P005,Smartwatch,Wearables,2025-04-29,8995.85,0.0
+P005,Smartwatch,Wearables,2025-04-30,8883.14,0.0
+P005,Smartwatch,Wearables,2025-05-01,8979.59,0.0
+P005,Smartwatch,Wearables,2025-05-02,8762.99,0.0
+P005,Smartwatch,Wearables,2025-05-03,7782.31,10.7
+P005,Smartwatch,Wearables,2025-05-04,8898.57,0.0
+P005,Smartwatch,Wearables,2025-05-05,8948.04,0.0
+P005,Smartwatch,Wearables,2025-05-06,9046.71,0.0
+P005,Smartwatch,Wearables,2025-05-07,9081.18,0.0
+P005,Smartwatch,Wearables,2025-05-08,8269.03,8.8
+P005,Smartwatch,Wearables,2025-05-09,9260.16,0.0
+P005,Smartwatch,Wearables,2025-05-10,9001.27,0.0
+P005,Smartwatch,Wearables,2025-05-11,9166.79,0.0
+P005,Smartwatch,Wearables,2025-05-12,8794.73,0.0
+P005,Smartwatch,Wearables,2025-05-13,8935.25,0.0
+P005,Smartwatch,Wearables,2025-05-14,8837.95,0.0
+P005,Smartwatch,Wearables,2025-05-15,8909.82,0.0
+P005,Smartwatch,Wearables,2025-05-16,8953.58,0.0
+P005,Smartwatch,Wearables,2025-05-17,9202.43,0.0
+P005,Smartwatch,Wearables,2025-05-18,8999.43,0.0
+P005,Smartwatch,Wearables,2025-05-19,9116.13,0.0
+P005,Smartwatch,Wearables,2025-05-20,8955.39,0.0
+P005,Smartwatch,Wearables,2025-05-21,8946.98,0.0
+P005,Smartwatch,Wearables,2025-05-22,8425.67,7.26
+P005,Smartwatch,Wearables,2025-05-23,9091.49,0.0
+P005,Smartwatch,Wearables,2025-05-24,8926.52,0.0
+P005,Smartwatch,Wearables,2025-05-25,8920.34,0.0
+P005,Smartwatch,Wearables,2025-05-26,9109.9,0.0
+P005,Smartwatch,Wearables,2025-05-27,8878.29,0.0
+P005,Smartwatch,Wearables,2025-05-28,8886.04,0.0
+P005,Smartwatch,Wearables,2025-05-29,9262.43,0.0
+P005,Smartwatch,Wearables,2025-05-30,8839.19,0.0
+P005,Smartwatch,Wearables,2025-05-31,9149.44,0.0
+P005,Smartwatch,Wearables,2025-06-01,9019.98,0.0
+P005,Smartwatch,Wearables,2025-06-02,9116.57,0.0
+P005,Smartwatch,Wearables,2025-06-03,9127.5,0.0
+P005,Smartwatch,Wearables,2025-06-04,9041.91,0.0
+P005,Smartwatch,Wearables,2025-06-05,9072.39,0.0
+P005,Smartwatch,Wearables,2025-06-06,9170.88,0.0
+P005,Smartwatch,Wearables,2025-06-07,9220.75,0.0
+P005,Smartwatch,Wearables,2025-06-08,9200.5,0.0
+P005,Smartwatch,Wearables,2025-06-09,9116.84,0.0
+P005,Smartwatch,Wearables,2025-06-10,9066.99,0.0
+P005,Smartwatch,Wearables,2025-06-11,8993.9,0.0
+P005,Smartwatch,Wearables,2025-06-12,9127.58,0.0
+P005,Smartwatch,Wearables,2025-06-13,9101.43,0.0
+P005,Smartwatch,Wearables,2025-06-14,9226.94,0.0
+P005,Smartwatch,Wearables,2025-06-15,9179.03,0.0
+P005,Smartwatch,Wearables,2025-06-16,9262.02,0.0
+P005,Smartwatch,Wearables,2025-06-17,8995.1,0.0
+P005,Smartwatch,Wearables,2025-06-18,9306.04,0.0
+P005,Smartwatch,Wearables,2025-06-19,9180.82,0.0
+P005,Smartwatch,Wearables,2025-06-20,9024.91,0.0
+P005,Smartwatch,Wearables,2025-06-21,8990.72,0.0
+P005,Smartwatch,Wearables,2025-06-22,9261.76,0.0
+P005,Smartwatch,Wearables,2025-06-23,9136.09,0.0
+P005,Smartwatch,Wearables,2025-06-24,9121.4,0.0
+P005,Smartwatch,Wearables,2025-06-25,9152.11,0.0
+P005,Smartwatch,Wearables,2025-06-26,9233.83,0.0
+P005,Smartwatch,Wearables,2025-06-27,9171.54,0.0
+P005,Smartwatch,Wearables,2025-06-28,9000.22,0.0
+P005,Smartwatch,Wearables,2025-06-29,9345.03,0.0
+P005,Smartwatch,Wearables,2025-06-30,9036.97,0.0
+P005,Smartwatch,Wearables,2025-07-01,9171.99,0.0
+P005,Smartwatch,Wearables,2025-07-02,9168.11,0.0
+P005,Smartwatch,Wearables,2025-07-03,9230.43,0.0
+P005,Smartwatch,Wearables,2025-07-04,9052.3,0.0
+P005,Smartwatch,Wearables,2025-07-05,9164.47,0.0
+P005,Smartwatch,Wearables,2025-07-06,9116.78,0.0
+P005,Smartwatch,Wearables,2025-07-07,9246.75,0.0
+P005,Smartwatch,Wearables,2025-07-08,9256.43,0.0
+P005,Smartwatch,Wearables,2025-07-09,9146.63,0.0
+P005,Smartwatch,Wearables,2025-07-10,9333.93,0.0
+P005,Smartwatch,Wearables,2025-07-11,9285.95,0.0
+P005,Smartwatch,Wearables,2025-07-12,9100.51,0.0
+P005,Smartwatch,Wearables,2025-07-13,9048.26,0.0
+P005,Smartwatch,Wearables,2025-07-14,9208.79,0.0
+P005,Smartwatch,Wearables,2025-07-15,9284.09,0.0
+P005,Smartwatch,Wearables,2025-07-16,9154.34,0.0
+P005,Smartwatch,Wearables,2025-07-17,9259.5,0.0
+P005,Smartwatch,Wearables,2025-07-18,9232.56,0.0
+P005,Smartwatch,Wearables,2025-07-19,9435.57,0.0
+P005,Smartwatch,Wearables,2025-07-20,9129.54,0.0
+P005,Smartwatch,Wearables,2025-07-21,9353.48,0.0
+P005,Smartwatch,Wearables,2025-07-22,9349.84,0.0
+P005,Smartwatch,Wearables,2025-07-23,9260.69,0.0
+P005,Smartwatch,Wearables,2025-07-24,9066.95,0.0
+P005,Smartwatch,Wearables,2025-07-25,9295.33,0.0
+P005,Smartwatch,Wearables,2025-07-26,9134.1,0.0
+P005,Smartwatch,Wearables,2025-07-27,9503.65,0.0
+P005,Smartwatch,Wearables,2025-07-28,9278.32,0.0
+P005,Smartwatch,Wearables,2025-07-29,9507.6,0.0
+P005,Smartwatch,Wearables,2025-07-30,9313.17,0.0
+P005,Smartwatch,Wearables,2025-07-31,9235.21,0.0
+P005,Smartwatch,Wearables,2025-08-01,9442.77,0.0
+P005,Smartwatch,Wearables,2025-08-02,9348.61,0.0
+P005,Smartwatch,Wearables,2025-08-03,9572.29,0.0
+P005,Smartwatch,Wearables,2025-08-04,9244.27,0.0
+P005,Smartwatch,Wearables,2025-08-05,9459.49,0.0
+P005,Smartwatch,Wearables,2025-08-06,9572.55,0.0
+P005,Smartwatch,Wearables,2025-08-07,9471.59,0.0
+P005,Smartwatch,Wearables,2025-08-08,9403.79,0.0
+P005,Smartwatch,Wearables,2025-08-09,9477.84,0.0
+P005,Smartwatch,Wearables,2025-08-10,9317.6,0.0
+P005,Smartwatch,Wearables,2025-08-11,9241.58,0.0
+P005,Smartwatch,Wearables,2025-08-12,9276.59,0.0
+P005,Smartwatch,Wearables,2025-08-13,9343.3,0.0
+P005,Smartwatch,Wearables,2025-08-14,9424.28,0.0
+P005,Smartwatch,Wearables,2025-08-15,9257.69,0.0
+P005,Smartwatch,Wearables,2025-08-16,9306.9,0.0
+P005,Smartwatch,Wearables,2025-08-17,9269.88,0.0
+P005,Smartwatch,Wearables,2025-08-18,9453.29,0.0
+P005,Smartwatch,Wearables,2025-08-19,9560.0,0.0
+P005,Smartwatch,Wearables,2025-08-20,9243.53,0.0
+P005,Smartwatch,Wearables,2025-08-21,9413.49,0.0
+P005,Smartwatch,Wearables,2025-08-22,9475.71,0.0
+P005,Smartwatch,Wearables,2025-08-23,9335.11,0.0
+P005,Smartwatch,Wearables,2025-08-24,9211.11,0.0
+P005,Smartwatch,Wearables,2025-08-25,9496.38,0.0
+P005,Smartwatch,Wearables,2025-08-26,9208.23,0.0
+P005,Smartwatch,Wearables,2025-08-27,9534.81,0.0
+P005,Smartwatch,Wearables,2025-08-28,9286.51,0.0
+P005,Smartwatch,Wearables,2025-08-29,9198.21,0.0
+P005,Smartwatch,Wearables,2025-08-30,9316.55,0.0
+P005,Smartwatch,Wearables,2025-08-31,9365.76,0.0
+P005,Smartwatch,Wearables,2025-09-01,9389.03,0.0
+P005,Smartwatch,Wearables,2025-09-02,9440.02,0.0
+P005,Smartwatch,Wearables,2025-09-03,9400.93,0.0
+P005,Smartwatch,Wearables,2025-09-04,9571.12,0.0
+P005,Smartwatch,Wearables,2025-09-05,9365.6,0.0
+P005,Smartwatch,Wearables,2025-09-06,9409.39,0.0
+P005,Smartwatch,Wearables,2025-09-07,9400.64,0.0
+P005,Smartwatch,Wearables,2025-09-08,9196.48,0.0
+P005,Smartwatch,Wearables,2025-09-09,9249.05,0.0
+P005,Smartwatch,Wearables,2025-09-10,9383.21,0.0
+P005,Smartwatch,Wearables,2025-09-11,9425.76,0.0
+P005,Smartwatch,Wearables,2025-09-12,9160.58,0.0
+P005,Smartwatch,Wearables,2025-09-13,9582.72,0.0
+P005,Smartwatch,Wearables,2025-09-14,9435.82,0.0
+P005,Smartwatch,Wearables,2025-09-15,9378.65,0.0
+P005,Smartwatch,Wearables,2025-09-16,9430.81,0.0
+P005,Smartwatch,Wearables,2025-09-17,9321.82,0.0
+P005,Smartwatch,Wearables,2025-09-18,9399.14,0.0
+P005,Smartwatch,Wearables,2025-09-19,9416.32,0.0
+P005,Smartwatch,Wearables,2025-09-20,9515.82,0.0
+P005,Smartwatch,Wearables,2025-09-21,9360.57,0.0
+P005,Smartwatch,Wearables,2025-09-22,9226.75,0.0
+P005,Smartwatch,Wearables,2025-09-23,9283.93,0.0
+P005,Smartwatch,Wearables,2025-09-24,9350.93,0.0
+P005,Smartwatch,Wearables,2025-09-25,9235.87,0.0
+P005,Smartwatch,Wearables,2025-09-26,9271.55,0.0
+P005,Smartwatch,Wearables,2025-09-27,9282.87,0.0
+P005,Smartwatch,Wearables,2025-09-28,9341.51,0.0
+P005,Smartwatch,Wearables,2025-09-29,9430.33,0.0
+P005,Smartwatch,Wearables,2025-09-30,9335.04,0.0
+P005,Smartwatch,Wearables,2025-10-01,9348.36,0.0
+P005,Smartwatch,Wearables,2025-10-02,8203.12,11.51
+P005,Smartwatch,Wearables,2025-10-03,8626.39,8.34
+P005,Smartwatch,Wearables,2025-10-04,9436.55,0.0
+P005,Smartwatch,Wearables,2025-10-05,9349.38,0.0
+P005,Smartwatch,Wearables,2025-10-06,9427.4,0.0
+P005,Smartwatch,Wearables,2025-10-07,9278.46,0.0
+P005,Smartwatch,Wearables,2025-10-08,9316.17,0.0
+P005,Smartwatch,Wearables,2025-10-09,9302.62,0.0
+P005,Smartwatch,Wearables,2025-10-10,9302.74,0.0
+P005,Smartwatch,Wearables,2025-10-11,9168.01,0.0
+P005,Smartwatch,Wearables,2025-10-12,9311.41,0.0
+P005,Smartwatch,Wearables,2025-10-13,9270.95,0.0
+P005,Smartwatch,Wearables,2025-10-14,9279.62,0.0
+P005,Smartwatch,Wearables,2025-10-15,9321.63,0.0
+P005,Smartwatch,Wearables,2025-10-16,9328.83,0.0
+P005,Smartwatch,Wearables,2025-10-17,9149.76,0.0
+P005,Smartwatch,Wearables,2025-10-18,9373.61,0.0
+P005,Smartwatch,Wearables,2025-10-19,9465.33,0.0
+P005,Smartwatch,Wearables,2025-10-20,9437.25,0.0
+P005,Smartwatch,Wearables,2025-10-21,9189.98,0.0
+P005,Smartwatch,Wearables,2025-10-22,7608.83,19.49
+P005,Smartwatch,Wearables,2025-10-23,9380.67,0.0
+P005,Smartwatch,Wearables,2025-10-24,9369.39,0.0
+P005,Smartwatch,Wearables,2025-10-25,9472.68,0.0
+P005,Smartwatch,Wearables,2025-10-26,6968.21,24.98
+P005,Smartwatch,Wearables,2025-10-27,7025.93,24.2
+P005,Smartwatch,Wearables,2025-10-28,9279.45,0.0
+P005,Smartwatch,Wearables,2025-10-29,9299.08,0.0
+P005,Smartwatch,Wearables,2025-10-30,9405.8,0.0
+P005,Smartwatch,Wearables,2025-10-31,9231.89,0.0
+P005,Smartwatch,Wearables,2025-11-01,9416.41,0.0
+P005,Smartwatch,Wearables,2025-11-02,9324.93,0.0
+P005,Smartwatch,Wearables,2025-11-03,8282.19,11.27
+P005,Smartwatch,Wearables,2025-11-04,9276.08,0.0
+P005,Smartwatch,Wearables,2025-11-05,9220.9,0.0
+P005,Smartwatch,Wearables,2025-11-06,9465.78,0.0
+P005,Smartwatch,Wearables,2025-11-07,9427.61,0.0
+P005,Smartwatch,Wearables,2025-11-08,9256.3,0.0
+P005,Smartwatch,Wearables,2025-11-09,9314.0,0.0
+P005,Smartwatch,Wearables,2025-11-10,9181.76,0.0
+P005,Smartwatch,Wearables,2025-11-11,9199.73,0.0
+P005,Smartwatch,Wearables,2025-11-12,9342.96,0.0
+P005,Smartwatch,Wearables,2025-11-13,7086.25,23.47
+P005,Smartwatch,Wearables,2025-11-14,9306.66,0.0
+P005,Smartwatch,Wearables,2025-11-15,9019.67,0.0
+P005,Smartwatch,Wearables,2025-11-16,9362.3,0.0
+P005,Smartwatch,Wearables,2025-11-17,8160.84,11.16
+P005,Smartwatch,Wearables,2025-11-18,9272.58,0.0
+P005,Smartwatch,Wearables,2025-11-19,9260.75,0.0
+P005,Smartwatch,Wearables,2025-11-20,9125.39,0.0
+P005,Smartwatch,Wearables,2025-11-21,9430.85,0.0
+P005,Smartwatch,Wearables,2025-11-22,9295.4,0.0
+P005,Smartwatch,Wearables,2025-11-23,7936.77,14.73
+P005,Smartwatch,Wearables,2025-11-24,7370.19,19.81
+P005,Smartwatch,Wearables,2025-11-25,9284.23,0.0
+P005,Smartwatch,Wearables,2025-11-26,9097.07,0.0
+P005,Smartwatch,Wearables,2025-11-27,7802.66,16.87
+P005,Smartwatch,Wearables,2025-11-28,8102.97,11.44
+P005,Smartwatch,Wearables,2025-11-29,7678.24,16.39
+P005,Smartwatch,Wearables,2025-11-30,7684.23,15.5
+P005,Smartwatch,Wearables,2025-12-01,8968.81,0.0
+P005,Smartwatch,Wearables,2025-12-02,9285.97,0.0
+P005,Smartwatch,Wearables,2025-12-03,9067.19,0.0
+P005,Smartwatch,Wearables,2025-12-04,9142.91,0.0
+P005,Smartwatch,Wearables,2025-12-05,9277.72,0.0
+P005,Smartwatch,Wearables,2025-12-06,9040.68,0.0
+P005,Smartwatch,Wearables,2025-12-07,9100.83,3.86
+P005,Smartwatch,Wearables,2025-12-08,9085.32,0.0
+P005,Smartwatch,Wearables,2025-12-09,9033.55,0.0
+P005,Smartwatch,Wearables,2025-12-10,9453.47,0.0
+P005,Smartwatch,Wearables,2025-12-11,9045.99,0.0
+P005,Smartwatch,Wearables,2025-12-12,9158.92,0.0
+P005,Smartwatch,Wearables,2025-12-13,9111.66,0.0
+P005,Smartwatch,Wearables,2025-12-14,9221.38,0.0
+P005,Smartwatch,Wearables,2025-12-15,9141.28,0.0
+P005,Smartwatch,Wearables,2025-12-16,9244.05,0.0
+P005,Smartwatch,Wearables,2025-12-17,9264.81,0.0
+P005,Smartwatch,Wearables,2025-12-18,9012.09,0.0
+P005,Smartwatch,Wearables,2025-12-19,9080.78,0.0
+P005,Smartwatch,Wearables,2025-12-20,9240.69,0.0
+P005,Smartwatch,Wearables,2025-12-21,9274.61,0.0
+P005,Smartwatch,Wearables,2025-12-22,9175.23,0.0
+P005,Smartwatch,Wearables,2025-12-23,9200.23,0.0
+P005,Smartwatch,Wearables,2025-12-24,9306.2,0.0
+P005,Smartwatch,Wearables,2025-12-25,9110.3,0.0
+P005,Smartwatch,Wearables,2025-12-26,9161.37,0.0
+P005,Smartwatch,Wearables,2025-12-27,9270.48,0.0
+P005,Smartwatch,Wearables,2025-12-28,9275.03,0.0
+P005,Smartwatch,Wearables,2025-12-29,9124.72,0.0
+P005,Smartwatch,Wearables,2025-12-30,9049.14,0.0
+P005,Smartwatch,Wearables,2025-12-31,9117.46,0.0
+P006,Portable SSD 1TB,Storage,2025-01-01,7505.41,0.0
+P006,Portable SSD 1TB,Storage,2025-01-02,7773.47,0.0
+P006,Portable SSD 1TB,Storage,2025-01-03,7609.7,0.0
+P006,Portable SSD 1TB,Storage,2025-01-04,7804.15,0.0
+P006,Portable SSD 1TB,Storage,2025-01-05,7641.78,0.0
+P006,Portable SSD 1TB,Storage,2025-01-06,7609.5,0.0
+P006,Portable SSD 1TB,Storage,2025-01-07,7586.97,0.0
+P006,Portable SSD 1TB,Storage,2025-01-08,7586.87,0.0
+P006,Portable SSD 1TB,Storage,2025-01-09,7698.7,0.0
+P006,Portable SSD 1TB,Storage,2025-01-10,7830.92,0.0
+P006,Portable SSD 1TB,Storage,2025-01-11,7703.38,0.0
+P006,Portable SSD 1TB,Storage,2025-01-12,7652.71,0.0
+P006,Portable SSD 1TB,Storage,2025-01-13,7744.07,0.0
+P006,Portable SSD 1TB,Storage,2025-01-14,7132.01,6.66
+P006,Portable SSD 1TB,Storage,2025-01-15,7599.14,0.0
+P006,Portable SSD 1TB,Storage,2025-01-16,7569.12,0.0
+P006,Portable SSD 1TB,Storage,2025-01-17,7776.5,0.0
+P006,Portable SSD 1TB,Storage,2025-01-18,7692.82,0.0
+P006,Portable SSD 1TB,Storage,2025-01-19,7638.32,0.0
+P006,Portable SSD 1TB,Storage,2025-01-20,7718.31,0.0
+P006,Portable SSD 1TB,Storage,2025-01-21,7753.53,0.0
+P006,Portable SSD 1TB,Storage,2025-01-22,7602.33,0.0
+P006,Portable SSD 1TB,Storage,2025-01-23,7681.81,0.0
+P006,Portable SSD 1TB,Storage,2025-01-24,7681.82,0.0
+P006,Portable SSD 1TB,Storage,2025-01-25,7784.03,0.0
+P006,Portable SSD 1TB,Storage,2025-01-26,7624.85,0.0
+P006,Portable SSD 1TB,Storage,2025-01-27,7576.1,0.0
+P006,Portable SSD 1TB,Storage,2025-01-28,7682.05,0.0
+P006,Portable SSD 1TB,Storage,2025-01-29,7709.28,0.0
+P006,Portable SSD 1TB,Storage,2025-01-30,7660.76,0.0
+P006,Portable SSD 1TB,Storage,2025-01-31,7779.0,0.0
+P006,Portable SSD 1TB,Storage,2025-02-01,7612.16,0.0
+P006,Portable SSD 1TB,Storage,2025-02-02,7656.4,0.0
+P006,Portable SSD 1TB,Storage,2025-02-03,7514.47,0.0
+P006,Portable SSD 1TB,Storage,2025-02-04,7554.37,0.0
+P006,Portable SSD 1TB,Storage,2025-02-05,7573.93,0.0
+P006,Portable SSD 1TB,Storage,2025-02-06,7614.26,0.0
+P006,Portable SSD 1TB,Storage,2025-02-07,7516.85,0.0
+P006,Portable SSD 1TB,Storage,2025-02-08,7677.38,0.0
+P006,Portable SSD 1TB,Storage,2025-02-09,7556.8,0.0
+P006,Portable SSD 1TB,Storage,2025-02-10,7817.31,0.0
+P006,Portable SSD 1TB,Storage,2025-02-11,7554.45,0.0
+P006,Portable SSD 1TB,Storage,2025-02-12,7622.48,0.0
+P006,Portable SSD 1TB,Storage,2025-02-13,6918.44,7.53
+P006,Portable SSD 1TB,Storage,2025-02-14,7595.34,0.0
+P006,Portable SSD 1TB,Storage,2025-02-15,7555.07,0.0
+P006,Portable SSD 1TB,Storage,2025-02-16,7187.93,6.45
+P006,Portable SSD 1TB,Storage,2025-02-17,7636.31,0.0
+P006,Portable SSD 1TB,Storage,2025-02-18,7649.02,0.0
+P006,Portable SSD 1TB,Storage,2025-02-19,7672.55,0.0
+P006,Portable SSD 1TB,Storage,2025-02-20,7644.69,0.0
+P006,Portable SSD 1TB,Storage,2025-02-21,6826.16,11.17
+P006,Portable SSD 1TB,Storage,2025-02-22,7529.21,0.0
+P006,Portable SSD 1TB,Storage,2025-02-23,7620.1,0.0
+P006,Portable SSD 1TB,Storage,2025-02-24,7572.95,0.0
+P006,Portable SSD 1TB,Storage,2025-02-25,7377.25,0.0
+P006,Portable SSD 1TB,Storage,2025-02-26,7057.34,6.64
+P006,Portable SSD 1TB,Storage,2025-02-27,7460.95,0.0
+P006,Portable SSD 1TB,Storage,2025-02-28,7332.12,0.0
+P006,Portable SSD 1TB,Storage,2025-03-01,7528.4,0.0
+P006,Portable SSD 1TB,Storage,2025-03-02,7660.46,0.0
+P006,Portable SSD 1TB,Storage,2025-03-03,7564.56,0.0
+P006,Portable SSD 1TB,Storage,2025-03-04,7646.63,0.0
+P006,Portable SSD 1TB,Storage,2025-03-05,7477.37,0.0
+P006,Portable SSD 1TB,Storage,2025-03-06,7507.99,0.0
+P006,Portable SSD 1TB,Storage,2025-03-07,7749.24,0.0
+P006,Portable SSD 1TB,Storage,2025-03-08,7472.16,0.0
+P006,Portable SSD 1TB,Storage,2025-03-09,7587.34,0.0
+P006,Portable SSD 1TB,Storage,2025-03-10,7583.82,0.0
+P006,Portable SSD 1TB,Storage,2025-03-11,7570.16,0.0
+P006,Portable SSD 1TB,Storage,2025-03-12,7578.32,0.0
+P006,Portable SSD 1TB,Storage,2025-03-13,7454.04,0.0
+P006,Portable SSD 1TB,Storage,2025-03-14,7488.97,0.0
+P006,Portable SSD 1TB,Storage,2025-03-15,7299.52,0.0
+P006,Portable SSD 1TB,Storage,2025-03-16,7645.87,0.0
+P006,Portable SSD 1TB,Storage,2025-03-17,7560.5,0.0
+P006,Portable SSD 1TB,Storage,2025-03-18,7448.89,0.0
+P006,Portable SSD 1TB,Storage,2025-03-19,7430.47,0.0
+P006,Portable SSD 1TB,Storage,2025-03-20,7601.14,0.0
+P006,Portable SSD 1TB,Storage,2025-03-21,7432.66,0.0
+P006,Portable SSD 1TB,Storage,2025-03-22,7434.61,0.0
+P006,Portable SSD 1TB,Storage,2025-03-23,7399.19,0.0
+P006,Portable SSD 1TB,Storage,2025-03-24,7552.86,0.0
+P006,Portable SSD 1TB,Storage,2025-03-25,7006.69,6.01
+P006,Portable SSD 1TB,Storage,2025-03-26,7390.64,0.0
+P006,Portable SSD 1TB,Storage,2025-03-27,7406.07,0.0
+P006,Portable SSD 1TB,Storage,2025-03-28,7465.09,0.0
+P006,Portable SSD 1TB,Storage,2025-03-29,7413.16,0.0
+P006,Portable SSD 1TB,Storage,2025-03-30,7482.58,0.0
+P006,Portable SSD 1TB,Storage,2025-03-31,7488.38,0.0
+P006,Portable SSD 1TB,Storage,2025-04-01,7768.19,0.0
+P006,Portable SSD 1TB,Storage,2025-04-02,7419.59,0.0
+P006,Portable SSD 1TB,Storage,2025-04-03,7284.65,0.0
+P006,Portable SSD 1TB,Storage,2025-04-04,7626.28,0.0
+P006,Portable SSD 1TB,Storage,2025-04-05,7287.32,0.0
+P006,Portable SSD 1TB,Storage,2025-04-06,7117.75,4.76
+P006,Portable SSD 1TB,Storage,2025-04-07,7374.64,0.0
+P006,Portable SSD 1TB,Storage,2025-04-08,7465.33,0.0
+P006,Portable SSD 1TB,Storage,2025-04-09,7524.06,0.0
+P006,Portable SSD 1TB,Storage,2025-04-10,6781.32,7.19
+P006,Portable SSD 1TB,Storage,2025-04-11,7301.37,0.0
+P006,Portable SSD 1TB,Storage,2025-04-12,7446.38,0.0
+P006,Portable SSD 1TB,Storage,2025-04-13,7323.42,0.0
+P006,Portable SSD 1TB,Storage,2025-04-14,7457.51,0.0
+P006,Portable SSD 1TB,Storage,2025-04-15,7463.43,0.0
+P006,Portable SSD 1TB,Storage,2025-04-16,7338.28,0.0
+P006,Portable SSD 1TB,Storage,2025-04-17,7356.1,0.0
+P006,Portable SSD 1TB,Storage,2025-04-18,7429.03,0.0
+P006,Portable SSD 1TB,Storage,2025-04-19,7324.73,0.0
+P006,Portable SSD 1TB,Storage,2025-04-20,7399.26,0.0
+P006,Portable SSD 1TB,Storage,2025-04-21,7600.86,0.0
+P006,Portable SSD 1TB,Storage,2025-04-22,7420.2,0.0
+P006,Portable SSD 1TB,Storage,2025-04-23,7349.31,0.0
+P006,Portable SSD 1TB,Storage,2025-04-24,7570.11,0.0
+P006,Portable SSD 1TB,Storage,2025-04-25,7449.98,0.0
+P006,Portable SSD 1TB,Storage,2025-04-26,7282.58,0.0
+P006,Portable SSD 1TB,Storage,2025-04-27,7293.87,0.0
+P006,Portable SSD 1TB,Storage,2025-04-28,7219.12,0.0
+P006,Portable SSD 1TB,Storage,2025-04-29,7392.22,0.0
+P006,Portable SSD 1TB,Storage,2025-04-30,7181.54,0.0
+P006,Portable SSD 1TB,Storage,2025-05-01,7548.31,0.0
+P006,Portable SSD 1TB,Storage,2025-05-02,7331.4,0.0
+P006,Portable SSD 1TB,Storage,2025-05-03,7431.49,0.0
+P006,Portable SSD 1TB,Storage,2025-05-04,7317.78,0.0
+P006,Portable SSD 1TB,Storage,2025-05-05,7372.87,0.0
+P006,Portable SSD 1TB,Storage,2025-05-06,7331.0,0.0
+P006,Portable SSD 1TB,Storage,2025-05-07,7344.75,0.0
+P006,Portable SSD 1TB,Storage,2025-05-08,7446.23,0.0
+P006,Portable SSD 1TB,Storage,2025-05-09,7489.35,0.0
+P006,Portable SSD 1TB,Storage,2025-05-10,7477.99,0.0
+P006,Portable SSD 1TB,Storage,2025-05-11,7623.63,0.0
+P006,Portable SSD 1TB,Storage,2025-05-12,7264.62,0.0
+P006,Portable SSD 1TB,Storage,2025-05-13,7359.81,0.0
+P006,Portable SSD 1TB,Storage,2025-05-14,7261.37,0.0
+P006,Portable SSD 1TB,Storage,2025-05-15,7423.62,0.0
+P006,Portable SSD 1TB,Storage,2025-05-16,7230.07,0.0
+P006,Portable SSD 1TB,Storage,2025-05-17,7424.75,0.0
+P006,Portable SSD 1TB,Storage,2025-05-18,7330.13,0.0
+P006,Portable SSD 1TB,Storage,2025-05-19,6807.06,7.6
+P006,Portable SSD 1TB,Storage,2025-05-20,7230.75,0.0
+P006,Portable SSD 1TB,Storage,2025-05-21,7237.18,0.0
+P006,Portable SSD 1TB,Storage,2025-05-22,7300.22,0.0
+P006,Portable SSD 1TB,Storage,2025-05-23,7345.55,0.0
+P006,Portable SSD 1TB,Storage,2025-05-24,7430.26,0.0
+P006,Portable SSD 1TB,Storage,2025-05-25,7257.3,0.0
+P006,Portable SSD 1TB,Storage,2025-05-26,7129.01,0.0
+P006,Portable SSD 1TB,Storage,2025-05-27,7380.59,0.0
+P006,Portable SSD 1TB,Storage,2025-05-28,7390.94,0.0
+P006,Portable SSD 1TB,Storage,2025-05-29,7255.25,0.0
+P006,Portable SSD 1TB,Storage,2025-05-30,7387.37,0.0
+P006,Portable SSD 1TB,Storage,2025-05-31,7203.79,0.0
+P006,Portable SSD 1TB,Storage,2025-06-01,7222.76,0.0
+P006,Portable SSD 1TB,Storage,2025-06-02,7209.54,0.0
+P006,Portable SSD 1TB,Storage,2025-06-03,7384.04,0.0
+P006,Portable SSD 1TB,Storage,2025-06-04,7163.86,0.0
+P006,Portable SSD 1TB,Storage,2025-06-05,7312.24,0.0
+P006,Portable SSD 1TB,Storage,2025-06-06,7310.68,0.0
+P006,Portable SSD 1TB,Storage,2025-06-07,7342.77,0.0
+P006,Portable SSD 1TB,Storage,2025-06-08,7238.41,0.0
+P006,Portable SSD 1TB,Storage,2025-06-09,7397.88,0.0
+P006,Portable SSD 1TB,Storage,2025-06-10,7341.66,0.0
+P006,Portable SSD 1TB,Storage,2025-06-11,7231.72,0.0
+P006,Portable SSD 1TB,Storage,2025-06-12,7203.23,0.0
+P006,Portable SSD 1TB,Storage,2025-06-13,7254.65,0.0
+P006,Portable SSD 1TB,Storage,2025-06-14,7225.57,0.0
+P006,Portable SSD 1TB,Storage,2025-06-15,7186.43,0.0
+P006,Portable SSD 1TB,Storage,2025-06-16,7270.11,0.0
+P006,Portable SSD 1TB,Storage,2025-06-17,7238.97,0.0
+P006,Portable SSD 1TB,Storage,2025-06-18,7412.62,0.0
+P006,Portable SSD 1TB,Storage,2025-06-19,6957.82,5.46
+P006,Portable SSD 1TB,Storage,2025-06-20,7206.64,0.0
+P006,Portable SSD 1TB,Storage,2025-06-21,7259.51,0.0
+P006,Portable SSD 1TB,Storage,2025-06-22,7447.09,0.0
+P006,Portable SSD 1TB,Storage,2025-06-23,7044.31,0.0
+P006,Portable SSD 1TB,Storage,2025-06-24,7261.21,0.0
+P006,Portable SSD 1TB,Storage,2025-06-25,7290.7,0.0
+P006,Portable SSD 1TB,Storage,2025-06-26,7033.2,3.02
+P006,Portable SSD 1TB,Storage,2025-06-27,7207.84,0.0
+P006,Portable SSD 1TB,Storage,2025-06-28,7528.45,0.0
+P006,Portable SSD 1TB,Storage,2025-06-29,7265.13,0.0
+P006,Portable SSD 1TB,Storage,2025-06-30,7266.43,0.0
+P006,Portable SSD 1TB,Storage,2025-07-01,7216.01,0.0
+P006,Portable SSD 1TB,Storage,2025-07-02,7298.24,0.0
+P006,Portable SSD 1TB,Storage,2025-07-03,7096.38,0.0
+P006,Portable SSD 1TB,Storage,2025-07-04,7148.56,0.0
+P006,Portable SSD 1TB,Storage,2025-07-05,7347.85,0.0
+P006,Portable SSD 1TB,Storage,2025-07-06,7179.14,0.0
+P006,Portable SSD 1TB,Storage,2025-07-07,7213.92,0.0
+P006,Portable SSD 1TB,Storage,2025-07-08,7234.08,0.0
+P006,Portable SSD 1TB,Storage,2025-07-09,7357.84,0.0
+P006,Portable SSD 1TB,Storage,2025-07-10,7213.64,0.0
+P006,Portable SSD 1TB,Storage,2025-07-11,7289.96,0.0
+P006,Portable SSD 1TB,Storage,2025-07-12,7055.25,0.0
+P006,Portable SSD 1TB,Storage,2025-07-13,7305.44,0.0
+P006,Portable SSD 1TB,Storage,2025-07-14,7156.03,0.0
+P006,Portable SSD 1TB,Storage,2025-07-15,7128.18,0.0
+P006,Portable SSD 1TB,Storage,2025-07-16,7193.12,0.0
+P006,Portable SSD 1TB,Storage,2025-07-17,7228.8,0.0
+P006,Portable SSD 1TB,Storage,2025-07-18,7438.13,0.0
+P006,Portable SSD 1TB,Storage,2025-07-19,7293.59,0.0
+P006,Portable SSD 1TB,Storage,2025-07-20,7210.33,0.0
+P006,Portable SSD 1TB,Storage,2025-07-21,7352.13,0.0
+P006,Portable SSD 1TB,Storage,2025-07-22,7249.85,0.0
+P006,Portable SSD 1TB,Storage,2025-07-23,7333.27,0.0
+P006,Portable SSD 1TB,Storage,2025-07-24,7215.06,0.0
+P006,Portable SSD 1TB,Storage,2025-07-25,7428.72,0.0
+P006,Portable SSD 1TB,Storage,2025-07-26,7072.3,0.0
+P006,Portable SSD 1TB,Storage,2025-07-27,7259.86,0.0
+P006,Portable SSD 1TB,Storage,2025-07-28,7153.9,0.0
+P006,Portable SSD 1TB,Storage,2025-07-29,7302.56,0.0
+P006,Portable SSD 1TB,Storage,2025-07-30,7213.57,0.0
+P006,Portable SSD 1TB,Storage,2025-07-31,7243.05,0.0
+P006,Portable SSD 1TB,Storage,2025-08-01,7333.77,0.0
+P006,Portable SSD 1TB,Storage,2025-08-02,7424.04,0.0
+P006,Portable SSD 1TB,Storage,2025-08-03,7397.18,0.0
+P006,Portable SSD 1TB,Storage,2025-08-04,7200.47,0.0
+P006,Portable SSD 1TB,Storage,2025-08-05,7307.74,0.0
+P006,Portable SSD 1TB,Storage,2025-08-06,6685.14,7.1
+P006,Portable SSD 1TB,Storage,2025-08-07,7284.34,0.0
+P006,Portable SSD 1TB,Storage,2025-08-08,7228.81,0.0
+P006,Portable SSD 1TB,Storage,2025-08-09,7284.94,0.0
+P006,Portable SSD 1TB,Storage,2025-08-10,7246.25,0.0
+P006,Portable SSD 1TB,Storage,2025-08-11,7291.17,0.0
+P006,Portable SSD 1TB,Storage,2025-08-12,7426.67,0.0
+P006,Portable SSD 1TB,Storage,2025-08-13,7367.31,0.0
+P006,Portable SSD 1TB,Storage,2025-08-14,7287.35,0.0
+P006,Portable SSD 1TB,Storage,2025-08-15,7415.49,0.0
+P006,Portable SSD 1TB,Storage,2025-08-16,7339.41,0.0
+P006,Portable SSD 1TB,Storage,2025-08-17,7412.6,0.0
+P006,Portable SSD 1TB,Storage,2025-08-18,7182.79,0.0
+P006,Portable SSD 1TB,Storage,2025-08-19,7222.62,0.0
+P006,Portable SSD 1TB,Storage,2025-08-20,7330.57,0.0
+P006,Portable SSD 1TB,Storage,2025-08-21,7300.52,0.0
+P006,Portable SSD 1TB,Storage,2025-08-22,7315.05,0.0
+P006,Portable SSD 1TB,Storage,2025-08-23,7369.78,0.0
+P006,Portable SSD 1TB,Storage,2025-08-24,7340.83,0.0
+P006,Portable SSD 1TB,Storage,2025-08-25,7403.29,0.0
+P006,Portable SSD 1TB,Storage,2025-08-26,6345.93,11.91
+P006,Portable SSD 1TB,Storage,2025-08-27,7361.9,0.0
+P006,Portable SSD 1TB,Storage,2025-08-28,7331.08,0.0
+P006,Portable SSD 1TB,Storage,2025-08-29,7346.07,0.0
+P006,Portable SSD 1TB,Storage,2025-08-30,7377.68,0.0
+P006,Portable SSD 1TB,Storage,2025-08-31,6675.85,9.08
+P006,Portable SSD 1TB,Storage,2025-09-01,7322.48,0.0
+P006,Portable SSD 1TB,Storage,2025-09-02,7383.87,0.0
+P006,Portable SSD 1TB,Storage,2025-09-03,7572.17,0.0
+P006,Portable SSD 1TB,Storage,2025-09-04,7328.55,0.0
+P006,Portable SSD 1TB,Storage,2025-09-05,7374.43,0.0
+P006,Portable SSD 1TB,Storage,2025-09-06,7353.25,0.0
+P006,Portable SSD 1TB,Storage,2025-09-07,7305.26,0.0
+P006,Portable SSD 1TB,Storage,2025-09-08,7411.99,0.0
+P006,Portable SSD 1TB,Storage,2025-09-09,7337.96,0.0
+P006,Portable SSD 1TB,Storage,2025-09-10,7295.56,0.0
+P006,Portable SSD 1TB,Storage,2025-09-11,7304.37,0.0
+P006,Portable SSD 1TB,Storage,2025-09-12,7454.5,0.0
+P006,Portable SSD 1TB,Storage,2025-09-13,7423.65,0.0
+P006,Portable SSD 1TB,Storage,2025-09-14,7333.88,0.0
+P006,Portable SSD 1TB,Storage,2025-09-15,7418.25,0.0
+P006,Portable SSD 1TB,Storage,2025-09-16,7382.31,0.0
+P006,Portable SSD 1TB,Storage,2025-09-17,7409.59,0.0
+P006,Portable SSD 1TB,Storage,2025-09-18,7334.15,0.0
+P006,Portable SSD 1TB,Storage,2025-09-19,7300.19,0.0
+P006,Portable SSD 1TB,Storage,2025-09-20,7368.8,0.0
+P006,Portable SSD 1TB,Storage,2025-09-21,7319.21,0.0
+P006,Portable SSD 1TB,Storage,2025-09-22,7316.15,0.0
+P006,Portable SSD 1TB,Storage,2025-09-23,7282.77,0.0
+P006,Portable SSD 1TB,Storage,2025-09-24,7215.56,0.0
+P006,Portable SSD 1TB,Storage,2025-09-25,7367.15,0.0
+P006,Portable SSD 1TB,Storage,2025-09-26,7512.77,0.0
+P006,Portable SSD 1TB,Storage,2025-09-27,7489.71,0.0
+P006,Portable SSD 1TB,Storage,2025-09-28,7565.03,0.0
+P006,Portable SSD 1TB,Storage,2025-09-29,7333.11,0.0
+P006,Portable SSD 1TB,Storage,2025-09-30,7481.23,0.0
+P006,Portable SSD 1TB,Storage,2025-10-01,7544.13,0.0
+P006,Portable SSD 1TB,Storage,2025-10-02,7518.45,0.0
+P006,Portable SSD 1TB,Storage,2025-10-03,7409.45,0.0
+P006,Portable SSD 1TB,Storage,2025-10-04,6113.2,18.59
+P006,Portable SSD 1TB,Storage,2025-10-05,7428.82,0.0
+P006,Portable SSD 1TB,Storage,2025-10-06,7337.26,0.0
+P006,Portable SSD 1TB,Storage,2025-10-07,7383.6,0.0
+P006,Portable SSD 1TB,Storage,2025-10-08,7475.93,0.0
+P006,Portable SSD 1TB,Storage,2025-10-09,7451.97,0.0
+P006,Portable SSD 1TB,Storage,2025-10-10,7482.56,0.0
+P006,Portable SSD 1TB,Storage,2025-10-11,7553.52,0.0
+P006,Portable SSD 1TB,Storage,2025-10-12,7374.13,0.0
+P006,Portable SSD 1TB,Storage,2025-10-13,7221.49,0.0
+P006,Portable SSD 1TB,Storage,2025-10-14,7392.99,0.0
+P006,Portable SSD 1TB,Storage,2025-10-15,7407.5,0.0
+P006,Portable SSD 1TB,Storage,2025-10-16,7618.3,0.0
+P006,Portable SSD 1TB,Storage,2025-10-17,7546.15,0.0
+P006,Portable SSD 1TB,Storage,2025-10-18,7450.02,0.0
+P006,Portable SSD 1TB,Storage,2025-10-19,6517.02,13.21
+P006,Portable SSD 1TB,Storage,2025-10-20,7493.6,0.0
+P006,Portable SSD 1TB,Storage,2025-10-21,6770.16,10.25
+P006,Portable SSD 1TB,Storage,2025-10-22,7528.35,0.0
+P006,Portable SSD 1TB,Storage,2025-10-23,7518.84,0.0
+P006,Portable SSD 1TB,Storage,2025-10-24,7526.02,0.0
+P006,Portable SSD 1TB,Storage,2025-10-25,7452.99,0.0
+P006,Portable SSD 1TB,Storage,2025-10-26,7570.54,0.0
+P006,Portable SSD 1TB,Storage,2025-10-27,7474.37,0.0
+P006,Portable SSD 1TB,Storage,2025-10-28,7638.52,0.0
+P006,Portable SSD 1TB,Storage,2025-10-29,7489.64,0.0
+P006,Portable SSD 1TB,Storage,2025-10-30,7529.83,0.0
+P006,Portable SSD 1TB,Storage,2025-10-31,6495.63,13.89
+P006,Portable SSD 1TB,Storage,2025-11-01,7480.58,0.0
+P006,Portable SSD 1TB,Storage,2025-11-02,7685.37,0.0
+P006,Portable SSD 1TB,Storage,2025-11-03,7512.66,0.0
+P006,Portable SSD 1TB,Storage,2025-11-04,7536.84,0.0
+P006,Portable SSD 1TB,Storage,2025-11-05,7419.38,0.0
+P006,Portable SSD 1TB,Storage,2025-11-06,7703.32,0.0
+P006,Portable SSD 1TB,Storage,2025-11-07,7476.72,0.0
+P006,Portable SSD 1TB,Storage,2025-11-08,7438.15,0.0
+P006,Portable SSD 1TB,Storage,2025-11-09,7430.93,0.0
+P006,Portable SSD 1TB,Storage,2025-11-10,6174.26,18.85
+P006,Portable SSD 1TB,Storage,2025-11-11,7485.89,0.0
+P006,Portable SSD 1TB,Storage,2025-11-12,6801.85,8.62
+P006,Portable SSD 1TB,Storage,2025-11-13,7457.65,0.0
+P006,Portable SSD 1TB,Storage,2025-11-14,6168.28,17.01
+P006,Portable SSD 1TB,Storage,2025-11-15,7499.55,0.0
+P006,Portable SSD 1TB,Storage,2025-11-16,7488.58,0.0
+P006,Portable SSD 1TB,Storage,2025-11-17,7541.72,0.0
+P006,Portable SSD 1TB,Storage,2025-11-18,7478.38,0.0
+P006,Portable SSD 1TB,Storage,2025-11-19,7463.88,0.0
+P006,Portable SSD 1TB,Storage,2025-11-20,7510.17,0.0
+P006,Portable SSD 1TB,Storage,2025-11-21,7027.86,7.02
+P006,Portable SSD 1TB,Storage,2025-11-22,6272.68,15.32
+P006,Portable SSD 1TB,Storage,2025-11-23,7492.54,0.0
+P006,Portable SSD 1TB,Storage,2025-11-24,7673.85,0.0
+P006,Portable SSD 1TB,Storage,2025-11-25,7487.03,0.0
+P006,Portable SSD 1TB,Storage,2025-11-26,7519.04,0.0
+P006,Portable SSD 1TB,Storage,2025-11-27,7259.42,5.47
+P006,Portable SSD 1TB,Storage,2025-11-28,7477.15,0.0
+P006,Portable SSD 1TB,Storage,2025-11-29,7571.97,0.0
+P006,Portable SSD 1TB,Storage,2025-11-30,7505.61,0.0
+P006,Portable SSD 1TB,Storage,2025-12-01,7449.64,0.0
+P006,Portable SSD 1TB,Storage,2025-12-02,7548.6,0.0
+P006,Portable SSD 1TB,Storage,2025-12-03,7666.76,0.0
+P006,Portable SSD 1TB,Storage,2025-12-04,7591.94,0.0
+P006,Portable SSD 1TB,Storage,2025-12-05,7558.06,0.0
+P006,Portable SSD 1TB,Storage,2025-12-06,7634.23,0.0
+P006,Portable SSD 1TB,Storage,2025-12-07,7183.07,5.13
+P006,Portable SSD 1TB,Storage,2025-12-08,7527.2,0.0
+P006,Portable SSD 1TB,Storage,2025-12-09,7596.11,0.0
+P006,Portable SSD 1TB,Storage,2025-12-10,7624.35,0.0
+P006,Portable SSD 1TB,Storage,2025-12-11,7541.78,0.0
+P006,Portable SSD 1TB,Storage,2025-12-12,7623.31,0.0
+P006,Portable SSD 1TB,Storage,2025-12-13,7523.64,0.0
+P006,Portable SSD 1TB,Storage,2025-12-14,7495.08,0.0
+P006,Portable SSD 1TB,Storage,2025-12-15,7722.13,0.0
+P006,Portable SSD 1TB,Storage,2025-12-16,7542.96,0.0
+P006,Portable SSD 1TB,Storage,2025-12-17,7589.34,0.0
+P006,Portable SSD 1TB,Storage,2025-12-18,7494.03,0.0
+P006,Portable SSD 1TB,Storage,2025-12-19,7543.65,0.0
+P006,Portable SSD 1TB,Storage,2025-12-20,7677.45,0.0
+P006,Portable SSD 1TB,Storage,2025-12-21,7480.66,0.0
+P006,Portable SSD 1TB,Storage,2025-12-22,7546.41,0.0
+P006,Portable SSD 1TB,Storage,2025-12-23,7549.46,0.0
+P006,Portable SSD 1TB,Storage,2025-12-24,7373.93,0.0
+P006,Portable SSD 1TB,Storage,2025-12-25,7575.04,0.0
+P006,Portable SSD 1TB,Storage,2025-12-26,7656.09,0.0
+P006,Portable SSD 1TB,Storage,2025-12-27,7570.51,0.0
+P006,Portable SSD 1TB,Storage,2025-12-28,7148.3,5.51
+P006,Portable SSD 1TB,Storage,2025-12-29,7557.1,0.0
+P006,Portable SSD 1TB,Storage,2025-12-30,7641.32,0.0
+P006,Portable SSD 1TB,Storage,2025-12-31,7478.46,0.0
+P007,27-inch Monitor,Monitors,2025-01-01,19282.01,0.0
+P007,27-inch Monitor,Monitors,2025-01-02,19565.29,0.0
+P007,27-inch Monitor,Monitors,2025-01-03,19188.18,0.0
+P007,27-inch Monitor,Monitors,2025-01-04,18916.24,0.0
+P007,27-inch Monitor,Monitors,2025-01-05,19173.51,0.0
+P007,27-inch Monitor,Monitors,2025-01-06,19192.66,0.0
+P007,27-inch Monitor,Monitors,2025-01-07,19390.21,0.0
+P007,27-inch Monitor,Monitors,2025-01-08,18881.08,0.0
+P007,27-inch Monitor,Monitors,2025-01-09,18756.3,0.0
+P007,27-inch Monitor,Monitors,2025-01-10,19134.67,0.0
+P007,27-inch Monitor,Monitors,2025-01-11,19499.43,0.0
+P007,27-inch Monitor,Monitors,2025-01-12,19220.51,0.0
+P007,27-inch Monitor,Monitors,2025-01-13,19225.56,0.0
+P007,27-inch Monitor,Monitors,2025-01-14,18755.91,0.0
+P007,27-inch Monitor,Monitors,2025-01-15,19051.95,0.0
+P007,27-inch Monitor,Monitors,2025-01-16,19315.64,0.0
+P007,27-inch Monitor,Monitors,2025-01-17,19098.3,0.0
+P007,27-inch Monitor,Monitors,2025-01-18,18663.04,0.0
+P007,27-inch Monitor,Monitors,2025-01-19,19011.71,0.0
+P007,27-inch Monitor,Monitors,2025-01-20,19132.09,0.0
+P007,27-inch Monitor,Monitors,2025-01-21,18281.9,0.0
+P007,27-inch Monitor,Monitors,2025-01-22,18960.15,0.0
+P007,27-inch Monitor,Monitors,2025-01-23,18772.32,0.0
+P007,27-inch Monitor,Monitors,2025-01-24,19157.06,0.0
+P007,27-inch Monitor,Monitors,2025-01-25,18858.03,0.0
+P007,27-inch Monitor,Monitors,2025-01-26,19039.39,0.0
+P007,27-inch Monitor,Monitors,2025-01-27,18934.0,0.0
+P007,27-inch Monitor,Monitors,2025-01-28,18823.02,0.0
+P007,27-inch Monitor,Monitors,2025-01-29,19370.14,0.0
+P007,27-inch Monitor,Monitors,2025-01-30,18780.91,0.0
+P007,27-inch Monitor,Monitors,2025-01-31,18916.94,0.0
+P007,27-inch Monitor,Monitors,2025-02-01,18888.78,0.0
+P007,27-inch Monitor,Monitors,2025-02-02,18923.77,0.0
+P007,27-inch Monitor,Monitors,2025-02-03,19303.92,0.0
+P007,27-inch Monitor,Monitors,2025-02-04,18998.69,0.0
+P007,27-inch Monitor,Monitors,2025-02-05,18750.19,0.0
+P007,27-inch Monitor,Monitors,2025-02-06,19183.93,0.0
+P007,27-inch Monitor,Monitors,2025-02-07,19013.0,0.0
+P007,27-inch Monitor,Monitors,2025-02-08,18728.33,0.0
+P007,27-inch Monitor,Monitors,2025-02-09,19115.62,0.0
+P007,27-inch Monitor,Monitors,2025-02-10,18514.4,0.0
+P007,27-inch Monitor,Monitors,2025-02-11,18557.9,0.0
+P007,27-inch Monitor,Monitors,2025-02-12,18429.29,0.0
+P007,27-inch Monitor,Monitors,2025-02-13,18329.62,0.0
+P007,27-inch Monitor,Monitors,2025-02-14,19054.27,0.0
+P007,27-inch Monitor,Monitors,2025-02-15,18815.02,0.0
+P007,27-inch Monitor,Monitors,2025-02-16,18413.81,0.0
+P007,27-inch Monitor,Monitors,2025-02-17,18745.97,0.0
+P007,27-inch Monitor,Monitors,2025-02-18,18953.42,0.0
+P007,27-inch Monitor,Monitors,2025-02-19,17134.79,8.59
+P007,27-inch Monitor,Monitors,2025-02-20,18685.74,0.0
+P007,27-inch Monitor,Monitors,2025-02-21,18321.95,0.0
+P007,27-inch Monitor,Monitors,2025-02-22,18992.06,0.0
+P007,27-inch Monitor,Monitors,2025-02-23,18561.23,0.0
+P007,27-inch Monitor,Monitors,2025-02-24,18649.37,0.0
+P007,27-inch Monitor,Monitors,2025-02-25,18828.34,0.0
+P007,27-inch Monitor,Monitors,2025-02-26,18800.96,0.0
+P007,27-inch Monitor,Monitors,2025-02-27,18697.29,0.0
+P007,27-inch Monitor,Monitors,2025-02-28,18594.33,0.0
+P007,27-inch Monitor,Monitors,2025-03-01,18684.65,0.0
+P007,27-inch Monitor,Monitors,2025-03-02,18696.7,0.0
+P007,27-inch Monitor,Monitors,2025-03-03,18375.08,0.0
+P007,27-inch Monitor,Monitors,2025-03-04,18540.07,0.0
+P007,27-inch Monitor,Monitors,2025-03-05,18766.27,0.0
+P007,27-inch Monitor,Monitors,2025-03-06,18376.98,0.0
+P007,27-inch Monitor,Monitors,2025-03-07,18682.75,0.0
+P007,27-inch Monitor,Monitors,2025-03-08,18550.59,0.0
+P007,27-inch Monitor,Monitors,2025-03-09,18527.95,0.0
+P007,27-inch Monitor,Monitors,2025-03-10,18964.1,0.0
+P007,27-inch Monitor,Monitors,2025-03-11,18863.46,0.0
+P007,27-inch Monitor,Monitors,2025-03-12,18253.79,0.0
+P007,27-inch Monitor,Monitors,2025-03-13,18392.08,0.0
+P007,27-inch Monitor,Monitors,2025-03-14,18555.47,0.0
+P007,27-inch Monitor,Monitors,2025-03-15,18856.25,0.0
+P007,27-inch Monitor,Monitors,2025-03-16,18462.63,0.0
+P007,27-inch Monitor,Monitors,2025-03-17,18574.59,0.0
+P007,27-inch Monitor,Monitors,2025-03-18,18594.58,0.0
+P007,27-inch Monitor,Monitors,2025-03-19,18830.2,0.0
+P007,27-inch Monitor,Monitors,2025-03-20,18322.62,0.0
+P007,27-inch Monitor,Monitors,2025-03-21,17796.77,3.07
+P007,27-inch Monitor,Monitors,2025-03-22,18612.88,0.0
+P007,27-inch Monitor,Monitors,2025-03-23,18799.33,0.0
+P007,27-inch Monitor,Monitors,2025-03-24,18127.34,0.0
+P007,27-inch Monitor,Monitors,2025-03-25,18580.86,0.0
+P007,27-inch Monitor,Monitors,2025-03-26,18435.13,0.0
+P007,27-inch Monitor,Monitors,2025-03-27,18550.18,0.0
+P007,27-inch Monitor,Monitors,2025-03-28,18180.45,0.0
+P007,27-inch Monitor,Monitors,2025-03-29,18771.46,0.0
+P007,27-inch Monitor,Monitors,2025-03-30,18835.62,0.0
+P007,27-inch Monitor,Monitors,2025-03-31,18646.43,0.0
+P007,27-inch Monitor,Monitors,2025-04-01,18881.4,0.0
+P007,27-inch Monitor,Monitors,2025-04-02,18394.9,0.0
+P007,27-inch Monitor,Monitors,2025-04-03,18537.76,0.0
+P007,27-inch Monitor,Monitors,2025-04-04,18635.22,0.0
+P007,27-inch Monitor,Monitors,2025-04-05,18556.81,0.0
+P007,27-inch Monitor,Monitors,2025-04-06,18408.77,0.0
+P007,27-inch Monitor,Monitors,2025-04-07,18429.18,0.0
+P007,27-inch Monitor,Monitors,2025-04-08,18778.73,0.0
+P007,27-inch Monitor,Monitors,2025-04-09,18454.34,0.0
+P007,27-inch Monitor,Monitors,2025-04-10,18715.02,0.0
+P007,27-inch Monitor,Monitors,2025-04-11,18437.17,0.0
+P007,27-inch Monitor,Monitors,2025-04-12,18708.44,0.0
+P007,27-inch Monitor,Monitors,2025-04-13,18468.35,0.0
+P007,27-inch Monitor,Monitors,2025-04-14,18586.75,0.0
+P007,27-inch Monitor,Monitors,2025-04-15,18294.67,0.0
+P007,27-inch Monitor,Monitors,2025-04-16,18502.06,0.0
+P007,27-inch Monitor,Monitors,2025-04-17,18294.18,0.0
+P007,27-inch Monitor,Monitors,2025-04-18,18347.33,0.0
+P007,27-inch Monitor,Monitors,2025-04-19,18363.4,0.0
+P007,27-inch Monitor,Monitors,2025-04-20,18397.3,0.0
+P007,27-inch Monitor,Monitors,2025-04-21,18662.22,0.0
+P007,27-inch Monitor,Monitors,2025-04-22,18333.91,0.0
+P007,27-inch Monitor,Monitors,2025-04-23,18468.56,0.0
+P007,27-inch Monitor,Monitors,2025-04-24,18690.91,0.0
+P007,27-inch Monitor,Monitors,2025-04-25,18567.14,0.0
+P007,27-inch Monitor,Monitors,2025-04-26,17257.01,8.53
+P007,27-inch Monitor,Monitors,2025-04-27,18528.23,0.0
+P007,27-inch Monitor,Monitors,2025-04-28,18495.24,0.0
+P007,27-inch Monitor,Monitors,2025-04-29,18620.94,0.0
+P007,27-inch Monitor,Monitors,2025-04-30,18417.42,0.0
+P007,27-inch Monitor,Monitors,2025-05-01,18278.23,0.0
+P007,27-inch Monitor,Monitors,2025-05-02,18678.66,0.0
+P007,27-inch Monitor,Monitors,2025-05-03,18611.5,0.0
+P007,27-inch Monitor,Monitors,2025-05-04,18230.62,0.0
+P007,27-inch Monitor,Monitors,2025-05-05,18366.66,0.0
+P007,27-inch Monitor,Monitors,2025-05-06,18533.54,0.0
+P007,27-inch Monitor,Monitors,2025-05-07,18074.26,0.0
+P007,27-inch Monitor,Monitors,2025-05-08,18534.92,0.0
+P007,27-inch Monitor,Monitors,2025-05-09,18508.29,0.0
+P007,27-inch Monitor,Monitors,2025-05-10,18151.13,0.0
+P007,27-inch Monitor,Monitors,2025-05-11,18824.24,0.0
+P007,27-inch Monitor,Monitors,2025-05-12,18348.64,0.0
+P007,27-inch Monitor,Monitors,2025-05-13,18329.71,0.0
+P007,27-inch Monitor,Monitors,2025-05-14,18649.5,0.0
+P007,27-inch Monitor,Monitors,2025-05-15,18699.53,0.0
+P007,27-inch Monitor,Monitors,2025-05-16,18214.61,0.0
+P007,27-inch Monitor,Monitors,2025-05-17,17856.59,0.0
+P007,27-inch Monitor,Monitors,2025-05-18,18418.61,0.0
+P007,27-inch Monitor,Monitors,2025-05-19,18029.99,0.0
+P007,27-inch Monitor,Monitors,2025-05-20,18649.91,0.0
+P007,27-inch Monitor,Monitors,2025-05-21,18453.7,0.0
+P007,27-inch Monitor,Monitors,2025-05-22,18133.32,0.0
+P007,27-inch Monitor,Monitors,2025-05-23,18296.08,0.0
+P007,27-inch Monitor,Monitors,2025-05-24,18218.88,0.0
+P007,27-inch Monitor,Monitors,2025-05-25,18290.64,0.0
+P007,27-inch Monitor,Monitors,2025-05-26,18069.83,0.0
+P007,27-inch Monitor,Monitors,2025-05-27,18798.61,0.0
+P007,27-inch Monitor,Monitors,2025-05-28,18259.36,0.0
+P007,27-inch Monitor,Monitors,2025-05-29,18492.65,0.0
+P007,27-inch Monitor,Monitors,2025-05-30,18592.89,0.0
+P007,27-inch Monitor,Monitors,2025-05-31,18751.1,0.0
+P007,27-inch Monitor,Monitors,2025-06-01,18512.73,0.0
+P007,27-inch Monitor,Monitors,2025-06-02,18447.76,0.0
+P007,27-inch Monitor,Monitors,2025-06-03,18530.99,0.0
+P007,27-inch Monitor,Monitors,2025-06-04,17006.39,9.07
+P007,27-inch Monitor,Monitors,2025-06-05,18473.8,0.0
+P007,27-inch Monitor,Monitors,2025-06-06,18609.94,0.0
+P007,27-inch Monitor,Monitors,2025-06-07,18736.26,0.0
+P007,27-inch Monitor,Monitors,2025-06-08,18816.23,0.0
+P007,27-inch Monitor,Monitors,2025-06-09,18532.01,0.0
+P007,27-inch Monitor,Monitors,2025-06-10,18485.06,0.0
+P007,27-inch Monitor,Monitors,2025-06-11,18562.43,0.0
+P007,27-inch Monitor,Monitors,2025-06-12,18574.82,0.0
+P007,27-inch Monitor,Monitors,2025-06-13,18408.0,0.0
+P007,27-inch Monitor,Monitors,2025-06-14,18424.23,0.0
+P007,27-inch Monitor,Monitors,2025-06-15,18087.39,3.47
+P007,27-inch Monitor,Monitors,2025-06-16,18358.63,0.0
+P007,27-inch Monitor,Monitors,2025-06-17,18259.45,0.0
+P007,27-inch Monitor,Monitors,2025-06-18,18662.21,0.0
+P007,27-inch Monitor,Monitors,2025-06-19,18293.14,0.0
+P007,27-inch Monitor,Monitors,2025-06-20,18720.82,0.0
+P007,27-inch Monitor,Monitors,2025-06-21,18856.06,0.0
+P007,27-inch Monitor,Monitors,2025-06-22,18401.06,0.0
+P007,27-inch Monitor,Monitors,2025-06-23,18423.11,0.0
+P007,27-inch Monitor,Monitors,2025-06-24,18867.19,0.0
+P007,27-inch Monitor,Monitors,2025-06-25,18644.26,0.0
+P007,27-inch Monitor,Monitors,2025-06-26,18845.29,0.0
+P007,27-inch Monitor,Monitors,2025-06-27,18589.59,0.0
+P007,27-inch Monitor,Monitors,2025-06-28,18612.6,0.0
+P007,27-inch Monitor,Monitors,2025-06-29,18664.51,0.0
+P007,27-inch Monitor,Monitors,2025-06-30,19044.17,0.0
+P007,27-inch Monitor,Monitors,2025-07-01,18858.68,0.0
+P007,27-inch Monitor,Monitors,2025-07-02,18520.97,0.0
+P007,27-inch Monitor,Monitors,2025-07-03,18728.23,0.0
+P007,27-inch Monitor,Monitors,2025-07-04,18621.3,0.0
+P007,27-inch Monitor,Monitors,2025-07-05,18586.66,0.0
+P007,27-inch Monitor,Monitors,2025-07-06,18819.43,0.0
+P007,27-inch Monitor,Monitors,2025-07-07,18777.12,0.0
+P007,27-inch Monitor,Monitors,2025-07-08,18510.6,0.0
+P007,27-inch Monitor,Monitors,2025-07-09,18734.22,0.0
+P007,27-inch Monitor,Monitors,2025-07-10,18615.38,0.0
+P007,27-inch Monitor,Monitors,2025-07-11,18839.83,0.0
+P007,27-inch Monitor,Monitors,2025-07-12,18620.24,0.0
+P007,27-inch Monitor,Monitors,2025-07-13,18718.49,0.0
+P007,27-inch Monitor,Monitors,2025-07-14,18656.76,0.0
+P007,27-inch Monitor,Monitors,2025-07-15,18391.11,0.0
+P007,27-inch Monitor,Monitors,2025-07-16,19143.27,0.0
+P007,27-inch Monitor,Monitors,2025-07-17,18789.66,0.0
+P007,27-inch Monitor,Monitors,2025-07-18,19167.49,0.0
+P007,27-inch Monitor,Monitors,2025-07-19,18814.48,0.0
+P007,27-inch Monitor,Monitors,2025-07-20,18962.02,0.0
+P007,27-inch Monitor,Monitors,2025-07-21,18671.01,0.0
+P007,27-inch Monitor,Monitors,2025-07-22,18683.67,0.0
+P007,27-inch Monitor,Monitors,2025-07-23,18821.2,0.0
+P007,27-inch Monitor,Monitors,2025-07-24,19209.21,0.0
+P007,27-inch Monitor,Monitors,2025-07-25,18641.72,0.0
+P007,27-inch Monitor,Monitors,2025-07-26,18424.71,0.0
+P007,27-inch Monitor,Monitors,2025-07-27,19094.55,0.0
+P007,27-inch Monitor,Monitors,2025-07-28,19035.81,0.0
+P007,27-inch Monitor,Monitors,2025-07-29,18779.06,0.0
+P007,27-inch Monitor,Monitors,2025-07-30,19354.48,0.0
+P007,27-inch Monitor,Monitors,2025-07-31,19374.54,0.0
+P007,27-inch Monitor,Monitors,2025-08-01,18502.62,0.0
+P007,27-inch Monitor,Monitors,2025-08-02,18754.25,0.0
+P007,27-inch Monitor,Monitors,2025-08-03,17894.14,8.69
+P007,27-inch Monitor,Monitors,2025-08-04,18973.47,0.0
+P007,27-inch Monitor,Monitors,2025-08-05,18928.12,0.0
+P007,27-inch Monitor,Monitors,2025-08-06,18697.45,0.0
+P007,27-inch Monitor,Monitors,2025-08-07,19059.39,0.0
+P007,27-inch Monitor,Monitors,2025-08-08,19079.9,0.0
+P007,27-inch Monitor,Monitors,2025-08-09,19170.59,0.0
+P007,27-inch Monitor,Monitors,2025-08-10,18696.86,0.0
+P007,27-inch Monitor,Monitors,2025-08-11,18920.92,0.0
+P007,27-inch Monitor,Monitors,2025-08-12,18868.88,0.0
+P007,27-inch Monitor,Monitors,2025-08-13,18713.94,0.0
+P007,27-inch Monitor,Monitors,2025-08-14,18938.12,0.0
+P007,27-inch Monitor,Monitors,2025-08-15,18770.38,0.0
+P007,27-inch Monitor,Monitors,2025-08-16,18700.66,0.0
+P007,27-inch Monitor,Monitors,2025-08-17,19180.68,0.0
+P007,27-inch Monitor,Monitors,2025-08-18,18918.92,0.0
+P007,27-inch Monitor,Monitors,2025-08-19,18862.34,0.0
+P007,27-inch Monitor,Monitors,2025-08-20,19304.42,0.0
+P007,27-inch Monitor,Monitors,2025-08-21,19175.23,0.0
+P007,27-inch Monitor,Monitors,2025-08-22,18593.67,0.0
+P007,27-inch Monitor,Monitors,2025-08-23,19140.16,0.0
+P007,27-inch Monitor,Monitors,2025-08-24,19145.28,0.0
+P007,27-inch Monitor,Monitors,2025-08-25,19000.42,0.0
+P007,27-inch Monitor,Monitors,2025-08-26,18998.2,0.0
+P007,27-inch Monitor,Monitors,2025-08-27,18713.6,0.0
+P007,27-inch Monitor,Monitors,2025-08-28,19547.43,0.0
+P007,27-inch Monitor,Monitors,2025-08-29,19032.67,0.0
+P007,27-inch Monitor,Monitors,2025-08-30,19169.43,0.0
+P007,27-inch Monitor,Monitors,2025-08-31,19056.24,0.0
+P007,27-inch Monitor,Monitors,2025-09-01,18944.85,0.0
+P007,27-inch Monitor,Monitors,2025-09-02,19297.13,0.0
+P007,27-inch Monitor,Monitors,2025-09-03,19147.14,0.0
+P007,27-inch Monitor,Monitors,2025-09-04,19067.87,0.0
+P007,27-inch Monitor,Monitors,2025-09-05,19199.73,0.0
+P007,27-inch Monitor,Monitors,2025-09-06,19108.68,0.0
+P007,27-inch Monitor,Monitors,2025-09-07,19525.6,0.0
+P007,27-inch Monitor,Monitors,2025-09-08,19319.81,0.0
+P007,27-inch Monitor,Monitors,2025-09-09,19256.71,0.0
+P007,27-inch Monitor,Monitors,2025-09-10,18811.25,0.0
+P007,27-inch Monitor,Monitors,2025-09-11,19274.3,0.0
+P007,27-inch Monitor,Monitors,2025-09-12,19272.89,0.0
+P007,27-inch Monitor,Monitors,2025-09-13,18939.48,0.0
+P007,27-inch Monitor,Monitors,2025-09-14,18824.68,0.0
+P007,27-inch Monitor,Monitors,2025-09-15,19341.35,0.0
+P007,27-inch Monitor,Monitors,2025-09-16,19375.5,0.0
+P007,27-inch Monitor,Monitors,2025-09-17,19039.36,0.0
+P007,27-inch Monitor,Monitors,2025-09-18,19033.68,0.0
+P007,27-inch Monitor,Monitors,2025-09-19,19216.28,0.0
+P007,27-inch Monitor,Monitors,2025-09-20,19091.46,0.0
+P007,27-inch Monitor,Monitors,2025-09-21,18847.43,0.0
+P007,27-inch Monitor,Monitors,2025-09-22,18971.89,0.0
+P007,27-inch Monitor,Monitors,2025-09-23,19270.0,0.0
+P007,27-inch Monitor,Monitors,2025-09-24,18989.69,0.0
+P007,27-inch Monitor,Monitors,2025-09-25,19419.53,0.0
+P007,27-inch Monitor,Monitors,2025-09-26,19320.53,0.0
+P007,27-inch Monitor,Monitors,2025-09-27,19291.07,0.0
+P007,27-inch Monitor,Monitors,2025-09-28,19239.79,0.0
+P007,27-inch Monitor,Monitors,2025-09-29,19050.17,0.0
+P007,27-inch Monitor,Monitors,2025-09-30,17111.87,11.39
+P007,27-inch Monitor,Monitors,2025-10-01,19448.91,0.0
+P007,27-inch Monitor,Monitors,2025-10-02,19637.0,0.0
+P007,27-inch Monitor,Monitors,2025-10-03,19535.73,0.0
+P007,27-inch Monitor,Monitors,2025-10-04,14794.41,22.11
+P007,27-inch Monitor,Monitors,2025-10-05,19225.28,0.0
+P007,27-inch Monitor,Monitors,2025-10-06,19536.09,0.0
+P007,27-inch Monitor,Monitors,2025-10-07,19392.73,0.0
+P007,27-inch Monitor,Monitors,2025-10-08,19044.05,0.0
+P007,27-inch Monitor,Monitors,2025-10-09,16198.47,17.77
+P007,27-inch Monitor,Monitors,2025-10-10,14748.98,23.84
+P007,27-inch Monitor,Monitors,2025-10-11,15643.18,18.98
+P007,27-inch Monitor,Monitors,2025-10-12,15264.74,19.65
+P007,27-inch Monitor,Monitors,2025-10-13,15337.81,20.58
+P007,27-inch Monitor,Monitors,2025-10-14,19286.43,0.0
+P007,27-inch Monitor,Monitors,2025-10-15,19222.75,0.0
+P007,27-inch Monitor,Monitors,2025-10-16,14860.87,24.06
+P007,27-inch Monitor,Monitors,2025-10-17,19112.61,0.0
+P007,27-inch Monitor,Monitors,2025-10-18,19052.78,0.0
+P007,27-inch Monitor,Monitors,2025-10-19,16175.99,13.96
+P007,27-inch Monitor,Monitors,2025-10-20,19210.26,0.0
+P007,27-inch Monitor,Monitors,2025-10-21,16725.89,15.01
+P007,27-inch Monitor,Monitors,2025-10-22,19694.44,0.0
+P007,27-inch Monitor,Monitors,2025-10-23,19240.11,0.0
+P007,27-inch Monitor,Monitors,2025-10-24,19308.01,0.0
+P007,27-inch Monitor,Monitors,2025-10-25,19254.23,0.0
+P007,27-inch Monitor,Monitors,2025-10-26,15590.94,18.64
+P007,27-inch Monitor,Monitors,2025-10-27,19513.75,0.0
+P007,27-inch Monitor,Monitors,2025-10-28,16009.61,17.13
+P007,27-inch Monitor,Monitors,2025-10-29,18945.95,0.0
+P007,27-inch Monitor,Monitors,2025-10-30,17007.04,11.28
+P007,27-inch Monitor,Monitors,2025-10-31,18858.64,0.0
+P007,27-inch Monitor,Monitors,2025-11-01,19367.22,0.0
+P007,27-inch Monitor,Monitors,2025-11-02,19356.88,0.0
+P007,27-inch Monitor,Monitors,2025-11-03,19492.15,0.0
+P007,27-inch Monitor,Monitors,2025-11-04,18917.06,0.0
+P007,27-inch Monitor,Monitors,2025-11-05,19479.7,0.0
+P007,27-inch Monitor,Monitors,2025-11-06,17075.71,11.66
+P007,27-inch Monitor,Monitors,2025-11-07,19088.65,0.0
+P007,27-inch Monitor,Monitors,2025-11-08,18833.0,0.0
+P007,27-inch Monitor,Monitors,2025-11-09,19145.53,0.0
+P007,27-inch Monitor,Monitors,2025-11-10,16286.62,13.95
+P007,27-inch Monitor,Monitors,2025-11-11,19361.0,0.0
+P007,27-inch Monitor,Monitors,2025-11-12,19216.89,0.0
+P007,27-inch Monitor,Monitors,2025-11-13,18846.99,0.0
+P007,27-inch Monitor,Monitors,2025-11-14,14786.4,23.86
+P007,27-inch Monitor,Monitors,2025-11-15,19048.62,0.0
+P007,27-inch Monitor,Monitors,2025-11-16,19289.2,0.0
+P007,27-inch Monitor,Monitors,2025-11-17,19340.67,0.0
+P007,27-inch Monitor,Monitors,2025-11-18,14314.23,24.7
+P007,27-inch Monitor,Monitors,2025-11-19,19461.46,0.0
+P007,27-inch Monitor,Monitors,2025-11-20,18963.01,0.0
+P007,27-inch Monitor,Monitors,2025-11-21,18991.38,0.0
+P007,27-inch Monitor,Monitors,2025-11-22,19442.54,0.0
+P007,27-inch Monitor,Monitors,2025-11-23,19274.27,0.0
+P007,27-inch Monitor,Monitors,2025-11-24,15729.99,17.69
+P007,27-inch Monitor,Monitors,2025-11-25,19320.74,0.0
+P007,27-inch Monitor,Monitors,2025-11-26,19342.31,0.0
+P007,27-inch Monitor,Monitors,2025-11-27,19234.11,0.0
+P007,27-inch Monitor,Monitors,2025-11-28,18878.66,0.0
+P007,27-inch Monitor,Monitors,2025-11-29,19317.12,0.0
+P007,27-inch Monitor,Monitors,2025-11-30,18987.76,0.0
+P007,27-inch Monitor,Monitors,2025-12-01,19426.4,0.0
+P007,27-inch Monitor,Monitors,2025-12-02,19278.84,0.0
+P007,27-inch Monitor,Monitors,2025-12-03,18930.84,0.0
+P007,27-inch Monitor,Monitors,2025-12-04,18920.5,0.0
+P007,27-inch Monitor,Monitors,2025-12-05,18542.03,0.0
+P007,27-inch Monitor,Monitors,2025-12-06,17620.71,8.47
+P007,27-inch Monitor,Monitors,2025-12-07,18929.01,0.0
+P007,27-inch Monitor,Monitors,2025-12-08,19224.26,0.0
+P007,27-inch Monitor,Monitors,2025-12-09,18940.27,0.0
+P007,27-inch Monitor,Monitors,2025-12-10,18797.23,0.0
+P007,27-inch Monitor,Monitors,2025-12-11,19055.91,0.0
+P007,27-inch Monitor,Monitors,2025-12-12,18914.97,0.0
+P007,27-inch Monitor,Monitors,2025-12-13,19063.97,0.0
+P007,27-inch Monitor,Monitors,2025-12-14,19109.54,0.0
+P007,27-inch Monitor,Monitors,2025-12-15,18659.21,0.0
+P007,27-inch Monitor,Monitors,2025-12-16,18910.37,0.0
+P007,27-inch Monitor,Monitors,2025-12-17,19012.91,0.0
+P007,27-inch Monitor,Monitors,2025-12-18,19173.47,0.0
+P007,27-inch Monitor,Monitors,2025-12-19,19135.42,0.0
+P007,27-inch Monitor,Monitors,2025-12-20,18789.32,0.0
+P007,27-inch Monitor,Monitors,2025-12-21,18928.8,0.0
+P007,27-inch Monitor,Monitors,2025-12-22,19061.35,0.0
+P007,27-inch Monitor,Monitors,2025-12-23,17472.21,7.76
+P007,27-inch Monitor,Monitors,2025-12-24,19080.85,0.0
+P007,27-inch Monitor,Monitors,2025-12-25,18971.69,0.0
+P007,27-inch Monitor,Monitors,2025-12-26,18662.43,0.0
+P007,27-inch Monitor,Monitors,2025-12-27,18413.68,0.0
+P007,27-inch Monitor,Monitors,2025-12-28,18632.96,0.0
+P007,27-inch Monitor,Monitors,2025-12-29,18985.65,0.0
+P007,27-inch Monitor,Monitors,2025-12-30,18618.25,0.0
+P007,27-inch Monitor,Monitors,2025-12-31,19265.19,0.0
+P008,Bluetooth Speaker,Audio,2025-01-01,5028.17,0.0
+P008,Bluetooth Speaker,Audio,2025-01-02,5077.77,0.0
+P008,Bluetooth Speaker,Audio,2025-01-03,5048.03,0.0
+P008,Bluetooth Speaker,Audio,2025-01-04,5094.57,0.0
+P008,Bluetooth Speaker,Audio,2025-01-05,5113.04,0.0
+P008,Bluetooth Speaker,Audio,2025-01-06,5001.52,0.0
+P008,Bluetooth Speaker,Audio,2025-01-07,5105.46,0.0
+P008,Bluetooth Speaker,Audio,2025-01-08,5106.23,0.0
+P008,Bluetooth Speaker,Audio,2025-01-09,5031.61,0.0
+P008,Bluetooth Speaker,Audio,2025-01-10,5157.03,0.0
+P008,Bluetooth Speaker,Audio,2025-01-11,5067.68,0.0
+P008,Bluetooth Speaker,Audio,2025-01-12,5125.54,0.0
+P008,Bluetooth Speaker,Audio,2025-01-13,4978.38,0.0
+P008,Bluetooth Speaker,Audio,2025-01-14,5138.17,0.0
+P008,Bluetooth Speaker,Audio,2025-01-15,5093.48,0.0
+P008,Bluetooth Speaker,Audio,2025-01-16,5016.89,0.0
+P008,Bluetooth Speaker,Audio,2025-01-17,5089.31,0.0
+P008,Bluetooth Speaker,Audio,2025-01-18,5154.6,0.0
+P008,Bluetooth Speaker,Audio,2025-01-19,5029.77,0.0
+P008,Bluetooth Speaker,Audio,2025-01-20,5027.42,0.0
+P008,Bluetooth Speaker,Audio,2025-01-21,5048.4,0.0
+P008,Bluetooth Speaker,Audio,2025-01-22,5061.94,0.0
+P008,Bluetooth Speaker,Audio,2025-01-23,5112.4,0.0
+P008,Bluetooth Speaker,Audio,2025-01-24,5082.32,0.0
+P008,Bluetooth Speaker,Audio,2025-01-25,5041.67,0.0
+P008,Bluetooth Speaker,Audio,2025-01-26,5068.58,0.0
+P008,Bluetooth Speaker,Audio,2025-01-27,5150.9,0.0
+P008,Bluetooth Speaker,Audio,2025-01-28,5085.76,0.0
+P008,Bluetooth Speaker,Audio,2025-01-29,5040.78,0.0
+P008,Bluetooth Speaker,Audio,2025-01-30,5031.33,0.0
+P008,Bluetooth Speaker,Audio,2025-01-31,5056.3,0.0
+P008,Bluetooth Speaker,Audio,2025-02-01,5096.02,0.0
+P008,Bluetooth Speaker,Audio,2025-02-02,4997.99,0.0
+P008,Bluetooth Speaker,Audio,2025-02-03,5083.42,0.0
+P008,Bluetooth Speaker,Audio,2025-02-04,5028.93,0.0
+P008,Bluetooth Speaker,Audio,2025-02-05,5035.45,0.0
+P008,Bluetooth Speaker,Audio,2025-02-06,5183.8,0.0
+P008,Bluetooth Speaker,Audio,2025-02-07,5069.65,0.0
+P008,Bluetooth Speaker,Audio,2025-02-08,4998.99,0.0
+P008,Bluetooth Speaker,Audio,2025-02-09,5050.37,0.0
+P008,Bluetooth Speaker,Audio,2025-02-10,5082.89,0.0
+P008,Bluetooth Speaker,Audio,2025-02-11,5062.98,0.0
+P008,Bluetooth Speaker,Audio,2025-02-12,4900.97,0.0
+P008,Bluetooth Speaker,Audio,2025-02-13,4852.56,0.0
+P008,Bluetooth Speaker,Audio,2025-02-14,5016.47,0.0
+P008,Bluetooth Speaker,Audio,2025-02-15,5041.9,0.0
+P008,Bluetooth Speaker,Audio,2025-02-16,5035.11,0.0
+P008,Bluetooth Speaker,Audio,2025-02-17,4986.72,0.0
+P008,Bluetooth Speaker,Audio,2025-02-18,5051.07,0.0
+P008,Bluetooth Speaker,Audio,2025-02-19,5075.47,0.0
+P008,Bluetooth Speaker,Audio,2025-02-20,4914.98,0.0
+P008,Bluetooth Speaker,Audio,2025-02-21,4908.44,0.0
+P008,Bluetooth Speaker,Audio,2025-02-22,5025.75,0.0
+P008,Bluetooth Speaker,Audio,2025-02-23,5046.92,0.0
+P008,Bluetooth Speaker,Audio,2025-02-24,4965.58,0.0
+P008,Bluetooth Speaker,Audio,2025-02-25,4879.66,0.0
+P008,Bluetooth Speaker,Audio,2025-02-26,4995.24,0.0
+P008,Bluetooth Speaker,Audio,2025-02-27,5015.7,0.0
+P008,Bluetooth Speaker,Audio,2025-02-28,4975.3,0.0
+P008,Bluetooth Speaker,Audio,2025-03-01,5049.46,0.0
+P008,Bluetooth Speaker,Audio,2025-03-02,5006.6,0.0
+P008,Bluetooth Speaker,Audio,2025-03-03,4946.95,0.0
+P008,Bluetooth Speaker,Audio,2025-03-04,4950.66,0.0
+P008,Bluetooth Speaker,Audio,2025-03-05,4983.89,0.0
+P008,Bluetooth Speaker,Audio,2025-03-06,4960.74,0.0
+P008,Bluetooth Speaker,Audio,2025-03-07,4879.94,0.0
+P008,Bluetooth Speaker,Audio,2025-03-08,4990.82,0.0
+P008,Bluetooth Speaker,Audio,2025-03-09,4943.32,0.0
+P008,Bluetooth Speaker,Audio,2025-03-10,4950.71,0.0
+P008,Bluetooth Speaker,Audio,2025-03-11,4912.17,0.0
+P008,Bluetooth Speaker,Audio,2025-03-12,5062.03,0.0
+P008,Bluetooth Speaker,Audio,2025-03-13,5004.46,0.0
+P008,Bluetooth Speaker,Audio,2025-03-14,5075.42,0.0
+P008,Bluetooth Speaker,Audio,2025-03-15,4948.98,0.0
+P008,Bluetooth Speaker,Audio,2025-03-16,5003.02,0.0
+P008,Bluetooth Speaker,Audio,2025-03-17,4976.8,0.0
+P008,Bluetooth Speaker,Audio,2025-03-18,4923.59,0.0
+P008,Bluetooth Speaker,Audio,2025-03-19,4942.0,0.0
+P008,Bluetooth Speaker,Audio,2025-03-20,4993.08,0.0
+P008,Bluetooth Speaker,Audio,2025-03-21,4895.94,0.0
+P008,Bluetooth Speaker,Audio,2025-03-22,5014.86,0.0
+P008,Bluetooth Speaker,Audio,2025-03-23,4962.61,0.0
+P008,Bluetooth Speaker,Audio,2025-03-24,5003.16,0.0
+P008,Bluetooth Speaker,Audio,2025-03-25,4972.65,0.0
+P008,Bluetooth Speaker,Audio,2025-03-26,4857.77,0.0
+P008,Bluetooth Speaker,Audio,2025-03-27,4660.28,5.26
+P008,Bluetooth Speaker,Audio,2025-03-28,4973.79,0.0
+P008,Bluetooth Speaker,Audio,2025-03-29,4991.92,0.0
+P008,Bluetooth Speaker,Audio,2025-03-30,5133.5,0.0
+P008,Bluetooth Speaker,Audio,2025-03-31,4412.33,8.81
+P008,Bluetooth Speaker,Audio,2025-04-01,5008.97,0.0
+P008,Bluetooth Speaker,Audio,2025-04-02,4809.45,0.0
+P008,Bluetooth Speaker,Audio,2025-04-03,5019.87,0.0
+P008,Bluetooth Speaker,Audio,2025-04-04,4916.26,0.0
+P008,Bluetooth Speaker,Audio,2025-04-05,4962.37,0.0
+P008,Bluetooth Speaker,Audio,2025-04-06,4827.2,0.0
+P008,Bluetooth Speaker,Audio,2025-04-07,4978.88,0.0
+P008,Bluetooth Speaker,Audio,2025-04-08,4966.85,0.0
+P008,Bluetooth Speaker,Audio,2025-04-09,4962.0,0.0
+P008,Bluetooth Speaker,Audio,2025-04-10,4820.62,0.0
+P008,Bluetooth Speaker,Audio,2025-04-11,4884.55,0.0
+P008,Bluetooth Speaker,Audio,2025-04-12,4951.0,0.0
+P008,Bluetooth Speaker,Audio,2025-04-13,4993.77,0.0
+P008,Bluetooth Speaker,Audio,2025-04-14,4873.49,0.0
+P008,Bluetooth Speaker,Audio,2025-04-15,4874.07,0.0
+P008,Bluetooth Speaker,Audio,2025-04-16,4247.89,9.99
+P008,Bluetooth Speaker,Audio,2025-04-17,4957.21,0.0
+P008,Bluetooth Speaker,Audio,2025-04-18,5038.04,0.0
+P008,Bluetooth Speaker,Audio,2025-04-19,4684.73,4.25
+P008,Bluetooth Speaker,Audio,2025-04-20,4914.62,0.0
+P008,Bluetooth Speaker,Audio,2025-04-21,4992.42,0.0
+P008,Bluetooth Speaker,Audio,2025-04-22,4916.27,0.0
+P008,Bluetooth Speaker,Audio,2025-04-23,5071.17,0.0
+P008,Bluetooth Speaker,Audio,2025-04-24,4925.29,0.0
+P008,Bluetooth Speaker,Audio,2025-04-25,4996.32,0.0
+P008,Bluetooth Speaker,Audio,2025-04-26,4900.48,0.0
+P008,Bluetooth Speaker,Audio,2025-04-27,4845.65,0.0
+P008,Bluetooth Speaker,Audio,2025-04-28,4912.84,0.0
+P008,Bluetooth Speaker,Audio,2025-04-29,4947.92,0.0
+P008,Bluetooth Speaker,Audio,2025-04-30,4871.69,0.0
+P008,Bluetooth Speaker,Audio,2025-05-01,4982.58,0.0
+P008,Bluetooth Speaker,Audio,2025-05-02,4888.12,0.0
+P008,Bluetooth Speaker,Audio,2025-05-03,4854.79,0.0
+P008,Bluetooth Speaker,Audio,2025-05-04,5050.45,0.0
+P008,Bluetooth Speaker,Audio,2025-05-05,4867.36,0.0
+P008,Bluetooth Speaker,Audio,2025-05-06,4885.51,0.0
+P008,Bluetooth Speaker,Audio,2025-05-07,4955.61,0.0
+P008,Bluetooth Speaker,Audio,2025-05-08,4894.79,0.0
+P008,Bluetooth Speaker,Audio,2025-05-09,4855.68,0.0
+P008,Bluetooth Speaker,Audio,2025-05-10,4879.58,0.0
+P008,Bluetooth Speaker,Audio,2025-05-11,5026.82,0.0
+P008,Bluetooth Speaker,Audio,2025-05-12,4947.68,0.0
+P008,Bluetooth Speaker,Audio,2025-05-13,4959.67,0.0
+P008,Bluetooth Speaker,Audio,2025-05-14,4929.87,0.0
+P008,Bluetooth Speaker,Audio,2025-05-15,4939.96,0.0
+P008,Bluetooth Speaker,Audio,2025-05-16,4890.89,0.0
+P008,Bluetooth Speaker,Audio,2025-05-17,4922.83,0.0
+P008,Bluetooth Speaker,Audio,2025-05-18,4800.91,0.0
+P008,Bluetooth Speaker,Audio,2025-05-19,4972.51,0.0
+P008,Bluetooth Speaker,Audio,2025-05-20,4891.46,0.0
+P008,Bluetooth Speaker,Audio,2025-05-21,4848.74,0.0
+P008,Bluetooth Speaker,Audio,2025-05-22,4927.83,0.0
+P008,Bluetooth Speaker,Audio,2025-05-23,4905.64,0.0
+P008,Bluetooth Speaker,Audio,2025-05-24,4972.18,0.0
+P008,Bluetooth Speaker,Audio,2025-05-25,4915.04,0.0
+P008,Bluetooth Speaker,Audio,2025-05-26,4882.73,0.0
+P008,Bluetooth Speaker,Audio,2025-05-27,4917.58,0.0
+P008,Bluetooth Speaker,Audio,2025-05-28,5005.2,0.0
+P008,Bluetooth Speaker,Audio,2025-05-29,4977.25,0.0
+P008,Bluetooth Speaker,Audio,2025-05-30,4954.41,0.0
+P008,Bluetooth Speaker,Audio,2025-05-31,4981.5,0.0
+P008,Bluetooth Speaker,Audio,2025-06-01,4960.64,0.0
+P008,Bluetooth Speaker,Audio,2025-06-02,4872.06,0.0
+P008,Bluetooth Speaker,Audio,2025-06-03,4970.14,0.0
+P008,Bluetooth Speaker,Audio,2025-06-04,4992.45,0.0
+P008,Bluetooth Speaker,Audio,2025-06-05,4997.1,0.0
+P008,Bluetooth Speaker,Audio,2025-06-06,4863.9,0.0
+P008,Bluetooth Speaker,Audio,2025-06-07,4899.06,0.0
+P008,Bluetooth Speaker,Audio,2025-06-08,4891.66,0.0
+P008,Bluetooth Speaker,Audio,2025-06-09,4911.91,0.0
+P008,Bluetooth Speaker,Audio,2025-06-10,4957.88,0.0
+P008,Bluetooth Speaker,Audio,2025-06-11,4941.99,0.0
+P008,Bluetooth Speaker,Audio,2025-06-12,4943.17,0.0
+P008,Bluetooth Speaker,Audio,2025-06-13,4856.96,0.0
+P008,Bluetooth Speaker,Audio,2025-06-14,4904.81,0.0
+P008,Bluetooth Speaker,Audio,2025-06-15,5013.04,0.0
+P008,Bluetooth Speaker,Audio,2025-06-16,5005.38,0.0
+P008,Bluetooth Speaker,Audio,2025-06-17,4935.73,0.0
+P008,Bluetooth Speaker,Audio,2025-06-18,4987.09,0.0
+P008,Bluetooth Speaker,Audio,2025-06-19,4963.61,0.0
+P008,Bluetooth Speaker,Audio,2025-06-20,4996.77,0.0
+P008,Bluetooth Speaker,Audio,2025-06-21,4994.11,0.0
+P008,Bluetooth Speaker,Audio,2025-06-22,5065.75,0.0
+P008,Bluetooth Speaker,Audio,2025-06-23,4948.92,0.0
+P008,Bluetooth Speaker,Audio,2025-06-24,4983.48,0.0
+P008,Bluetooth Speaker,Audio,2025-06-25,4976.52,0.0
+P008,Bluetooth Speaker,Audio,2025-06-26,4955.18,0.0
+P008,Bluetooth Speaker,Audio,2025-06-27,4944.0,0.0
+P008,Bluetooth Speaker,Audio,2025-06-28,5058.45,0.0
+P008,Bluetooth Speaker,Audio,2025-06-29,4960.23,0.0
+P008,Bluetooth Speaker,Audio,2025-06-30,5001.77,0.0
+P008,Bluetooth Speaker,Audio,2025-07-01,5057.98,0.0
+P008,Bluetooth Speaker,Audio,2025-07-02,4787.45,3.34
+P008,Bluetooth Speaker,Audio,2025-07-03,4982.93,0.0
+P008,Bluetooth Speaker,Audio,2025-07-04,4974.18,0.0
+P008,Bluetooth Speaker,Audio,2025-07-05,4950.12,0.0
+P008,Bluetooth Speaker,Audio,2025-07-06,5072.06,0.0
+P008,Bluetooth Speaker,Audio,2025-07-07,4899.29,0.0
+P008,Bluetooth Speaker,Audio,2025-07-08,4916.04,0.0
+P008,Bluetooth Speaker,Audio,2025-07-09,5029.14,0.0
+P008,Bluetooth Speaker,Audio,2025-07-10,4987.69,0.0
+P008,Bluetooth Speaker,Audio,2025-07-11,4937.85,0.0
+P008,Bluetooth Speaker,Audio,2025-07-12,4980.18,0.0
+P008,Bluetooth Speaker,Audio,2025-07-13,4913.76,0.0
+P008,Bluetooth Speaker,Audio,2025-07-14,5031.32,0.0
+P008,Bluetooth Speaker,Audio,2025-07-15,4479.5,8.15
+P008,Bluetooth Speaker,Audio,2025-07-16,5029.45,0.0
+P008,Bluetooth Speaker,Audio,2025-07-17,5065.24,0.0
+P008,Bluetooth Speaker,Audio,2025-07-18,5044.51,0.0
+P008,Bluetooth Speaker,Audio,2025-07-19,5059.0,0.0
+P008,Bluetooth Speaker,Audio,2025-07-20,4861.89,0.0
+P008,Bluetooth Speaker,Audio,2025-07-21,4891.98,0.0
+P008,Bluetooth Speaker,Audio,2025-07-22,4990.26,0.0
+P008,Bluetooth Speaker,Audio,2025-07-23,4950.2,0.0
+P008,Bluetooth Speaker,Audio,2025-07-24,4920.25,0.0
+P008,Bluetooth Speaker,Audio,2025-07-25,4984.84,0.0
+P008,Bluetooth Speaker,Audio,2025-07-26,5107.34,0.0
+P008,Bluetooth Speaker,Audio,2025-07-27,5128.39,0.0
+P008,Bluetooth Speaker,Audio,2025-07-28,4968.38,0.0
+P008,Bluetooth Speaker,Audio,2025-07-29,5025.83,0.0
+P008,Bluetooth Speaker,Audio,2025-07-30,5047.14,0.0
+P008,Bluetooth Speaker,Audio,2025-07-31,5011.25,0.0
+P008,Bluetooth Speaker,Audio,2025-08-01,5103.85,0.0
+P008,Bluetooth Speaker,Audio,2025-08-02,4819.12,3.5
+P008,Bluetooth Speaker,Audio,2025-08-03,4946.21,0.0
+P008,Bluetooth Speaker,Audio,2025-08-04,5122.58,0.0
+P008,Bluetooth Speaker,Audio,2025-08-05,5030.54,0.0
+P008,Bluetooth Speaker,Audio,2025-08-06,4888.79,0.0
+P008,Bluetooth Speaker,Audio,2025-08-07,5030.21,0.0
+P008,Bluetooth Speaker,Audio,2025-08-08,5053.15,0.0
+P008,Bluetooth Speaker,Audio,2025-08-09,4917.31,0.0
+P008,Bluetooth Speaker,Audio,2025-08-10,5061.72,0.0
+P008,Bluetooth Speaker,Audio,2025-08-11,4991.61,0.0
+P008,Bluetooth Speaker,Audio,2025-08-12,5065.43,0.0
+P008,Bluetooth Speaker,Audio,2025-08-13,5066.62,0.0
+P008,Bluetooth Speaker,Audio,2025-08-14,5070.38,0.0
+P008,Bluetooth Speaker,Audio,2025-08-15,5111.15,0.0
+P008,Bluetooth Speaker,Audio,2025-08-16,4882.65,0.0
+P008,Bluetooth Speaker,Audio,2025-08-17,5004.01,0.0
+P008,Bluetooth Speaker,Audio,2025-08-18,5055.34,0.0
+P008,Bluetooth Speaker,Audio,2025-08-19,4970.67,0.0
+P008,Bluetooth Speaker,Audio,2025-08-20,5117.33,0.0
+P008,Bluetooth Speaker,Audio,2025-08-21,4444.32,11.38
+P008,Bluetooth Speaker,Audio,2025-08-22,4985.77,0.0
+P008,Bluetooth Speaker,Audio,2025-08-23,5068.95,0.0
+P008,Bluetooth Speaker,Audio,2025-08-24,4978.83,0.0
+P008,Bluetooth Speaker,Audio,2025-08-25,5005.53,0.0
+P008,Bluetooth Speaker,Audio,2025-08-26,5005.99,0.0
+P008,Bluetooth Speaker,Audio,2025-08-27,5093.92,0.0
+P008,Bluetooth Speaker,Audio,2025-08-28,5142.26,0.0
+P008,Bluetooth Speaker,Audio,2025-08-29,5114.2,0.0
+P008,Bluetooth Speaker,Audio,2025-08-30,5182.18,0.0
+P008,Bluetooth Speaker,Audio,2025-08-31,5080.1,0.0
+P008,Bluetooth Speaker,Audio,2025-09-01,5082.41,0.0
+P008,Bluetooth Speaker,Audio,2025-09-02,5054.54,0.0
+P008,Bluetooth Speaker,Audio,2025-09-03,5233.29,0.0
+P008,Bluetooth Speaker,Audio,2025-09-04,5027.04,0.0
+P008,Bluetooth Speaker,Audio,2025-09-05,5156.62,0.0
+P008,Bluetooth Speaker,Audio,2025-09-06,5164.97,0.0
+P008,Bluetooth Speaker,Audio,2025-09-07,5164.52,0.0
+P008,Bluetooth Speaker,Audio,2025-09-08,5073.06,0.0
+P008,Bluetooth Speaker,Audio,2025-09-09,5047.49,0.0
+P008,Bluetooth Speaker,Audio,2025-09-10,5115.8,0.0
+P008,Bluetooth Speaker,Audio,2025-09-11,5161.12,0.0
+P008,Bluetooth Speaker,Audio,2025-09-12,5093.9,0.0
+P008,Bluetooth Speaker,Audio,2025-09-13,5114.32,0.0
+P008,Bluetooth Speaker,Audio,2025-09-14,5099.33,0.0
+P008,Bluetooth Speaker,Audio,2025-09-15,5142.1,0.0
+P008,Bluetooth Speaker,Audio,2025-09-16,5140.37,0.0
+P008,Bluetooth Speaker,Audio,2025-09-17,5235.69,0.0
+P008,Bluetooth Speaker,Audio,2025-09-18,5177.92,0.0
+P008,Bluetooth Speaker,Audio,2025-09-19,5072.26,0.0
+P008,Bluetooth Speaker,Audio,2025-09-20,5078.52,0.0
+P008,Bluetooth Speaker,Audio,2025-09-21,5193.35,0.0
+P008,Bluetooth Speaker,Audio,2025-09-22,5152.48,0.0
+P008,Bluetooth Speaker,Audio,2025-09-23,5273.06,0.0
+P008,Bluetooth Speaker,Audio,2025-09-24,5274.88,0.0
+P008,Bluetooth Speaker,Audio,2025-09-25,5105.07,0.0
+P008,Bluetooth Speaker,Audio,2025-09-26,5177.51,0.0
+P008,Bluetooth Speaker,Audio,2025-09-27,5093.38,0.0
+P008,Bluetooth Speaker,Audio,2025-09-28,5206.32,0.0
+P008,Bluetooth Speaker,Audio,2025-09-29,5270.31,0.0
+P008,Bluetooth Speaker,Audio,2025-09-30,5176.62,0.0
+P008,Bluetooth Speaker,Audio,2025-10-01,4691.03,8.63
+P008,Bluetooth Speaker,Audio,2025-10-02,4727.52,9.55
+P008,Bluetooth Speaker,Audio,2025-10-03,5166.37,0.0
+P008,Bluetooth Speaker,Audio,2025-10-04,5137.22,0.0
+P008,Bluetooth Speaker,Audio,2025-10-05,5183.04,0.0
+P008,Bluetooth Speaker,Audio,2025-10-06,5252.59,0.0
+P008,Bluetooth Speaker,Audio,2025-10-07,5163.16,0.0
+P008,Bluetooth Speaker,Audio,2025-10-08,4164.49,19.98
+P008,Bluetooth Speaker,Audio,2025-10-09,5111.66,0.0
+P008,Bluetooth Speaker,Audio,2025-10-10,4851.48,8.48
+P008,Bluetooth Speaker,Audio,2025-10-11,5166.69,0.0
+P008,Bluetooth Speaker,Audio,2025-10-12,4165.89,20.36
+P008,Bluetooth Speaker,Audio,2025-10-13,5210.24,0.0
+P008,Bluetooth Speaker,Audio,2025-10-14,5197.34,0.0
+P008,Bluetooth Speaker,Audio,2025-10-15,4068.12,22.26
+P008,Bluetooth Speaker,Audio,2025-10-16,5065.0,0.0
+P008,Bluetooth Speaker,Audio,2025-10-17,5291.92,0.0
+P008,Bluetooth Speaker,Audio,2025-10-18,5190.26,0.0
+P008,Bluetooth Speaker,Audio,2025-10-19,5163.31,0.0
+P008,Bluetooth Speaker,Audio,2025-10-20,5272.7,0.0
+P008,Bluetooth Speaker,Audio,2025-10-21,5158.27,0.0
+P008,Bluetooth Speaker,Audio,2025-10-22,5185.75,0.0
+P008,Bluetooth Speaker,Audio,2025-10-23,5099.59,0.0
+P008,Bluetooth Speaker,Audio,2025-10-24,4082.51,22.38
+P008,Bluetooth Speaker,Audio,2025-10-25,4177.13,19.76
+P008,Bluetooth Speaker,Audio,2025-10-26,5235.46,0.0
+P008,Bluetooth Speaker,Audio,2025-10-27,5199.72,0.0
+P008,Bluetooth Speaker,Audio,2025-10-28,5093.97,0.0
+P008,Bluetooth Speaker,Audio,2025-10-29,4119.8,22.39
+P008,Bluetooth Speaker,Audio,2025-10-30,5227.16,0.0
+P008,Bluetooth Speaker,Audio,2025-10-31,5051.27,0.0
+P008,Bluetooth Speaker,Audio,2025-11-01,5259.31,0.0
+P008,Bluetooth Speaker,Audio,2025-11-02,5270.02,0.0
+P008,Bluetooth Speaker,Audio,2025-11-03,5214.24,0.0
+P008,Bluetooth Speaker,Audio,2025-11-04,5200.78,0.0
+P008,Bluetooth Speaker,Audio,2025-11-05,5198.58,0.0
+P008,Bluetooth Speaker,Audio,2025-11-06,5263.44,0.0
+P008,Bluetooth Speaker,Audio,2025-11-07,5154.1,0.0
+P008,Bluetooth Speaker,Audio,2025-11-08,5303.29,0.0
+P008,Bluetooth Speaker,Audio,2025-11-09,5202.9,0.0
+P008,Bluetooth Speaker,Audio,2025-11-10,4092.61,22.78
+P008,Bluetooth Speaker,Audio,2025-11-11,5178.33,0.0
+P008,Bluetooth Speaker,Audio,2025-11-12,5178.58,0.0
+P008,Bluetooth Speaker,Audio,2025-11-13,5229.09,0.0
+P008,Bluetooth Speaker,Audio,2025-11-14,5216.5,0.0
+P008,Bluetooth Speaker,Audio,2025-11-15,5175.79,0.0
+P008,Bluetooth Speaker,Audio,2025-11-16,5218.97,0.0
+P008,Bluetooth Speaker,Audio,2025-11-17,4008.51,22.92
+P008,Bluetooth Speaker,Audio,2025-11-18,3904.84,24.6
+P008,Bluetooth Speaker,Audio,2025-11-19,4287.91,18.64
+P008,Bluetooth Speaker,Audio,2025-11-20,4260.29,18.22
+P008,Bluetooth Speaker,Audio,2025-11-21,5139.97,0.0
+P008,Bluetooth Speaker,Audio,2025-11-22,5287.22,0.0
+P008,Bluetooth Speaker,Audio,2025-11-23,4397.28,16.92
+P008,Bluetooth Speaker,Audio,2025-11-24,5168.06,0.0
+P008,Bluetooth Speaker,Audio,2025-11-25,5233.72,0.0
+P008,Bluetooth Speaker,Audio,2025-11-26,5279.66,0.0
+P008,Bluetooth Speaker,Audio,2025-11-27,5274.77,0.0
+P008,Bluetooth Speaker,Audio,2025-11-28,5152.25,0.0
+P008,Bluetooth Speaker,Audio,2025-11-29,5247.59,0.0
+P008,Bluetooth Speaker,Audio,2025-11-30,5221.9,0.0
+P008,Bluetooth Speaker,Audio,2025-12-01,5244.34,0.0
+P008,Bluetooth Speaker,Audio,2025-12-02,5213.63,0.0
+P008,Bluetooth Speaker,Audio,2025-12-03,5240.51,0.0
+P008,Bluetooth Speaker,Audio,2025-12-04,5250.01,0.0
+P008,Bluetooth Speaker,Audio,2025-12-05,5210.1,0.0
+P008,Bluetooth Speaker,Audio,2025-12-06,5261.69,0.0
+P008,Bluetooth Speaker,Audio,2025-12-07,5275.16,0.0
+P008,Bluetooth Speaker,Audio,2025-12-08,5250.03,0.0
+P008,Bluetooth Speaker,Audio,2025-12-09,5253.09,0.0
+P008,Bluetooth Speaker,Audio,2025-12-10,5232.14,0.0
+P008,Bluetooth Speaker,Audio,2025-12-11,5288.64,0.0
+P008,Bluetooth Speaker,Audio,2025-12-12,5218.55,0.0
+P008,Bluetooth Speaker,Audio,2025-12-13,5180.7,0.0
+P008,Bluetooth Speaker,Audio,2025-12-14,5219.04,0.0
+P008,Bluetooth Speaker,Audio,2025-12-15,5143.45,0.0
+P008,Bluetooth Speaker,Audio,2025-12-16,5136.37,0.0
+P008,Bluetooth Speaker,Audio,2025-12-17,5269.49,0.0
+P008,Bluetooth Speaker,Audio,2025-12-18,5304.12,0.0
+P008,Bluetooth Speaker,Audio,2025-12-19,5194.81,0.0
+P008,Bluetooth Speaker,Audio,2025-12-20,5267.68,0.0
+P008,Bluetooth Speaker,Audio,2025-12-21,5110.31,0.0
+P008,Bluetooth Speaker,Audio,2025-12-22,5100.78,0.0
+P008,Bluetooth Speaker,Audio,2025-12-23,5281.4,0.0
+P008,Bluetooth Speaker,Audio,2025-12-24,5238.55,0.0
+P008,Bluetooth Speaker,Audio,2025-12-25,5208.25,0.0
+P008,Bluetooth Speaker,Audio,2025-12-26,5308.17,0.0
+P008,Bluetooth Speaker,Audio,2025-12-27,5197.76,0.0
+P008,Bluetooth Speaker,Audio,2025-12-28,5145.21,0.0
+P008,Bluetooth Speaker,Audio,2025-12-29,5116.99,0.0
+P008,Bluetooth Speaker,Audio,2025-12-30,5204.3,0.0
+P008,Bluetooth Speaker,Audio,2025-12-31,5213.76,0.0
+P009,Wireless Earbuds,Audio,2025-01-01,6221.71,0.0
+P009,Wireless Earbuds,Audio,2025-01-02,6252.5,0.0
+P009,Wireless Earbuds,Audio,2025-01-03,5600.59,6.98
+P009,Wireless Earbuds,Audio,2025-01-04,6017.15,0.0
+P009,Wireless Earbuds,Audio,2025-01-05,6051.37,0.0
+P009,Wireless Earbuds,Audio,2025-01-06,6151.71,0.0
+P009,Wireless Earbuds,Audio,2025-01-07,6088.83,0.0
+P009,Wireless Earbuds,Audio,2025-01-08,6091.67,0.0
+P009,Wireless Earbuds,Audio,2025-01-09,6235.1,0.0
+P009,Wireless Earbuds,Audio,2025-01-10,6132.56,0.0
+P009,Wireless Earbuds,Audio,2025-01-11,6149.99,0.0
+P009,Wireless Earbuds,Audio,2025-01-12,6090.37,0.0
+P009,Wireless Earbuds,Audio,2025-01-13,6107.24,0.0
+P009,Wireless Earbuds,Audio,2025-01-14,6135.12,0.0
+P009,Wireless Earbuds,Audio,2025-01-15,6201.27,0.0
+P009,Wireless Earbuds,Audio,2025-01-16,6087.57,0.0
+P009,Wireless Earbuds,Audio,2025-01-17,6280.62,0.0
+P009,Wireless Earbuds,Audio,2025-01-18,5644.27,7.62
+P009,Wireless Earbuds,Audio,2025-01-19,6270.02,0.0
+P009,Wireless Earbuds,Audio,2025-01-20,6078.49,0.0
+P009,Wireless Earbuds,Audio,2025-01-21,6190.73,0.0
+P009,Wireless Earbuds,Audio,2025-01-22,6112.75,0.0
+P009,Wireless Earbuds,Audio,2025-01-23,6096.99,0.0
+P009,Wireless Earbuds,Audio,2025-01-24,6016.17,0.0
+P009,Wireless Earbuds,Audio,2025-01-25,6166.47,0.0
+P009,Wireless Earbuds,Audio,2025-01-26,6114.33,0.0
+P009,Wireless Earbuds,Audio,2025-01-27,6194.04,0.0
+P009,Wireless Earbuds,Audio,2025-01-28,6177.68,0.0
+P009,Wireless Earbuds,Audio,2025-01-29,6246.91,0.0
+P009,Wireless Earbuds,Audio,2025-01-30,6100.43,0.0
+P009,Wireless Earbuds,Audio,2025-01-31,6133.07,0.0
+P009,Wireless Earbuds,Audio,2025-02-01,6164.89,0.0
+P009,Wireless Earbuds,Audio,2025-02-02,6273.95,0.0
+P009,Wireless Earbuds,Audio,2025-02-03,6219.18,0.0
+P009,Wireless Earbuds,Audio,2025-02-04,6060.01,0.0
+P009,Wireless Earbuds,Audio,2025-02-05,6210.91,0.0
+P009,Wireless Earbuds,Audio,2025-02-06,6133.48,0.0
+P009,Wireless Earbuds,Audio,2025-02-07,6117.51,0.0
+P009,Wireless Earbuds,Audio,2025-02-08,6098.03,0.0
+P009,Wireless Earbuds,Audio,2025-02-09,6046.75,0.0
+P009,Wireless Earbuds,Audio,2025-02-10,6253.36,0.0
+P009,Wireless Earbuds,Audio,2025-02-11,6053.32,0.0
+P009,Wireless Earbuds,Audio,2025-02-12,6009.13,0.0
+P009,Wireless Earbuds,Audio,2025-02-13,6220.67,0.0
+P009,Wireless Earbuds,Audio,2025-02-14,6257.44,0.0
+P009,Wireless Earbuds,Audio,2025-02-15,6117.3,0.0
+P009,Wireless Earbuds,Audio,2025-02-16,5926.02,0.0
+P009,Wireless Earbuds,Audio,2025-02-17,6113.39,0.0
+P009,Wireless Earbuds,Audio,2025-02-18,6184.83,0.0
+P009,Wireless Earbuds,Audio,2025-02-19,6203.25,0.0
+P009,Wireless Earbuds,Audio,2025-02-20,6047.14,0.0
+P009,Wireless Earbuds,Audio,2025-02-21,6096.04,0.0
+P009,Wireless Earbuds,Audio,2025-02-22,6133.52,0.0
+P009,Wireless Earbuds,Audio,2025-02-23,6172.17,0.0
+P009,Wireless Earbuds,Audio,2025-02-24,6162.06,0.0
+P009,Wireless Earbuds,Audio,2025-02-25,6147.75,0.0
+P009,Wireless Earbuds,Audio,2025-02-26,5520.42,9.44
+P009,Wireless Earbuds,Audio,2025-02-27,6224.38,0.0
+P009,Wireless Earbuds,Audio,2025-02-28,6098.08,0.0
+P009,Wireless Earbuds,Audio,2025-03-01,6202.2,0.0
+P009,Wireless Earbuds,Audio,2025-03-02,6117.76,0.0
+P009,Wireless Earbuds,Audio,2025-03-03,6117.08,0.0
+P009,Wireless Earbuds,Audio,2025-03-04,5682.66,6.85
+P009,Wireless Earbuds,Audio,2025-03-05,6062.44,0.0
+P009,Wireless Earbuds,Audio,2025-03-06,6180.34,0.0
+P009,Wireless Earbuds,Audio,2025-03-07,6065.76,0.0
+P009,Wireless Earbuds,Audio,2025-03-08,6089.33,0.0
+P009,Wireless Earbuds,Audio,2025-03-09,6130.2,0.0
+P009,Wireless Earbuds,Audio,2025-03-10,6266.51,0.0
+P009,Wireless Earbuds,Audio,2025-03-11,6129.02,0.0
+P009,Wireless Earbuds,Audio,2025-03-12,6087.62,0.0
+P009,Wireless Earbuds,Audio,2025-03-13,5948.65,0.0
+P009,Wireless Earbuds,Audio,2025-03-14,6068.38,0.0
+P009,Wireless Earbuds,Audio,2025-03-15,6030.6,0.0
+P009,Wireless Earbuds,Audio,2025-03-16,5342.87,11.25
+P009,Wireless Earbuds,Audio,2025-03-17,6189.8,0.0
+P009,Wireless Earbuds,Audio,2025-03-18,6023.31,0.0
+P009,Wireless Earbuds,Audio,2025-03-19,6059.54,0.0
+P009,Wireless Earbuds,Audio,2025-03-20,6004.14,0.0
+P009,Wireless Earbuds,Audio,2025-03-21,6027.2,0.0
+P009,Wireless Earbuds,Audio,2025-03-22,6052.23,0.0
+P009,Wireless Earbuds,Audio,2025-03-23,5911.23,0.0
+P009,Wireless Earbuds,Audio,2025-03-24,6113.63,0.0
+P009,Wireless Earbuds,Audio,2025-03-25,6209.56,0.0
+P009,Wireless Earbuds,Audio,2025-03-26,6151.24,0.0
+P009,Wireless Earbuds,Audio,2025-03-27,6099.41,0.0
+P009,Wireless Earbuds,Audio,2025-03-28,6112.82,0.0
+P009,Wireless Earbuds,Audio,2025-03-29,6048.36,0.0
+P009,Wireless Earbuds,Audio,2025-03-30,6067.15,0.0
+P009,Wireless Earbuds,Audio,2025-03-31,5986.94,0.0
+P009,Wireless Earbuds,Audio,2025-04-01,6024.37,0.0
+P009,Wireless Earbuds,Audio,2025-04-02,5927.39,0.0
+P009,Wireless Earbuds,Audio,2025-04-03,5966.51,0.0
+P009,Wireless Earbuds,Audio,2025-04-04,6043.73,0.0
+P009,Wireless Earbuds,Audio,2025-04-05,6080.07,0.0
+P009,Wireless Earbuds,Audio,2025-04-06,6067.59,0.0
+P009,Wireless Earbuds,Audio,2025-04-07,6100.84,0.0
+P009,Wireless Earbuds,Audio,2025-04-08,6046.7,0.0
+P009,Wireless Earbuds,Audio,2025-04-09,5848.69,0.0
+P009,Wireless Earbuds,Audio,2025-04-10,5993.48,0.0
+P009,Wireless Earbuds,Audio,2025-04-11,6126.56,0.0
+P009,Wireless Earbuds,Audio,2025-04-12,6112.99,0.0
+P009,Wireless Earbuds,Audio,2025-04-13,5927.21,0.0
+P009,Wireless Earbuds,Audio,2025-04-14,5984.44,0.0
+P009,Wireless Earbuds,Audio,2025-04-15,6052.12,0.0
+P009,Wireless Earbuds,Audio,2025-04-16,6079.22,0.0
+P009,Wireless Earbuds,Audio,2025-04-17,5998.5,0.0
+P009,Wireless Earbuds,Audio,2025-04-18,6120.9,0.0
+P009,Wireless Earbuds,Audio,2025-04-19,5928.54,0.0
+P009,Wireless Earbuds,Audio,2025-04-20,5917.34,0.0
+P009,Wireless Earbuds,Audio,2025-04-21,5984.49,0.0
+P009,Wireless Earbuds,Audio,2025-04-22,5996.3,0.0
+P009,Wireless Earbuds,Audio,2025-04-23,5972.76,0.0
+P009,Wireless Earbuds,Audio,2025-04-24,5659.49,5.48
+P009,Wireless Earbuds,Audio,2025-04-25,6019.28,0.0
+P009,Wireless Earbuds,Audio,2025-04-26,6075.04,0.0
+P009,Wireless Earbuds,Audio,2025-04-27,6066.64,0.0
+P009,Wireless Earbuds,Audio,2025-04-28,5953.89,0.0
+P009,Wireless Earbuds,Audio,2025-04-29,5928.09,0.0
+P009,Wireless Earbuds,Audio,2025-04-30,6084.19,0.0
+P009,Wireless Earbuds,Audio,2025-05-01,5942.4,0.0
+P009,Wireless Earbuds,Audio,2025-05-02,5621.67,3.85
+P009,Wireless Earbuds,Audio,2025-05-03,6007.26,0.0
+P009,Wireless Earbuds,Audio,2025-05-04,5938.2,0.0
+P009,Wireless Earbuds,Audio,2025-05-05,5634.46,5.44
+P009,Wireless Earbuds,Audio,2025-05-06,6027.94,0.0
+P009,Wireless Earbuds,Audio,2025-05-07,5919.0,0.0
+P009,Wireless Earbuds,Audio,2025-05-08,5991.62,0.0
+P009,Wireless Earbuds,Audio,2025-05-09,6019.12,0.0
+P009,Wireless Earbuds,Audio,2025-05-10,5917.07,0.0
+P009,Wireless Earbuds,Audio,2025-05-11,5942.63,0.0
+P009,Wireless Earbuds,Audio,2025-05-12,5885.58,0.0
+P009,Wireless Earbuds,Audio,2025-05-13,6020.34,0.0
+P009,Wireless Earbuds,Audio,2025-05-14,6001.58,0.0
+P009,Wireless Earbuds,Audio,2025-05-15,6005.87,0.0
+P009,Wireless Earbuds,Audio,2025-05-16,5942.26,0.0
+P009,Wireless Earbuds,Audio,2025-05-17,5996.38,0.0
+P009,Wireless Earbuds,Audio,2025-05-18,5770.28,0.0
+P009,Wireless Earbuds,Audio,2025-05-19,5944.65,0.0
+P009,Wireless Earbuds,Audio,2025-05-20,6069.08,0.0
+P009,Wireless Earbuds,Audio,2025-05-21,5952.61,0.0
+P009,Wireless Earbuds,Audio,2025-05-22,6025.13,0.0
+P009,Wireless Earbuds,Audio,2025-05-23,5934.48,0.0
+P009,Wireless Earbuds,Audio,2025-05-24,6045.69,0.0
+P009,Wireless Earbuds,Audio,2025-05-25,5891.63,0.0
+P009,Wireless Earbuds,Audio,2025-05-26,5978.29,0.0
+P009,Wireless Earbuds,Audio,2025-05-27,5902.21,0.0
+P009,Wireless Earbuds,Audio,2025-05-28,5964.21,0.0
+P009,Wireless Earbuds,Audio,2025-05-29,5906.3,0.0
+P009,Wireless Earbuds,Audio,2025-05-30,5943.75,0.0
+P009,Wireless Earbuds,Audio,2025-05-31,5914.25,0.0
+P009,Wireless Earbuds,Audio,2025-06-01,5990.52,0.0
+P009,Wireless Earbuds,Audio,2025-06-02,5975.78,0.0
+P009,Wireless Earbuds,Audio,2025-06-03,5894.53,0.0
+P009,Wireless Earbuds,Audio,2025-06-04,5892.04,0.0
+P009,Wireless Earbuds,Audio,2025-06-05,5877.57,0.0
+P009,Wireless Earbuds,Audio,2025-06-06,5864.15,0.0
+P009,Wireless Earbuds,Audio,2025-06-07,5992.16,0.0
+P009,Wireless Earbuds,Audio,2025-06-08,5872.47,0.0
+P009,Wireless Earbuds,Audio,2025-06-09,5962.78,0.0
+P009,Wireless Earbuds,Audio,2025-06-10,5902.96,0.0
+P009,Wireless Earbuds,Audio,2025-06-11,5177.62,10.75
+P009,Wireless Earbuds,Audio,2025-06-12,6107.33,0.0
+P009,Wireless Earbuds,Audio,2025-06-13,5924.14,0.0
+P009,Wireless Earbuds,Audio,2025-06-14,5911.91,0.0
+P009,Wireless Earbuds,Audio,2025-06-15,5989.26,0.0
+P009,Wireless Earbuds,Audio,2025-06-16,5865.15,0.0
+P009,Wireless Earbuds,Audio,2025-06-17,5967.72,0.0
+P009,Wireless Earbuds,Audio,2025-06-18,5812.14,0.0
+P009,Wireless Earbuds,Audio,2025-06-19,5884.44,0.0
+P009,Wireless Earbuds,Audio,2025-06-20,6106.03,0.0
+P009,Wireless Earbuds,Audio,2025-06-21,5970.33,0.0
+P009,Wireless Earbuds,Audio,2025-06-22,5972.78,0.0
+P009,Wireless Earbuds,Audio,2025-06-23,5831.6,0.0
+P009,Wireless Earbuds,Audio,2025-06-24,5912.18,0.0
+P009,Wireless Earbuds,Audio,2025-06-25,5990.77,0.0
+P009,Wireless Earbuds,Audio,2025-06-26,6039.63,0.0
+P009,Wireless Earbuds,Audio,2025-06-27,5914.64,0.0
+P009,Wireless Earbuds,Audio,2025-06-28,5844.25,0.0
+P009,Wireless Earbuds,Audio,2025-06-29,5897.54,0.0
+P009,Wireless Earbuds,Audio,2025-06-30,5913.1,0.0
+P009,Wireless Earbuds,Audio,2025-07-01,5911.08,0.0
+P009,Wireless Earbuds,Audio,2025-07-02,5878.56,0.0
+P009,Wireless Earbuds,Audio,2025-07-03,5840.35,0.0
+P009,Wireless Earbuds,Audio,2025-07-04,5863.26,0.0
+P009,Wireless Earbuds,Audio,2025-07-05,5901.89,0.0
+P009,Wireless Earbuds,Audio,2025-07-06,5995.64,0.0
+P009,Wireless Earbuds,Audio,2025-07-07,6024.49,0.0
+P009,Wireless Earbuds,Audio,2025-07-08,5952.92,0.0
+P009,Wireless Earbuds,Audio,2025-07-09,5869.19,0.0
+P009,Wireless Earbuds,Audio,2025-07-10,5910.03,0.0
+P009,Wireless Earbuds,Audio,2025-07-11,5804.9,0.0
+P009,Wireless Earbuds,Audio,2025-07-12,6052.71,0.0
+P009,Wireless Earbuds,Audio,2025-07-13,5902.53,0.0
+P009,Wireless Earbuds,Audio,2025-07-14,5978.89,0.0
+P009,Wireless Earbuds,Audio,2025-07-15,6026.88,0.0
+P009,Wireless Earbuds,Audio,2025-07-16,5333.68,8.42
+P009,Wireless Earbuds,Audio,2025-07-17,5942.21,0.0
+P009,Wireless Earbuds,Audio,2025-07-18,5852.13,0.0
+P009,Wireless Earbuds,Audio,2025-07-19,6000.76,0.0
+P009,Wireless Earbuds,Audio,2025-07-20,6026.04,0.0
+P009,Wireless Earbuds,Audio,2025-07-21,5882.63,0.0
+P009,Wireless Earbuds,Audio,2025-07-22,6062.42,0.0
+P009,Wireless Earbuds,Audio,2025-07-23,6064.43,0.0
+P009,Wireless Earbuds,Audio,2025-07-24,5950.38,0.0
+P009,Wireless Earbuds,Audio,2025-07-25,5984.76,0.0
+P009,Wireless Earbuds,Audio,2025-07-26,6010.2,0.0
+P009,Wireless Earbuds,Audio,2025-07-27,5937.73,0.0
+P009,Wireless Earbuds,Audio,2025-07-28,5955.66,0.0
+P009,Wireless Earbuds,Audio,2025-07-29,6010.95,0.0
+P009,Wireless Earbuds,Audio,2025-07-30,6004.75,0.0
+P009,Wireless Earbuds,Audio,2025-07-31,5884.33,0.0
+P009,Wireless Earbuds,Audio,2025-08-01,6084.57,0.0
+P009,Wireless Earbuds,Audio,2025-08-02,5947.22,0.0
+P009,Wireless Earbuds,Audio,2025-08-03,6076.58,0.0
+P009,Wireless Earbuds,Audio,2025-08-04,5933.5,0.0
+P009,Wireless Earbuds,Audio,2025-08-05,5977.62,0.0
+P009,Wireless Earbuds,Audio,2025-08-06,5882.42,0.0
+P009,Wireless Earbuds,Audio,2025-08-07,6134.26,0.0
+P009,Wireless Earbuds,Audio,2025-08-08,5968.28,0.0
+P009,Wireless Earbuds,Audio,2025-08-09,6067.34,0.0
+P009,Wireless Earbuds,Audio,2025-08-10,5984.78,0.0
+P009,Wireless Earbuds,Audio,2025-08-11,6105.9,0.0
+P009,Wireless Earbuds,Audio,2025-08-12,5993.79,0.0
+P009,Wireless Earbuds,Audio,2025-08-13,6108.91,0.0
+P009,Wireless Earbuds,Audio,2025-08-14,5921.09,0.0
+P009,Wireless Earbuds,Audio,2025-08-15,5956.49,0.0
+P009,Wireless Earbuds,Audio,2025-08-16,5960.53,0.0
+P009,Wireless Earbuds,Audio,2025-08-17,5980.74,0.0
+P009,Wireless Earbuds,Audio,2025-08-18,5958.12,0.0
+P009,Wireless Earbuds,Audio,2025-08-19,5976.56,0.0
+P009,Wireless Earbuds,Audio,2025-08-20,5990.05,0.0
+P009,Wireless Earbuds,Audio,2025-08-21,5904.95,0.0
+P009,Wireless Earbuds,Audio,2025-08-22,5985.84,0.0
+P009,Wireless Earbuds,Audio,2025-08-23,6013.89,0.0
+P009,Wireless Earbuds,Audio,2025-08-24,6073.66,0.0
+P009,Wireless Earbuds,Audio,2025-08-25,6106.58,0.0
+P009,Wireless Earbuds,Audio,2025-08-26,6086.61,0.0
+P009,Wireless Earbuds,Audio,2025-08-27,6058.44,0.0
+P009,Wireless Earbuds,Audio,2025-08-28,6039.57,0.0
+P009,Wireless Earbuds,Audio,2025-08-29,6056.5,0.0
+P009,Wireless Earbuds,Audio,2025-08-30,5824.94,3.52
+P009,Wireless Earbuds,Audio,2025-08-31,5999.8,0.0
+P009,Wireless Earbuds,Audio,2025-09-01,5974.55,0.0
+P009,Wireless Earbuds,Audio,2025-09-02,6125.98,0.0
+P009,Wireless Earbuds,Audio,2025-09-03,6136.93,0.0
+P009,Wireless Earbuds,Audio,2025-09-04,5871.26,0.0
+P009,Wireless Earbuds,Audio,2025-09-05,5958.99,0.0
+P009,Wireless Earbuds,Audio,2025-09-06,6075.9,0.0
+P009,Wireless Earbuds,Audio,2025-09-07,5982.04,0.0
+P009,Wireless Earbuds,Audio,2025-09-08,6067.91,0.0
+P009,Wireless Earbuds,Audio,2025-09-09,6032.37,0.0
+P009,Wireless Earbuds,Audio,2025-09-10,6065.26,0.0
+P009,Wireless Earbuds,Audio,2025-09-11,6018.76,0.0
+P009,Wireless Earbuds,Audio,2025-09-12,6074.31,0.0
+P009,Wireless Earbuds,Audio,2025-09-13,5863.54,3.24
+P009,Wireless Earbuds,Audio,2025-09-14,5864.06,0.0
+P009,Wireless Earbuds,Audio,2025-09-15,6176.1,0.0
+P009,Wireless Earbuds,Audio,2025-09-16,6068.79,0.0
+P009,Wireless Earbuds,Audio,2025-09-17,6092.28,0.0
+P009,Wireless Earbuds,Audio,2025-09-18,6066.35,0.0
+P009,Wireless Earbuds,Audio,2025-09-19,5903.58,5.06
+P009,Wireless Earbuds,Audio,2025-09-20,6137.03,0.0
+P009,Wireless Earbuds,Audio,2025-09-21,6012.41,0.0
+P009,Wireless Earbuds,Audio,2025-09-22,6114.16,0.0
+P009,Wireless Earbuds,Audio,2025-09-23,6146.35,0.0
+P009,Wireless Earbuds,Audio,2025-09-24,6125.33,0.0
+P009,Wireless Earbuds,Audio,2025-09-25,6196.06,0.0
+P009,Wireless Earbuds,Audio,2025-09-26,6204.28,0.0
+P009,Wireless Earbuds,Audio,2025-09-27,6114.11,0.0
+P009,Wireless Earbuds,Audio,2025-09-28,6181.66,0.0
+P009,Wireless Earbuds,Audio,2025-09-29,6095.0,0.0
+P009,Wireless Earbuds,Audio,2025-09-30,6141.79,0.0
+P009,Wireless Earbuds,Audio,2025-10-01,6193.37,0.0
+P009,Wireless Earbuds,Audio,2025-10-02,6150.86,0.0
+P009,Wireless Earbuds,Audio,2025-10-03,6139.59,0.0
+P009,Wireless Earbuds,Audio,2025-10-04,6118.29,0.0
+P009,Wireless Earbuds,Audio,2025-10-05,6141.64,0.0
+P009,Wireless Earbuds,Audio,2025-10-06,6124.12,0.0
+P009,Wireless Earbuds,Audio,2025-10-07,6049.23,0.0
+P009,Wireless Earbuds,Audio,2025-10-08,6104.58,0.0
+P009,Wireless Earbuds,Audio,2025-10-09,6215.04,0.0
+P009,Wireless Earbuds,Audio,2025-10-10,6167.17,0.0
+P009,Wireless Earbuds,Audio,2025-10-11,6123.67,0.0
+P009,Wireless Earbuds,Audio,2025-10-12,6052.02,0.0
+P009,Wireless Earbuds,Audio,2025-10-13,6142.28,0.0
+P009,Wireless Earbuds,Audio,2025-10-14,6276.33,0.0
+P009,Wireless Earbuds,Audio,2025-10-15,5802.07,6.06
+P009,Wireless Earbuds,Audio,2025-10-16,6164.59,0.0
+P009,Wireless Earbuds,Audio,2025-10-17,4933.21,18.9
+P009,Wireless Earbuds,Audio,2025-10-18,6200.64,0.0
+P009,Wireless Earbuds,Audio,2025-10-19,6137.61,0.0
+P009,Wireless Earbuds,Audio,2025-10-20,6186.19,0.0
+P009,Wireless Earbuds,Audio,2025-10-21,6155.21,0.0
+P009,Wireless Earbuds,Audio,2025-10-22,5603.87,11.6
+P009,Wireless Earbuds,Audio,2025-10-23,6256.45,0.0
+P009,Wireless Earbuds,Audio,2025-10-24,6272.53,0.0
+P009,Wireless Earbuds,Audio,2025-10-25,6203.86,0.0
+P009,Wireless Earbuds,Audio,2025-10-26,6157.75,0.0
+P009,Wireless Earbuds,Audio,2025-10-27,5578.78,11.96
+P009,Wireless Earbuds,Audio,2025-10-28,5360.99,15.17
+P009,Wireless Earbuds,Audio,2025-10-29,6128.38,0.0
+P009,Wireless Earbuds,Audio,2025-10-30,6235.5,0.0
+P009,Wireless Earbuds,Audio,2025-10-31,6202.32,0.0
+P009,Wireless Earbuds,Audio,2025-11-01,6266.07,0.0
+P009,Wireless Earbuds,Audio,2025-11-02,6114.38,0.0
+P009,Wireless Earbuds,Audio,2025-11-03,6198.73,0.0
+P009,Wireless Earbuds,Audio,2025-11-04,6262.51,0.0
+P009,Wireless Earbuds,Audio,2025-11-05,6188.26,0.0
+P009,Wireless Earbuds,Audio,2025-11-06,6262.73,0.0
+P009,Wireless Earbuds,Audio,2025-11-07,5249.04,16.56
+P009,Wireless Earbuds,Audio,2025-11-08,6168.23,0.0
+P009,Wireless Earbuds,Audio,2025-11-09,5528.85,9.96
+P009,Wireless Earbuds,Audio,2025-11-10,6233.24,0.0
+P009,Wireless Earbuds,Audio,2025-11-11,6135.01,0.0
+P009,Wireless Earbuds,Audio,2025-11-12,5313.71,14.85
+P009,Wireless Earbuds,Audio,2025-11-13,6226.3,0.0
+P009,Wireless Earbuds,Audio,2025-11-14,6209.81,0.0
+P009,Wireless Earbuds,Audio,2025-11-15,6201.56,0.0
+P009,Wireless Earbuds,Audio,2025-11-16,4887.28,23.03
+P009,Wireless Earbuds,Audio,2025-11-17,6155.96,0.0
+P009,Wireless Earbuds,Audio,2025-11-18,4788.54,24.7
+P009,Wireless Earbuds,Audio,2025-11-19,6304.71,0.0
+P009,Wireless Earbuds,Audio,2025-11-20,5108.8,18.6
+P009,Wireless Earbuds,Audio,2025-11-21,6185.0,0.0
+P009,Wireless Earbuds,Audio,2025-11-22,6353.37,0.0
+P009,Wireless Earbuds,Audio,2025-11-23,6359.07,0.0
+P009,Wireless Earbuds,Audio,2025-11-24,6247.56,0.0
+P009,Wireless Earbuds,Audio,2025-11-25,5116.03,19.21
+P009,Wireless Earbuds,Audio,2025-11-26,5470.72,13.43
+P009,Wireless Earbuds,Audio,2025-11-27,6425.13,0.0
+P009,Wireless Earbuds,Audio,2025-11-28,5544.14,14.36
+P009,Wireless Earbuds,Audio,2025-11-29,6289.12,0.0
+P009,Wireless Earbuds,Audio,2025-11-30,6333.93,0.0
+P009,Wireless Earbuds,Audio,2025-12-01,6404.2,0.0
+P009,Wireless Earbuds,Audio,2025-12-02,6359.51,0.0
+P009,Wireless Earbuds,Audio,2025-12-03,6287.54,0.0
+P009,Wireless Earbuds,Audio,2025-12-04,6311.33,0.0
+P009,Wireless Earbuds,Audio,2025-12-05,6270.38,0.0
+P009,Wireless Earbuds,Audio,2025-12-06,6383.2,0.0
+P009,Wireless Earbuds,Audio,2025-12-07,6341.99,0.0
+P009,Wireless Earbuds,Audio,2025-12-08,6235.26,0.0
+P009,Wireless Earbuds,Audio,2025-12-09,6390.61,0.0
+P009,Wireless Earbuds,Audio,2025-12-10,6293.8,0.0
+P009,Wireless Earbuds,Audio,2025-12-11,6367.26,0.0
+P009,Wireless Earbuds,Audio,2025-12-12,5755.54,8.06
+P009,Wireless Earbuds,Audio,2025-12-13,6304.08,0.0
+P009,Wireless Earbuds,Audio,2025-12-14,6186.93,0.0
+P009,Wireless Earbuds,Audio,2025-12-15,6269.93,0.0
+P009,Wireless Earbuds,Audio,2025-12-16,5895.65,5.15
+P009,Wireless Earbuds,Audio,2025-12-17,6299.0,0.0
+P009,Wireless Earbuds,Audio,2025-12-18,6401.43,0.0
+P009,Wireless Earbuds,Audio,2025-12-19,6354.13,0.0
+P009,Wireless Earbuds,Audio,2025-12-20,6300.54,0.0
+P009,Wireless Earbuds,Audio,2025-12-21,6344.89,0.0
+P009,Wireless Earbuds,Audio,2025-12-22,6357.44,0.0
+P009,Wireless Earbuds,Audio,2025-12-23,6245.55,0.0
+P009,Wireless Earbuds,Audio,2025-12-24,6400.9,0.0
+P009,Wireless Earbuds,Audio,2025-12-25,6209.97,0.0
+P009,Wireless Earbuds,Audio,2025-12-26,6332.11,0.0
+P009,Wireless Earbuds,Audio,2025-12-27,6292.73,0.0
+P009,Wireless Earbuds,Audio,2025-12-28,6362.86,0.0
+P009,Wireless Earbuds,Audio,2025-12-29,6201.12,0.0
+P009,Wireless Earbuds,Audio,2025-12-30,6315.93,0.0
+P009,Wireless Earbuds,Audio,2025-12-31,6292.17,0.0
+P010,Gaming Laptop,Laptops,2025-01-01,75841.78,0.0
+P010,Gaming Laptop,Laptops,2025-01-02,75681.48,0.0
+P010,Gaming Laptop,Laptops,2025-01-03,75564.89,0.0
+P010,Gaming Laptop,Laptops,2025-01-04,75215.28,0.0
+P010,Gaming Laptop,Laptops,2025-01-05,78900.85,0.0
+P010,Gaming Laptop,Laptops,2025-01-06,74721.67,0.0
+P010,Gaming Laptop,Laptops,2025-01-07,75171.54,0.0
+P010,Gaming Laptop,Laptops,2025-01-08,75827.34,0.0
+P010,Gaming Laptop,Laptops,2025-01-09,77491.77,0.0
+P010,Gaming Laptop,Laptops,2025-01-10,76945.24,0.0
+P010,Gaming Laptop,Laptops,2025-01-11,75695.27,0.0
+P010,Gaming Laptop,Laptops,2025-01-12,77208.93,0.0
+P010,Gaming Laptop,Laptops,2025-01-13,77767.15,0.0
+P010,Gaming Laptop,Laptops,2025-01-14,76361.17,0.0
+P010,Gaming Laptop,Laptops,2025-01-15,76318.26,0.0
+P010,Gaming Laptop,Laptops,2025-01-16,76137.68,0.0
+P010,Gaming Laptop,Laptops,2025-01-17,75867.9,0.0
+P010,Gaming Laptop,Laptops,2025-01-18,76284.81,0.0
+P010,Gaming Laptop,Laptops,2025-01-19,76885.31,0.0
+P010,Gaming Laptop,Laptops,2025-01-20,75080.54,0.0
+P010,Gaming Laptop,Laptops,2025-01-21,76205.42,0.0
+P010,Gaming Laptop,Laptops,2025-01-22,76046.56,0.0
+P010,Gaming Laptop,Laptops,2025-01-23,77765.76,0.0
+P010,Gaming Laptop,Laptops,2025-01-24,76796.97,0.0
+P010,Gaming Laptop,Laptops,2025-01-25,76974.69,0.0
+P010,Gaming Laptop,Laptops,2025-01-26,76266.34,0.0
+P010,Gaming Laptop,Laptops,2025-01-27,76060.12,0.0
+P010,Gaming Laptop,Laptops,2025-01-28,76660.13,0.0
+P010,Gaming Laptop,Laptops,2025-01-29,75937.86,0.0
+P010,Gaming Laptop,Laptops,2025-01-30,75697.69,0.0
+P010,Gaming Laptop,Laptops,2025-01-31,76055.17,0.0
+P010,Gaming Laptop,Laptops,2025-02-01,77462.66,0.0
+P010,Gaming Laptop,Laptops,2025-02-02,75936.47,0.0
+P010,Gaming Laptop,Laptops,2025-02-03,76068.42,0.0
+P010,Gaming Laptop,Laptops,2025-02-04,75687.09,0.0
+P010,Gaming Laptop,Laptops,2025-02-05,77375.44,0.0
+P010,Gaming Laptop,Laptops,2025-02-06,77112.17,0.0
+P010,Gaming Laptop,Laptops,2025-02-07,76170.98,0.0
+P010,Gaming Laptop,Laptops,2025-02-08,77817.83,0.0
+P010,Gaming Laptop,Laptops,2025-02-09,76046.49,0.0
+P010,Gaming Laptop,Laptops,2025-02-10,76413.38,0.0
+P010,Gaming Laptop,Laptops,2025-02-11,76855.88,0.0
+P010,Gaming Laptop,Laptops,2025-02-12,71649.56,4.94
+P010,Gaming Laptop,Laptops,2025-02-13,76385.22,0.0
+P010,Gaming Laptop,Laptops,2025-02-14,75942.71,0.0
+P010,Gaming Laptop,Laptops,2025-02-15,76852.88,0.0
+P010,Gaming Laptop,Laptops,2025-02-16,76691.87,0.0
+P010,Gaming Laptop,Laptops,2025-02-17,76595.65,0.0
+P010,Gaming Laptop,Laptops,2025-02-18,76871.85,0.0
+P010,Gaming Laptop,Laptops,2025-02-19,77262.98,0.0
+P010,Gaming Laptop,Laptops,2025-02-20,77611.69,0.0
+P010,Gaming Laptop,Laptops,2025-02-21,77748.83,0.0
+P010,Gaming Laptop,Laptops,2025-02-22,76189.31,0.0
+P010,Gaming Laptop,Laptops,2025-02-23,77858.91,0.0
+P010,Gaming Laptop,Laptops,2025-02-24,76848.35,0.0
+P010,Gaming Laptop,Laptops,2025-02-25,76555.53,0.0
+P010,Gaming Laptop,Laptops,2025-02-26,75972.82,0.0
+P010,Gaming Laptop,Laptops,2025-02-27,74717.28,0.0
+P010,Gaming Laptop,Laptops,2025-02-28,77248.22,0.0
+P010,Gaming Laptop,Laptops,2025-03-01,77215.37,0.0
+P010,Gaming Laptop,Laptops,2025-03-02,76382.28,0.0
+P010,Gaming Laptop,Laptops,2025-03-03,76408.49,0.0
+P010,Gaming Laptop,Laptops,2025-03-04,76745.4,0.0
+P010,Gaming Laptop,Laptops,2025-03-05,72932.58,6.91
+P010,Gaming Laptop,Laptops,2025-03-06,78089.57,0.0
+P010,Gaming Laptop,Laptops,2025-03-07,76902.37,0.0
+P010,Gaming Laptop,Laptops,2025-03-08,77854.09,0.0
+P010,Gaming Laptop,Laptops,2025-03-09,77333.9,0.0
+P010,Gaming Laptop,Laptops,2025-03-10,76346.31,0.0
+P010,Gaming Laptop,Laptops,2025-03-11,76286.86,0.0
+P010,Gaming Laptop,Laptops,2025-03-12,78502.61,0.0
+P010,Gaming Laptop,Laptops,2025-03-13,77332.35,0.0
+P010,Gaming Laptop,Laptops,2025-03-14,75503.46,0.0
+P010,Gaming Laptop,Laptops,2025-03-15,75898.39,0.0
+P010,Gaming Laptop,Laptops,2025-03-16,78753.77,0.0
+P010,Gaming Laptop,Laptops,2025-03-17,76135.94,0.0
+P010,Gaming Laptop,Laptops,2025-03-18,75942.69,0.0
+P010,Gaming Laptop,Laptops,2025-03-19,77912.66,0.0
+P010,Gaming Laptop,Laptops,2025-03-20,73472.58,4.92
+P010,Gaming Laptop,Laptops,2025-03-21,78158.65,0.0
+P010,Gaming Laptop,Laptops,2025-03-22,77710.21,0.0
+P010,Gaming Laptop,Laptops,2025-03-23,75989.07,0.0
+P010,Gaming Laptop,Laptops,2025-03-24,77094.92,0.0
+P010,Gaming Laptop,Laptops,2025-03-25,76978.15,0.0
+P010,Gaming Laptop,Laptops,2025-03-26,76503.52,0.0
+P010,Gaming Laptop,Laptops,2025-03-27,76776.89,0.0
+P010,Gaming Laptop,Laptops,2025-03-28,76161.96,0.0
+P010,Gaming Laptop,Laptops,2025-03-29,76581.8,0.0
+P010,Gaming Laptop,Laptops,2025-03-30,73544.78,4.45
+P010,Gaming Laptop,Laptops,2025-03-31,76004.82,0.0
+P010,Gaming Laptop,Laptops,2025-04-01,75877.83,0.0
+P010,Gaming Laptop,Laptops,2025-04-02,76650.89,0.0
+P010,Gaming Laptop,Laptops,2025-04-03,76184.1,0.0
+P010,Gaming Laptop,Laptops,2025-04-04,75509.89,0.0
+P010,Gaming Laptop,Laptops,2025-04-05,75744.4,0.0
+P010,Gaming Laptop,Laptops,2025-04-06,74267.42,0.0
+P010,Gaming Laptop,Laptops,2025-04-07,77871.97,0.0
+P010,Gaming Laptop,Laptops,2025-04-08,77724.23,0.0
+P010,Gaming Laptop,Laptops,2025-04-09,77124.97,0.0
+P010,Gaming Laptop,Laptops,2025-04-10,75567.49,0.0
+P010,Gaming Laptop,Laptops,2025-04-11,76540.37,0.0
+P010,Gaming Laptop,Laptops,2025-04-12,76134.48,0.0
+P010,Gaming Laptop,Laptops,2025-04-13,76302.3,0.0
+P010,Gaming Laptop,Laptops,2025-04-14,77950.31,0.0
+P010,Gaming Laptop,Laptops,2025-04-15,75966.28,0.0
+P010,Gaming Laptop,Laptops,2025-04-16,75274.87,0.0
+P010,Gaming Laptop,Laptops,2025-04-17,76183.44,0.0
+P010,Gaming Laptop,Laptops,2025-04-18,76839.19,0.0
+P010,Gaming Laptop,Laptops,2025-04-19,77474.43,0.0
+P010,Gaming Laptop,Laptops,2025-04-20,76772.86,0.0
+P010,Gaming Laptop,Laptops,2025-04-21,77504.36,0.0
+P010,Gaming Laptop,Laptops,2025-04-22,74335.97,0.0
+P010,Gaming Laptop,Laptops,2025-04-23,76404.03,0.0
+P010,Gaming Laptop,Laptops,2025-04-24,76331.92,0.0
+P010,Gaming Laptop,Laptops,2025-04-25,74966.13,0.0
+P010,Gaming Laptop,Laptops,2025-04-26,75642.3,0.0
+P010,Gaming Laptop,Laptops,2025-04-27,75708.01,0.0
+P010,Gaming Laptop,Laptops,2025-04-28,76061.84,0.0
+P010,Gaming Laptop,Laptops,2025-04-29,75676.08,0.0
+P010,Gaming Laptop,Laptops,2025-04-30,77260.67,0.0
+P010,Gaming Laptop,Laptops,2025-05-01,76637.79,0.0
+P010,Gaming Laptop,Laptops,2025-05-02,74750.41,0.0
+P010,Gaming Laptop,Laptops,2025-05-03,75780.81,0.0
+P010,Gaming Laptop,Laptops,2025-05-04,74979.6,0.0
+P010,Gaming Laptop,Laptops,2025-05-05,74697.89,0.0
+P010,Gaming Laptop,Laptops,2025-05-06,75819.05,0.0
+P010,Gaming Laptop,Laptops,2025-05-07,75924.07,0.0
+P010,Gaming Laptop,Laptops,2025-05-08,76805.76,0.0
+P010,Gaming Laptop,Laptops,2025-05-09,76421.91,0.0
+P010,Gaming Laptop,Laptops,2025-05-10,74504.08,0.0
+P010,Gaming Laptop,Laptops,2025-05-11,66690.48,11.83
+P010,Gaming Laptop,Laptops,2025-05-12,72141.96,3.16
+P010,Gaming Laptop,Laptops,2025-05-13,73479.66,0.0
+P010,Gaming Laptop,Laptops,2025-05-14,76463.16,0.0
+P010,Gaming Laptop,Laptops,2025-05-15,75631.86,0.0
+P010,Gaming Laptop,Laptops,2025-05-16,76977.62,0.0
+P010,Gaming Laptop,Laptops,2025-05-17,74734.39,0.0
+P010,Gaming Laptop,Laptops,2025-05-18,75277.54,0.0
+P010,Gaming Laptop,Laptops,2025-05-19,74967.81,0.0
+P010,Gaming Laptop,Laptops,2025-05-20,75677.53,0.0
+P010,Gaming Laptop,Laptops,2025-05-21,74608.67,0.0
+P010,Gaming Laptop,Laptops,2025-05-22,76228.73,0.0
+P010,Gaming Laptop,Laptops,2025-05-23,74176.21,0.0
+P010,Gaming Laptop,Laptops,2025-05-24,74656.54,0.0
+P010,Gaming Laptop,Laptops,2025-05-25,74164.17,0.0
+P010,Gaming Laptop,Laptops,2025-05-26,75135.0,0.0
+P010,Gaming Laptop,Laptops,2025-05-27,75417.35,0.0
+P010,Gaming Laptop,Laptops,2025-05-28,73902.92,0.0
+P010,Gaming Laptop,Laptops,2025-05-29,74874.3,0.0
+P010,Gaming Laptop,Laptops,2025-05-30,76082.92,0.0
+P010,Gaming Laptop,Laptops,2025-05-31,76322.9,0.0
+P010,Gaming Laptop,Laptops,2025-06-01,75751.65,0.0
+P010,Gaming Laptop,Laptops,2025-06-02,73073.76,0.0
+P010,Gaming Laptop,Laptops,2025-06-03,75108.86,0.0
+P010,Gaming Laptop,Laptops,2025-06-04,76031.99,0.0
+P010,Gaming Laptop,Laptops,2025-06-05,74561.23,0.0
+P010,Gaming Laptop,Laptops,2025-06-06,73907.89,0.0
+P010,Gaming Laptop,Laptops,2025-06-07,75857.48,0.0
+P010,Gaming Laptop,Laptops,2025-06-08,75967.1,0.0
+P010,Gaming Laptop,Laptops,2025-06-09,74818.58,0.0
+P010,Gaming Laptop,Laptops,2025-06-10,73783.65,0.0
+P010,Gaming Laptop,Laptops,2025-06-11,73350.87,0.0
+P010,Gaming Laptop,Laptops,2025-06-12,67493.47,11.23
+P010,Gaming Laptop,Laptops,2025-06-13,74101.6,0.0
+P010,Gaming Laptop,Laptops,2025-06-14,74963.97,0.0
+P010,Gaming Laptop,Laptops,2025-06-15,75559.98,0.0
+P010,Gaming Laptop,Laptops,2025-06-16,74691.38,0.0
+P010,Gaming Laptop,Laptops,2025-06-17,74190.71,0.0
+P010,Gaming Laptop,Laptops,2025-06-18,74652.76,0.0
+P010,Gaming Laptop,Laptops,2025-06-19,74661.29,0.0
+P010,Gaming Laptop,Laptops,2025-06-20,73885.47,0.0
+P010,Gaming Laptop,Laptops,2025-06-21,75524.71,0.0
+P010,Gaming Laptop,Laptops,2025-06-22,73470.41,0.0
+P010,Gaming Laptop,Laptops,2025-06-23,72223.14,0.0
+P010,Gaming Laptop,Laptops,2025-06-24,75193.03,0.0
+P010,Gaming Laptop,Laptops,2025-06-25,74403.01,0.0
+P010,Gaming Laptop,Laptops,2025-06-26,73912.83,0.0
+P010,Gaming Laptop,Laptops,2025-06-27,74653.75,0.0
+P010,Gaming Laptop,Laptops,2025-06-28,74015.1,0.0
+P010,Gaming Laptop,Laptops,2025-06-29,72974.98,0.0
+P010,Gaming Laptop,Laptops,2025-06-30,73008.23,0.0
+P010,Gaming Laptop,Laptops,2025-07-01,73136.96,0.0
+P010,Gaming Laptop,Laptops,2025-07-02,73840.32,0.0
+P010,Gaming Laptop,Laptops,2025-07-03,64829.33,10.51
+P010,Gaming Laptop,Laptops,2025-07-04,72070.03,0.0
+P010,Gaming Laptop,Laptops,2025-07-05,73946.78,0.0
+P010,Gaming Laptop,Laptops,2025-07-06,73313.35,0.0
+P010,Gaming Laptop,Laptops,2025-07-07,73217.69,0.0
+P010,Gaming Laptop,Laptops,2025-07-08,73214.67,0.0
+P010,Gaming Laptop,Laptops,2025-07-09,72790.29,0.0
+P010,Gaming Laptop,Laptops,2025-07-10,73997.36,0.0
+P010,Gaming Laptop,Laptops,2025-07-11,73707.75,0.0
+P010,Gaming Laptop,Laptops,2025-07-12,73645.57,0.0
+P010,Gaming Laptop,Laptops,2025-07-13,72421.25,0.0
+P010,Gaming Laptop,Laptops,2025-07-14,74087.31,0.0
+P010,Gaming Laptop,Laptops,2025-07-15,74149.46,0.0
+P010,Gaming Laptop,Laptops,2025-07-16,75036.57,0.0
+P010,Gaming Laptop,Laptops,2025-07-17,74049.31,0.0
+P010,Gaming Laptop,Laptops,2025-07-18,75192.41,0.0
+P010,Gaming Laptop,Laptops,2025-07-19,73033.11,0.0
+P010,Gaming Laptop,Laptops,2025-07-20,74993.88,0.0
+P010,Gaming Laptop,Laptops,2025-07-21,73980.68,0.0
+P010,Gaming Laptop,Laptops,2025-07-22,73842.03,0.0
+P010,Gaming Laptop,Laptops,2025-07-23,73350.13,0.0
+P010,Gaming Laptop,Laptops,2025-07-24,73147.52,0.0
+P010,Gaming Laptop,Laptops,2025-07-25,72953.24,0.0
+P010,Gaming Laptop,Laptops,2025-07-26,74892.97,0.0
+P010,Gaming Laptop,Laptops,2025-07-27,73235.41,0.0
+P010,Gaming Laptop,Laptops,2025-07-28,73841.31,0.0
+P010,Gaming Laptop,Laptops,2025-07-29,74013.31,0.0
+P010,Gaming Laptop,Laptops,2025-07-30,73979.91,0.0
+P010,Gaming Laptop,Laptops,2025-07-31,73503.51,0.0
+P010,Gaming Laptop,Laptops,2025-08-01,74715.2,0.0
+P010,Gaming Laptop,Laptops,2025-08-02,73671.28,0.0
+P010,Gaming Laptop,Laptops,2025-08-03,72752.23,0.0
+P010,Gaming Laptop,Laptops,2025-08-04,72964.54,0.0
+P010,Gaming Laptop,Laptops,2025-08-05,71953.35,0.0
+P010,Gaming Laptop,Laptops,2025-08-06,73488.38,0.0
+P010,Gaming Laptop,Laptops,2025-08-07,73731.34,0.0
+P010,Gaming Laptop,Laptops,2025-08-08,73793.66,0.0
+P010,Gaming Laptop,Laptops,2025-08-09,73608.85,0.0
+P010,Gaming Laptop,Laptops,2025-08-10,73012.75,0.0
+P010,Gaming Laptop,Laptops,2025-08-11,73151.57,0.0
+P010,Gaming Laptop,Laptops,2025-08-12,73140.14,0.0
+P010,Gaming Laptop,Laptops,2025-08-13,73990.34,0.0
+P010,Gaming Laptop,Laptops,2025-08-14,71523.61,0.0
+P010,Gaming Laptop,Laptops,2025-08-15,72707.06,0.0
+P010,Gaming Laptop,Laptops,2025-08-16,72232.04,0.0
+P010,Gaming Laptop,Laptops,2025-08-17,74874.7,0.0
+P010,Gaming Laptop,Laptops,2025-08-18,74116.64,0.0
+P010,Gaming Laptop,Laptops,2025-08-19,72696.78,0.0
+P010,Gaming Laptop,Laptops,2025-08-20,71894.16,0.0
+P010,Gaming Laptop,Laptops,2025-08-21,72081.46,0.0
+P010,Gaming Laptop,Laptops,2025-08-22,73879.99,0.0
+P010,Gaming Laptop,Laptops,2025-08-23,71705.15,0.0
+P010,Gaming Laptop,Laptops,2025-08-24,73025.1,0.0
+P010,Gaming Laptop,Laptops,2025-08-25,73696.43,0.0
+P010,Gaming Laptop,Laptops,2025-08-26,71968.84,0.0
+P010,Gaming Laptop,Laptops,2025-08-27,72996.4,0.0
+P010,Gaming Laptop,Laptops,2025-08-28,72641.95,0.0
+P010,Gaming Laptop,Laptops,2025-08-29,72529.29,0.0
+P010,Gaming Laptop,Laptops,2025-08-30,72386.56,0.0
+P010,Gaming Laptop,Laptops,2025-08-31,73742.51,0.0
+P010,Gaming Laptop,Laptops,2025-09-01,74226.3,0.0
+P010,Gaming Laptop,Laptops,2025-09-02,72747.81,0.0
+P010,Gaming Laptop,Laptops,2025-09-03,73282.02,0.0
+P010,Gaming Laptop,Laptops,2025-09-04,72988.14,0.0
+P010,Gaming Laptop,Laptops,2025-09-05,71464.85,0.0
+P010,Gaming Laptop,Laptops,2025-09-06,72709.92,0.0
+P010,Gaming Laptop,Laptops,2025-09-07,71322.76,0.0
+P010,Gaming Laptop,Laptops,2025-09-08,72549.89,0.0
+P010,Gaming Laptop,Laptops,2025-09-09,72945.5,0.0
+P010,Gaming Laptop,Laptops,2025-09-10,73582.47,0.0
+P010,Gaming Laptop,Laptops,2025-09-11,73204.51,0.0
+P010,Gaming Laptop,Laptops,2025-09-12,73765.16,0.0
+P010,Gaming Laptop,Laptops,2025-09-13,72253.84,0.0
+P010,Gaming Laptop,Laptops,2025-09-14,74102.32,0.0
+P010,Gaming Laptop,Laptops,2025-09-15,74240.71,0.0
+P010,Gaming Laptop,Laptops,2025-09-16,71313.33,0.0
+P010,Gaming Laptop,Laptops,2025-09-17,71638.0,0.0
+P010,Gaming Laptop,Laptops,2025-09-18,72961.31,0.0
+P010,Gaming Laptop,Laptops,2025-09-19,72532.81,0.0
+P010,Gaming Laptop,Laptops,2025-09-20,72662.83,0.0
+P010,Gaming Laptop,Laptops,2025-09-21,73250.1,0.0
+P010,Gaming Laptop,Laptops,2025-09-22,73862.04,0.0
+P010,Gaming Laptop,Laptops,2025-09-23,72276.88,0.0
+P010,Gaming Laptop,Laptops,2025-09-24,74036.36,0.0
+P010,Gaming Laptop,Laptops,2025-09-25,72453.89,0.0
+P010,Gaming Laptop,Laptops,2025-09-26,75017.85,0.0
+P010,Gaming Laptop,Laptops,2025-09-27,74210.81,0.0
+P010,Gaming Laptop,Laptops,2025-09-28,72566.79,0.0
+P010,Gaming Laptop,Laptops,2025-09-29,71969.59,0.0
+P010,Gaming Laptop,Laptops,2025-09-30,69383.67,4.66
+P010,Gaming Laptop,Laptops,2025-10-01,70565.74,3.39
+P010,Gaming Laptop,Laptops,2025-10-02,59437.26,17.21
+P010,Gaming Laptop,Laptops,2025-10-03,73407.82,0.0
+P010,Gaming Laptop,Laptops,2025-10-04,72768.35,0.0
+P010,Gaming Laptop,Laptops,2025-10-05,73942.66,0.0
+P010,Gaming Laptop,Laptops,2025-10-06,74283.34,0.0
+P010,Gaming Laptop,Laptops,2025-10-07,72778.08,0.0
+P010,Gaming Laptop,Laptops,2025-10-08,72982.62,0.0
+P010,Gaming Laptop,Laptops,2025-10-09,74851.79,0.0
+P010,Gaming Laptop,Laptops,2025-10-10,54867.91,24.29
+P010,Gaming Laptop,Laptops,2025-10-11,74636.66,0.0
+P010,Gaming Laptop,Laptops,2025-10-12,72283.33,0.0
+P010,Gaming Laptop,Laptops,2025-10-13,73248.09,0.0
+P010,Gaming Laptop,Laptops,2025-10-14,73516.21,0.0
+P010,Gaming Laptop,Laptops,2025-10-15,73093.08,0.0
+P010,Gaming Laptop,Laptops,2025-10-16,74742.96,0.0
+P010,Gaming Laptop,Laptops,2025-10-17,73159.37,0.0
+P010,Gaming Laptop,Laptops,2025-10-18,72570.79,0.0
+P010,Gaming Laptop,Laptops,2025-10-19,74435.53,0.0
+P010,Gaming Laptop,Laptops,2025-10-20,66210.73,9.24
+P010,Gaming Laptop,Laptops,2025-10-21,73904.49,0.0
+P010,Gaming Laptop,Laptops,2025-10-22,74300.06,0.0
+P010,Gaming Laptop,Laptops,2025-10-23,72501.45,0.0
+P010,Gaming Laptop,Laptops,2025-10-24,64160.82,14.17
+P010,Gaming Laptop,Laptops,2025-10-25,73589.12,0.0
+P010,Gaming Laptop,Laptops,2025-10-26,74097.8,0.0
+P010,Gaming Laptop,Laptops,2025-10-27,71906.82,0.0
+P010,Gaming Laptop,Laptops,2025-10-28,73153.56,0.0
+P010,Gaming Laptop,Laptops,2025-10-29,73664.85,0.0
+P010,Gaming Laptop,Laptops,2025-10-30,56199.83,24.0
+P010,Gaming Laptop,Laptops,2025-10-31,73263.78,0.0
+P010,Gaming Laptop,Laptops,2025-11-01,57598.57,21.84
+P010,Gaming Laptop,Laptops,2025-11-02,72831.82,0.0
+P010,Gaming Laptop,Laptops,2025-11-03,74070.02,0.0
+P010,Gaming Laptop,Laptops,2025-11-04,57988.69,21.26
+P010,Gaming Laptop,Laptops,2025-11-05,73685.33,0.0
+P010,Gaming Laptop,Laptops,2025-11-06,73591.53,0.0
+P010,Gaming Laptop,Laptops,2025-11-07,73794.02,0.0
+P010,Gaming Laptop,Laptops,2025-11-08,72889.59,0.0
+P010,Gaming Laptop,Laptops,2025-11-09,74555.68,0.0
+P010,Gaming Laptop,Laptops,2025-11-10,73240.95,0.0
+P010,Gaming Laptop,Laptops,2025-11-11,63745.62,13.76
+P010,Gaming Laptop,Laptops,2025-11-12,74854.94,0.0
+P010,Gaming Laptop,Laptops,2025-11-13,74213.28,0.0
+P010,Gaming Laptop,Laptops,2025-11-14,57770.16,21.19
+P010,Gaming Laptop,Laptops,2025-11-15,73603.0,0.0
+P010,Gaming Laptop,Laptops,2025-11-16,73266.59,0.0
+P010,Gaming Laptop,Laptops,2025-11-17,74244.29,0.0
+P010,Gaming Laptop,Laptops,2025-11-18,75688.04,0.0
+P010,Gaming Laptop,Laptops,2025-11-19,74895.54,0.0
+P010,Gaming Laptop,Laptops,2025-11-20,73931.36,0.0
+P010,Gaming Laptop,Laptops,2025-11-21,74604.69,0.0
+P010,Gaming Laptop,Laptops,2025-11-22,73313.14,0.0
+P010,Gaming Laptop,Laptops,2025-11-23,74659.09,0.0
+P010,Gaming Laptop,Laptops,2025-11-24,66254.45,10.79
+P010,Gaming Laptop,Laptops,2025-11-25,75370.16,0.0
+P010,Gaming Laptop,Laptops,2025-11-26,62198.76,14.98
+P010,Gaming Laptop,Laptops,2025-11-27,75657.85,0.0
+P010,Gaming Laptop,Laptops,2025-11-28,74218.97,0.0
+P010,Gaming Laptop,Laptops,2025-11-29,74612.12,0.0
+P010,Gaming Laptop,Laptops,2025-11-30,73640.34,0.0
+P010,Gaming Laptop,Laptops,2025-12-01,73741.39,0.0
+P010,Gaming Laptop,Laptops,2025-12-02,73589.09,0.0
+P010,Gaming Laptop,Laptops,2025-12-03,74577.53,0.0
+P010,Gaming Laptop,Laptops,2025-12-04,75544.54,0.0
+P010,Gaming Laptop,Laptops,2025-12-05,75746.23,0.0
+P010,Gaming Laptop,Laptops,2025-12-06,74799.79,0.0
+P010,Gaming Laptop,Laptops,2025-12-07,74846.92,0.0
+P010,Gaming Laptop,Laptops,2025-12-08,74514.75,0.0
+P010,Gaming Laptop,Laptops,2025-12-09,74185.15,0.0
+P010,Gaming Laptop,Laptops,2025-12-10,74426.33,0.0
+P010,Gaming Laptop,Laptops,2025-12-11,75034.7,0.0
+P010,Gaming Laptop,Laptops,2025-12-12,73972.71,0.0
+P010,Gaming Laptop,Laptops,2025-12-13,74488.24,0.0
+P010,Gaming Laptop,Laptops,2025-12-14,73829.79,0.0
+P010,Gaming Laptop,Laptops,2025-12-15,75101.79,0.0
+P010,Gaming Laptop,Laptops,2025-12-16,74788.52,0.0
+P010,Gaming Laptop,Laptops,2025-12-17,76653.22,0.0
+P010,Gaming Laptop,Laptops,2025-12-18,74009.02,0.0
+P010,Gaming Laptop,Laptops,2025-12-19,75035.65,0.0
+P010,Gaming Laptop,Laptops,2025-12-20,74787.02,0.0
+P010,Gaming Laptop,Laptops,2025-12-21,76265.2,0.0
+P010,Gaming Laptop,Laptops,2025-12-22,74653.11,0.0
+P010,Gaming Laptop,Laptops,2025-12-23,75869.46,0.0
+P010,Gaming Laptop,Laptops,2025-12-24,74366.65,0.0
+P010,Gaming Laptop,Laptops,2025-12-25,75948.06,0.0
+P010,Gaming Laptop,Laptops,2025-12-26,69972.71,5.34
+P010,Gaming Laptop,Laptops,2025-12-27,75041.5,0.0
+P010,Gaming Laptop,Laptops,2025-12-28,75607.13,0.0
+P010,Gaming Laptop,Laptops,2025-12-29,77572.91,0.0
+P010,Gaming Laptop,Laptops,2025-12-30,76563.12,0.0
+P010,Gaming Laptop,Laptops,2025-12-31,74080.61,0.0
