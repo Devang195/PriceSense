@@ -1,12 +1,10 @@
-
-from pathlib import Path
-from datetime import date
-import re
-import time
-
-import requests
-import pandas as pd
 from bs4 import BeautifulSoup
+from datetime import date
+import pandas as pd
+from pathlib import Path
+import re
+import requests
+import time
 
 
 # Paths are based on this script's location
