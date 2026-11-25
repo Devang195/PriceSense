@@ -1,0 +1,352 @@
+[
+  {
+    "product_id": "P001",
+    "product_name": "Samsung Galaxy S24 FE 128GB",
+    "category": "Smartphones",
+    "base_price": 44999,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P002",
+    "product_name": "Apple iPhone 15 128GB",
+    "category": "Smartphones",
+    "base_price": 59900,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P003",
+    "product_name": "OnePlus 13R 256GB",
+    "category": "Smartphones",
+    "base_price": 42999,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P011",
+    "product_name": "HP Pavilion 15 Ryzen 5 Laptop",
+    "category": "Laptops",
+    "base_price": 58990,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P012",
+    "product_name": "Dell Inspiron 14 Intel Core i5",
+    "category": "Laptops",
+    "base_price": 64990,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P013",
+    "product_name": "Lenovo IdeaPad Slim 5 OLED",
+    "category": "Laptops",
+    "base_price": 72990,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P021",
+    "product_name": "Samsung 990 EVO 1TB NVMe SSD",
+    "category": "Computer Components",
+    "base_price": 8999,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P022",
+    "product_name": "WD Black SN770 1TB NVMe SSD",
+    "category": "Computer Components",
+    "base_price": 7499,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P023",
+    "product_name": "Kingston Fury 16GB DDR5 RAM",
+    "category": "Computer Components",
+    "base_price": 5299,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P025",
+    "product_name": "Logitech G502 Hero Gaming Mouse",
+    "category": "Computer Accessories",
+    "base_price": 3995,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P026",
+    "product_name": "Razer DeathAdder Essential Mouse",
+    "category": "Computer Accessories",
+    "base_price": 1299,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P027",
+    "product_name": "Logitech K380 Bluetooth Keyboard",
+    "category": "Computer Accessories",
+    "base_price": 2995,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P029",
+    "product_name": "Dell 27-inch S2721HN Monitor",
+    "category": "Monitors",
+    "base_price": 14999,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P030",
+    "product_name": "LG UltraGear 24GN650 24-inch Monitor",
+    "category": "Monitors",
+    "base_price": 13999,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P031",
+    "product_name": "Samsung 27-inch Odyssey G5 Monitor",
+    "category": "Monitors",
+    "base_price": 22999,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P033",
+    "product_name": "Sony WH-1000XM5 Headphones",
+    "category": "Audio",
+    "base_price": 29990,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P034",
+    "product_name": "boAt Rockerz 550 Headphones",
+    "category": "Audio",
+    "base_price": 1999,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P035",
+    "product_name": "JBL Tune 770NC Headphones",
+    "category": "Audio",
+    "base_price": 5999,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P041",
+    "product_name": "Canon EOS R50 Mirrorless Camera",
+    "category": "Cameras",
+    "base_price": 69995,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P042",
+    "product_name": "Sony Alpha ZV-E10 Camera",
+    "category": "Cameras",
+    "base_price": 59990,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P043",
+    "product_name": "GoPro HERO12 Black",
+    "category": "Cameras",
+    "base_price": 39990,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P045",
+    "product_name": "Apple iPad 10th Generation 64GB",
+    "category": "Tablets",
+    "base_price": 34900,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P046",
+    "product_name": "Samsung Galaxy Tab S9 FE",
+    "category": "Tablets",
+    "base_price": 32999,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P047",
+    "product_name": "Xiaomi Pad 6 256GB",
+    "category": "Tablets",
+    "base_price": 28999,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P049",
+    "product_name": "Sony PlayStation 5 Slim Disc Edition",
+    "category": "Gaming",
+    "base_price": 54990,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P050",
+    "product_name": "Microsoft Xbox Series S 512GB",
+    "category": "Gaming",
+    "base_price": 34990,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P053",
+    "product_name": "LG 1.5 Ton 5-Star Split AC",
+    "category": "Home Appliances",
+    "base_price": 42990,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P054",
+    "product_name": "Daikin 1.5 Ton 5-Star Inverter AC",
+    "category": "Home Appliances",
+    "base_price": 48990,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P059",
+    "product_name": "Philips Air Fryer HD9200",
+    "category": "Kitchen Appliances",
+    "base_price": 7995,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P060",
+    "product_name": "Prestige Iris 750W Mixer Grinder",
+    "category": "Kitchen Appliances",
+    "base_price": 3499,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P063",
+    "product_name": "Philips OneBlade Face Trimmer QP2724",
+    "category": "Personal Care",
+    "base_price": 1699,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P064",
+    "product_name": "Braun Series 5 Electric Shaver",
+    "category": "Personal Care",
+    "base_price": 8999,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P067",
+    "product_name": "Milton Thermosteel Flip Lid Flask 1L",
+    "category": "Home & Kitchen",
+    "base_price": 1199,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P068",
+    "product_name": "Pigeon by Stovekraft Stainless Steel Pressure Cooker 5L",
+    "category": "Home & Kitchen",
+    "base_price": 1899,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P072",
+    "product_name": "IKEA LACK Coffee Table",
+    "category": "Furniture",
+    "base_price": 1990,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P073",
+    "product_name": "Wakefit Engineered Wood Study Table",
+    "category": "Furniture",
+    "base_price": 4999,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P076",
+    "product_name": "Nike Revolution 7 Running Shoes",
+    "category": "Footwear",
+    "base_price": 3695,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P077",
+    "product_name": "Adidas Runfalcon 3.0 Shoes",
+    "category": "Footwear",
+    "base_price": 3999,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P081",
+    "product_name": "Levi's 511 Slim Fit Men's Jeans",
+    "category": "Apparel",
+    "base_price": 2999,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P082",
+    "product_name": "Puma Men's Cotton T-Shirt",
+    "category": "Apparel",
+    "base_price": 999,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P084",
+    "product_name": "Wildcraft 45L Rucksack",
+    "category": "Travel",
+    "base_price": 2999,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P085",
+    "product_name": "American Tourister Liftoff  cabin trolley",
+    "category": "Travel",
+    "base_price": 4499,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P087",
+    "product_name": "Fossil Gen 6 Smartwatch",
+    "category": "Wearables",
+    "base_price": 14995,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P088",
+    "product_name": "Samsung Galaxy Watch 6 44mm",
+    "category": "Wearables",
+    "base_price": 22999,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P091",
+    "product_name": "Kindle Paperwhite 16GB",
+    "category": "E-readers",
+    "base_price": 14999,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P093",
+    "product_name": "TP-Link Archer AX55 Wi-Fi 6 Router",
+    "category": "Networking",
+    "base_price": 6999,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P094",
+    "product_name": "ASUS RT-AX57 AX3000 Router",
+    "category": "Networking",
+    "base_price": 8999,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P095",
+    "product_name": "Anker 737 Power Bank 24000mAh",
+    "category": "Accessories",
+    "base_price": 11999,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P096",
+    "product_name": "Ambrane 20000mAh Power Bank",
+    "category": "Accessories",
+    "base_price": 1799,
+    "currency": "INR"
+  },
+  {
+    "product_id": "P100",
+    "product_name": "Epson EcoTank L3250 Wi-Fi Printer",
+    "category": "Printers",
+    "base_price": 13999,
+    "currency": "INR"
+  }
+]

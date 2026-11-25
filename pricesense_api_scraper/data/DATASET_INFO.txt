@@ -1,0 +1,5 @@
+Synthetic simulation, not verified retailer history. Product names are catalogue labels, not assertions about availability on historical dates.
+50 products, 22 categories, 54800 daily records.
+Period: 2023-11-15 through 2026-11-14 (inclusive).
+Seed: 27182. Recreate with generate_seasonal_history.py.
+Sale dates, participation, discount depths and recovery vary across years and products.

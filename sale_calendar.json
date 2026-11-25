@@ -1,0 +1,47 @@
+{
+  "description": "Recurring approximate sale windows with uncertain start dates and durations; not confirmed retailer promotions.",
+  "windows": [
+    {
+      "name": "January sale season",
+      "start": "01-24",
+      "days": 5,
+      "jitter_days": 4
+    },
+    {
+      "name": "Spring sale season",
+      "start": "03-20",
+      "days": 5,
+      "jitter_days": 4
+    },
+    {
+      "name": "Summer sale season",
+      "start": "05-01",
+      "days": 5,
+      "jitter_days": 4
+    },
+    {
+      "name": "August sale season",
+      "start": "08-12",
+      "days": 5,
+      "jitter_days": 4
+    },
+    {
+      "name": "Autumn festive sale season",
+      "start": "10-10",
+      "days": 7,
+      "jitter_days": 4
+    },
+    {
+      "name": "Late-November sale season",
+      "start": "11-25",
+      "days": 6,
+      "jitter_days": 4
+    },
+    {
+      "name": "Year-end sale season",
+      "start": "12-24",
+      "days": 7,
+      "jitter_days": 4
+    }
+  ]
+}
